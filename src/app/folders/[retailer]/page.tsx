@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { retailers, getRetailerBySlug } from "@/lib/retailers";
 import { getCurrentFolder } from "@/lib/folders";
 import { FolderViewer } from "@/components/FolderViewer";
+import { getSiteBaseUrl, getSiteConfig, getSiteTitle } from "@/lib/site";
 import {
 	JsonLd,
 	createRetailerFolderJsonLd,
@@ -29,6 +30,9 @@ export async function generateMetadata({
 	const retailer = getRetailerBySlug(slug);
 	if (!retailer) return {};
 
+	const baseUrl = getSiteBaseUrl();
+	const pageUrl = `${baseUrl}/folders/${slug}`;
+
 	return {
 		title: `${retailer.name} folder deze week`,
 		description: retailer.description,
@@ -36,8 +40,23 @@ export async function generateMetadata({
 			canonical: `/folders/${slug}`,
 		},
 		openGraph: {
-			title: `${retailer.name} folder deze week | SuperPromo België`,
+			title: `${retailer.name} folder deze week | ${getSiteTitle()}`,
 			description: retailer.description,
+			url: pageUrl,
+			images: [
+				{
+					url: `${baseUrl}/icon.svg`,
+					width: 512,
+					height: 512,
+					alt: getSiteTitle(),
+				},
+			],
+		},
+		twitter: {
+			card: "summary",
+			title: `${retailer.name} folder deze week | ${getSiteTitle()}`,
+			description: retailer.description,
+			images: [`${baseUrl}/icon.svg`],
 		},
 	};
 }
@@ -52,6 +71,7 @@ export default async function RetailerPage({ params }: PageProps) {
 
 	const currentFolder = getCurrentFolder(slug);
 	const outboundUrl = `/out/${slug}`;
+	const site = getSiteConfig();
 
 	const isSvgLogo = retailer.logo.toLowerCase().endsWith(".svg");
 
@@ -95,7 +115,7 @@ export default async function RetailerPage({ params }: PageProps) {
 			: []),
 		{
 			question: `Waar kan ik de ${retailer.name} folder online bekijken?`,
-			answer: `Op SuperPromo België kun je altijd de actuele ${retailer.name} folder gratis bekijken. We updaten de folder elke ${seo.folderDay} zodat je altijd de nieuwste promoties vindt.`,
+			answer: `Op ${getSiteTitle()} kun je altijd de actuele ${retailer.name} folder gratis bekijken. We updaten de folder elke ${seo.folderDay} zodat je altijd de nieuwste promoties vindt.`,
 		},
 	];
 
@@ -112,11 +132,11 @@ export default async function RetailerPage({ params }: PageProps) {
 			<JsonLd data={createFAQJsonLd(faqItems)} />
 			<JsonLd
 				data={createBreadcrumbJsonLd([
-					{ name: "Home", url: "https://www.superpromobelgie.be" },
-					{ name: "Folders", url: "https://www.superpromobelgie.be/folders" },
+					{ name: "Home", url: getSiteBaseUrl() },
+					{ name: "Folders", url: `${getSiteBaseUrl()}/folders` },
 					{
 						name: `${retailer.name} folder`,
-						url: `https://www.superpromobelgie.be/folders/${slug}`,
+						url: `${getSiteBaseUrl()}/folders/${slug}`,
 					},
 				])}
 			/>
@@ -190,7 +210,7 @@ export default async function RetailerPage({ params }: PageProps) {
 					Bezoek {retailer.name}
 				</a>
 				<a
-					href="https://www.facebook.com/groups/superpromobelgie"
+					href={site.facebookGroupUrl ?? "https://www.facebook.com/"}
 					target="_blank"
 					rel="noopener noreferrer"
 					className="inline-flex items-center justify-center gap-2 bg-blue-700 hover:bg-blue-800 text-white font-medium px-6 py-3 rounded-lg transition"
