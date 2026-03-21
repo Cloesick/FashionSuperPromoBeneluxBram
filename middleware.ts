@@ -2,49 +2,57 @@ import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
 export function middleware(request: NextRequest) {
-  const host = request.headers.get("host") ?? "";
-  const pathname = request.nextUrl.pathname;
+	const host = request.headers.get("host") ?? "";
+	const pathname = request.nextUrl.pathname;
 
-  if (host === "superpromobelgie.be") {
-    const url = request.nextUrl.clone();
-    url.host = "www.superpromobelgie.be";
-    url.protocol = "https:";
-    return NextResponse.redirect(url, 301);
-  }
+	const configuredDomain = process.env.NEXT_PUBLIC_SITE_DOMAIN;
+	const wwwDomain = configuredDomain?.startsWith("www.")
+		? configuredDomain
+		: undefined;
+	const apexDomain = wwwDomain ? wwwDomain.slice("www.".length) : undefined;
 
-  if (pathname.startsWith("/admin")) {
-    const user = process.env.ADMIN_USER;
-    const pass = process.env.ADMIN_PASS;
+	if (apexDomain && host === apexDomain) {
+		const url = request.nextUrl.clone();
+		url.host = wwwDomain!;
+		url.protocol = "https:";
+		return NextResponse.redirect(url, 301);
+	}
 
-    if (!user || !pass) {
-      return new NextResponse("Not found", { status: 404 });
-    }
+	if (pathname.startsWith("/admin")) {
+		const user = process.env.ADMIN_USER;
+		const pass = process.env.ADMIN_PASS;
 
-    const auth = request.headers.get("authorization");
-    const token = auth?.startsWith("Basic ") ? auth.slice("Basic ".length) : null;
+		if (!user || !pass) {
+			return new NextResponse("Not found", { status: 404 });
+		}
 
-    let decoded = "";
-    if (token) {
-      try {
-        decoded = atob(token);
-      } catch {
-        decoded = "";
-      }
-    }
+		const auth = request.headers.get("authorization");
+		const token = auth?.startsWith("Basic ")
+			? auth.slice("Basic ".length)
+			: null;
 
-    if (decoded !== `${user}:${pass}`) {
-      return new NextResponse("Unauthorized", {
-        status: 401,
-        headers: {
-          "WWW-Authenticate": 'Basic realm="Admin"',
-        },
-      });
-    }
-  }
+		let decoded = "";
+		if (token) {
+			try {
+				decoded = atob(token);
+			} catch {
+				decoded = "";
+			}
+		}
 
-  return NextResponse.next();
+		if (decoded !== `${user}:${pass}`) {
+			return new NextResponse("Unauthorized", {
+				status: 401,
+				headers: {
+					"WWW-Authenticate": 'Basic realm="Admin"',
+				},
+			});
+		}
+	}
+
+	return NextResponse.next();
 }
 
 export const config = {
-  matcher: ["/((?!_next|.*\\..*).*)"],
+	matcher: ["/((?!_next|.*\\..*).*)"],
 };
