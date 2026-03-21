@@ -1,11 +1,12 @@
 import { MetadataRoute } from "next";
+import { getSiteBaseUrl } from "@/lib/site";
 
 export default function robots(): MetadataRoute.Robots {
-  return {
-    rules: {
-      userAgent: "*",
-      allow: "/",
-    },
-    sitemap: "https://www.superpromobelgie.be/sitemap.xml",
-  };
+	return {
+		rules: {
+			userAgent: "*",
+			allow: "/",
+		},
+		sitemap: `${getSiteBaseUrl()}/sitemap.xml`,
+	};
 }
