@@ -100,6 +100,65 @@ export const retailersBe: Retailer[] = [
 			uniqueSellingPoint: "Sterk aanbod sneakers en sportmerken.",
 		},
 	},
+	{
+		slug: "zara",
+		name: "Zara",
+		logo: "/retailers/placeholder.svg",
+		color: "#111827",
+		website: "https://www.zara.com/be",
+		description: "Bekijk Zara acties en seizoenssales op dames, heren en kids.",
+		category: "mode",
+		seo: {
+			folderDay: "seizoens",
+			folderDayDetail:
+				"Zara heeft vooral seizoenssales en tijdelijke acties. Bekijk de actuele deals.",
+			storeCount: "winkels en online in België",
+			pricePositioning: "Mode met seizoenssales.",
+			loyalty: "Account",
+			openingHours: "Openingstijden verschillen per vestiging.",
+			uniqueSellingPoint: "Trendy collecties met sterke seizoenssales.",
+		},
+	},
+	{
+		slug: "primark",
+		name: "Primark",
+		logo: "/retailers/placeholder.svg",
+		color: "#2563EB",
+		website: "https://www.primark.com",
+		description:
+			"Ontdek Primark deals en lage prijzen op fashion en accessoires.",
+		category: "mode",
+		seo: {
+			folderDay: "doorlopend",
+			folderDayDetail:
+				"Primark heeft doorlopend lage prijzen en tijdelijke acties. Bekijk de actuele aanbiedingen.",
+			storeCount: "winkels",
+			pricePositioning: "Budget fashion.",
+			loyalty: "Geen klassieke klantenkaart",
+			openingHours: "Openingstijden verschillen per vestiging.",
+			uniqueSellingPoint: "Zeer scherpe prijzen op fashion.",
+		},
+	},
+	{
+		slug: "uniqlo",
+		name: "UNIQLO",
+		logo: "/retailers/placeholder.svg",
+		color: "#DC2626",
+		website: "https://www.uniqlo.com",
+		description:
+			"Bekijk UNIQLO promoties op basics, outerwear en seizoensitems.",
+		category: "mode",
+		seo: {
+			folderDay: "doorlopend",
+			folderDayDetail:
+				"UNIQLO heeft doorlopend acties en tijdelijke promoties. Bekijk de nieuwste deals.",
+			storeCount: "winkels en online",
+			pricePositioning: "Basics met regelmatige promoties.",
+			loyalty: "Account",
+			openingHours: "Openingstijden verschillen per vestiging.",
+			uniqueSellingPoint: "Sterke basics en technische materialen.",
+		},
+	},
 ];
 
 export const nlBorderRetailers: Retailer[] = [];
