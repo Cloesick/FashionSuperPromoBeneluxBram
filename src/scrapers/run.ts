@@ -4,6 +4,8 @@ import { DelhaizeScraper } from "./delhaize";
 import { ColruytScraper } from "./colruyt";
 import { AldiScraper } from "./aldi";
 import { ActionScraper } from "./action";
+import { HmScraper } from "./hm";
+import { ZalandoScraper } from "./zalando";
 import { BaseScraper } from "./base";
 import { nlBorderRetailers, retailers } from "../lib/retailers";
 
@@ -14,6 +16,8 @@ const allScrapers: BaseScraper[] = [
 	new ColruytScraper(),
 	new AldiScraper(),
 	new ActionScraper(),
+	new HmScraper(),
+	new ZalandoScraper(),
 ];
 
 const allowedSlugs = new Set(
