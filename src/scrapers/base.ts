@@ -1,10 +1,11 @@
 import fs from "fs";
 import path from "path";
-import puppeteer, { Page, Browser } from "puppeteer";
+import puppeteer, { Page, Browser, HTTPRequest } from "puppeteer";
 import { Folder, Deal, ScrapedData, ContentSource } from "../lib/types";
 
 const DATA_DIR = path.join(process.cwd(), "data", "folders");
 const SCREENSHOT_DIR = path.join(process.cwd(), "public", "screenshots");
+const DEFAULT_PROFILE_DIR = path.join(process.cwd(), ".puppeteer_profile");
 
 const DEFAULT_USER_AGENT =
 	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
@@ -112,9 +113,14 @@ export abstract class BaseScraper {
 	async run(): Promise<void> {
 		this.log("Starting scrape...");
 
+		const headless = process.env.SCRAPER_HEADLESS === "false" ? false : true;
+		const userDataDir =
+			process.env.PUPPETEER_USER_DATA_DIR || DEFAULT_PROFILE_DIR;
+
 		const browser = await puppeteer.launch({
-			headless: true,
+			headless,
 			executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || undefined,
+			userDataDir,
 			args: ["--no-sandbox", "--disable-setuid-sandbox"],
 		});
 
@@ -122,6 +128,7 @@ export abstract class BaseScraper {
 			const page = await browser.newPage();
 			await page.setUserAgent(DEFAULT_USER_AGENT);
 			await page.setViewport({ width: 1440, height: 900 });
+			await this.setupRequestBlocking(page);
 
 			const intercepted = this.createInterceptedUrls();
 			this.setupNetworkInterception(page, intercepted);
@@ -141,7 +148,7 @@ export abstract class BaseScraper {
 			for (const url of this.config.folderUrls) {
 				this.log(`Navigating to ${url}`);
 				try {
-					await page.goto(url, { waitUntil: "networkidle2", timeout: 30000 });
+					await this.gotoWithRetry(page, url);
 				} catch (e) {
 					this.log(`Navigation failed for ${url}, trying next...`);
 					continue;
@@ -151,6 +158,8 @@ export abstract class BaseScraper {
 
 				// Step 0: Dismiss cookie consent
 				await this.dismissCookieConsent(page);
+				await this.dismissOverlays(page);
+				await this.throwIfCaptcha(page);
 
 				// Step 1: Follow folder-specific links iteratively (up to 3 levels)
 				//         Stop early if an embed is found at the current page.
@@ -182,15 +191,14 @@ export abstract class BaseScraper {
 
 					this.log(`Following folder link: ${folderLink}`);
 					try {
-						await page.goto(folderLink, {
-							waitUntil: "networkidle2",
-							timeout: 30000,
-						});
+						await this.gotoWithRetry(page, folderLink);
 					} catch {
 						this.log(`Navigation failed for folder link: ${folderLink}`);
 						break;
 					}
 					await this.dismissCookieConsent(page);
+					await this.dismissOverlays(page);
+					await this.throwIfCaptcha(page);
 					ctx.sourceUrls.push(folderLink);
 
 					if (isPatternMatch) {
@@ -324,11 +332,10 @@ export abstract class BaseScraper {
 				for (const dealUrl of this.config.dealUrls) {
 					this.log(`Scraping deals from ${dealUrl}`);
 					try {
-						await page.goto(dealUrl, {
-							waitUntil: "networkidle2",
-							timeout: 30000,
-						});
+						await this.gotoWithRetry(page, dealUrl);
 						await this.dismissCookieConsent(page);
+						await this.dismissOverlays(page);
+						await this.throwIfCaptcha(page);
 
 						const htmlDeals = await this.extractDealsFromHtml(ctx);
 						allDeals.push(...htmlDeals.deals);
@@ -447,6 +454,148 @@ export abstract class BaseScraper {
 				// Selector didn't match, try next
 			}
 		}
+	}
+
+	protected async dismissOverlays(page: Page): Promise<void> {
+		try {
+			await page.keyboard.press("Escape").catch(() => {});
+		} catch {
+			// ignore
+		}
+
+		const selectors = [
+			'button[aria-label*="close" i]',
+			'button[title*="close" i]',
+			'button[class*="close" i]',
+			'[aria-label*="close" i]',
+			'[data-testid*="close" i]',
+			'[class*="modal" i] button',
+			'[class*="overlay" i] button',
+			'[class*="popup" i] button',
+			"#close",
+			".close",
+			".modal-close",
+		];
+
+		for (const sel of selectors) {
+			try {
+				const el = await page.$(sel);
+				if (el) {
+					await el.click().catch(() => {});
+					await page.waitForNetworkIdle({ timeout: 1500 }).catch(() => {});
+				}
+			} catch {
+				// ignore
+			}
+		}
+
+		try {
+			await page.evaluate(function () {
+				const keywords = [
+					"cookie",
+					"consent",
+					"newsletter",
+					"inschrijven",
+					"popup",
+					"modal",
+				];
+
+				const candidates = Array.from(
+					document.querySelectorAll("div, section, aside"),
+				);
+				for (let i = 0; i < candidates.length; i++) {
+					const el = candidates[i] as HTMLElement;
+					const style = window.getComputedStyle(el);
+					const z = parseInt(style.zIndex || "0", 10);
+					const isFixed =
+						style.position === "fixed" || style.position === "sticky";
+					if (!isFixed) continue;
+					if (z < 1000) continue;
+
+					const txt = (el.innerText || "").toLowerCase();
+					if (!txt) continue;
+					if (keywords.some((k) => txt.includes(k))) {
+						el.style.display = "none";
+					}
+				}
+			});
+		} catch {
+			// ignore
+		}
+	}
+
+	protected async throwIfCaptcha(page: Page): Promise<void> {
+		const text = await page
+			.evaluate(function () {
+				return (document.body?.innerText || "").toLowerCase();
+			})
+			.catch(() => "");
+
+		if (
+			text.includes("captcha") ||
+			text.includes("recaptcha") ||
+			text.includes("are you human") ||
+			text.includes("verify you are")
+		) {
+			throw new Error(
+				"Captcha detected. Rerun with SCRAPER_HEADLESS=false and a persistent profile (PUPPETEER_USER_DATA_DIR) to complete verification once.",
+			);
+		}
+	}
+
+	protected async gotoWithRetry(page: Page, url: string): Promise<void> {
+		const attempts = 3;
+		for (let i = 0; i < attempts; i++) {
+			try {
+				await this.sleep(500, 1200);
+				await page.goto(url, { waitUntil: "networkidle2", timeout: 45000 });
+				await page.waitForNetworkIdle({ timeout: 5000 }).catch(() => {});
+				return;
+			} catch (e) {
+				if (i === attempts - 1) throw e;
+				await this.sleep(1200, 2500);
+			}
+		}
+	}
+
+	protected async setupRequestBlocking(page: Page): Promise<void> {
+		const blocked = [
+			"doubleclick.net",
+			"googlesyndication.com",
+			"google-analytics.com",
+			"googletagmanager.com",
+			"facebook.net",
+			"facebook.com",
+			"hotjar.com",
+			"optimizely.com",
+			"segment.com",
+			"datadoghq.com",
+			"newrelic.com",
+			"bat.bing.com",
+		];
+
+		await page.setRequestInterception(true);
+		page.on("request", (req: HTTPRequest) => {
+			try {
+				const url = req.url();
+				if (blocked.some((d) => url.includes(d))) {
+					void req.abort();
+					return;
+				}
+				void req.continue();
+			} catch {
+				try {
+					void req.continue();
+				} catch {
+					// ignore
+				}
+			}
+		});
+	}
+
+	protected async sleep(minMs: number, maxMs: number): Promise<void> {
+		const ms = Math.floor(minMs + Math.random() * (maxMs - minMs + 1));
+		await new Promise((r) => setTimeout(r, ms));
 	}
 
 	// ---- Step 1: Find folder-specific link ---------------------------------
