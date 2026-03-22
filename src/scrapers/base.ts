@@ -535,17 +535,6 @@ export abstract class BaseScraper {
 					return src;
 				}
 			}
-
-			// Fallback: any non-tracking iframe with a real URL
-			for (const iframe of iframes) {
-				const src = (iframe as HTMLIFrameElement).src;
-				if (
-					src.startsWith("http") &&
-					!trackingKeywords.some((kw) => src.includes(kw))
-				) {
-					return src;
-				}
-			}
 			return null;
 		});
 
