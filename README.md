@@ -1,6 +1,6 @@
-# SuperPromo België
+# SuperPromo
 
-Belgian deals & folder aggregation site. Scrapes weekly promotional folders from major Belgian supermarkets and displays them with full SEO optimization.
+Deals & folder aggregation site. Collects weekly promotional folders from retailers and displays them with full SEO optimization.
 
 ## Stack
 
@@ -33,7 +33,7 @@ Scrape a single retailer:
 npm run scrape -- albert-heijn
 ```
 
-Available retailers: `albert-heijn`, `lidl`, `delhaize`, `colruyt`
+Available retailers: see `src/lib/retailers.ts`
 
 Scraped data is stored in `data/folders/<retailer>.json`.
 
