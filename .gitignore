@@ -43,3 +43,5 @@ yarn-error.log*
 next-env.d.ts
 
 # scraped data
+ /data/folders/*.json
+ /public/screenshots/*.png
