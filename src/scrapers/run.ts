@@ -1,6 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
 import { allowedSlugs, scrapers } from "./scrapers";
+import {
+	probeEmbedLiveness,
+	validateScrapedData,
+	generateHealthManifest,
+	type ValidationIssue,
+	type ProbeResult,
+	type HealthManifest,
+} from "./run-helpers";
 
 // ---------------------------------------------------------------------------
 // Configuration
@@ -337,11 +345,54 @@ async function main() {
 		console.log("");
 	}
 
+	// --- Post-scrape: validate data & probe embed liveness ---
+	console.log("\n=== Post-scrape checks ===");
+	const validationMap = new Map<string, ValidationIssue[]>();
+	const probeMap = new Map<string, ProbeResult[]>();
+
+	for (const r of results) {
+		const issues = validateScrapedData(DATA_DIR, r.slug);
+		validationMap.set(r.slug, issues);
+		const errors = issues.filter((i) => i.severity === "error");
+		const warnings = issues.filter((i) => i.severity === "warning");
+		if (errors.length > 0) {
+			console.error(
+				`  [${r.slug}] \u2717 ${errors.length} validation error(s): ${errors.map((e) => e.message).join("; ")}`,
+			);
+		}
+		if (warnings.length > 0) {
+			console.warn(
+				`  [${r.slug}] \u26a0 ${warnings.length} validation warning(s): ${warnings.map((w) => w.message).join("; ")}`,
+			);
+		}
+
+		if (r.status !== "missing") {
+			const probes = await probeEmbedLiveness(DATA_DIR, r.slug);
+			probeMap.set(r.slug, probes);
+			const dead = probes.filter((p) => !p.live);
+			if (dead.length > 0) {
+				console.warn(
+					`  [${r.slug}] \u26a0 ${dead.length} dead URL(s) stripped: ${dead.map((d) => `${d.url} (${d.status})`).join("; ")}`,
+				);
+			}
+		}
+	}
+
+	const manifest = generateHealthManifest(
+		DATA_DIR,
+		results,
+		validationMap,
+		probeMap,
+	);
+	console.log(
+		`\nHealth manifest written (${manifest.summary.total} retailers)`,
+	);
+
 	// --- Summary ---
-	printSummary(results);
+	printSummary(results, manifest);
 }
 
-function printSummary(results: ScraperResult[]) {
+function printSummary(results: ScraperResult[], manifest: HealthManifest) {
 	const icons: Record<Status, string> = {
 		fresh: "✓",
 		retry_success: "✓ (retry)",
@@ -358,28 +409,29 @@ function printSummary(results: ScraperResult[]) {
 		console.log(`  ${icons[r.status]} ${r.name}${age}${err}`);
 	}
 
-	const fresh = results.filter(
-		(r) => r.status === "fresh" || r.status === "retry_success",
-	);
-	const fallbacks = results.filter(
-		(r) => r.status === "fallback_local" || r.status === "fallback_repo",
-	);
-	const stale = results.filter((r) => r.status === "stale");
-	const missing = results.filter((r) => r.status === "missing");
+	const { summary } = manifest;
 
 	console.log("");
 	console.log(
-		`  Fresh: ${fresh.length} | Fallback: ${fallbacks.length} | Stale: ${stale.length} | Missing: ${missing.length}`,
+		`  Fresh: ${summary.fresh} | Fallback: ${summary.fallback} | Stale: ${summary.stale} | Missing: ${summary.missing}`,
 	);
+	if (summary.withDeadUrls > 0) {
+		console.warn(
+			`  ⚠ Dead embed/PDF URLs stripped: ${summary.withDeadUrls} retailer(s)`,
+		);
+	}
+	if (summary.withErrors > 0) {
+		console.error(`  ✗ Validation errors: ${summary.withErrors} retailer(s)`);
+	}
 
-	if (missing.length > 0) {
-		console.error(`\n${missing.length} retailer(s) have NO data at all!`);
+	if (summary.missing > 0) {
+		console.error(`\n${summary.missing} retailer(s) have NO data at all!`);
 		process.exit(1);
 	}
 
-	if (stale.length > 0) {
+	if (summary.stale > 0) {
 		console.warn(
-			`\n⚠ ${stale.length} retailer(s) have stale data (>${STALE_THRESHOLD_HOURS}h). Consider investigating.`,
+			`\n⚠ ${summary.stale} retailer(s) have stale data (>${STALE_THRESHOLD_HOURS}h). Consider investigating.`,
 		);
 	}
 }

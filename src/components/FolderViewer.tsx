@@ -35,6 +35,8 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 			return null;
 		}
 	})();
+
+	// Block embeds that are known to reject iframes or are offline (expired)
 	const isEmbedBlocked =
 		!!embedHost &&
 		(retailer.slug === "delhaize" ||
@@ -45,6 +47,11 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 			embedHost === "view.publitas.com" ||
 			embedHost.endsWith(".publitas.com") ||
 			(isExpired && /publitas\.com|folderz\.be/i.test(folder.embedUrl!)));
+
+	// Detect stale data — warn users when scraped data is old
+	const [dataAgeHours, setDataAgeHours] = useState<number | null>(null);
+	const isStale = dataAgeHours !== null && dataAgeHours > 72; // > 3 days
+
 	const [isIOS, setIsIOS] = useState(false);
 
 	const [trackingEnabled, setTrackingEnabled] = useState(false);
@@ -71,6 +78,16 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 		const idx = Math.max(0, Math.min(folder.pages.length - 1, n - 1));
 		setCurrentPage(idx);
 	}, [pathname, mode, folder.pages.length]);
+
+	useEffect(() => {
+		try {
+			const age =
+				(Date.now() - new Date(folder.scrapedAt).getTime()) / 3_600_000;
+			setDataAgeHours(age);
+		} catch {
+			setDataAgeHours(null);
+		}
+	}, [folder.scrapedAt]);
 
 	useEffect(() => {
 		const hasConsent = () => {
@@ -201,6 +218,29 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 				</div>
 			</div>
 
+			{isStale && !isExpired && (
+				<div className="flex items-center gap-2 mb-4 px-3 py-2 bg-blue-50 border border-blue-200 rounded-lg text-sm text-blue-700">
+					<Calendar className="w-4 h-4 shrink-0" />
+					<span>
+						Laatst bijgewerkt{" "}
+						{dataAgeHours !== null && dataAgeHours >= 24
+							? `${Math.round(dataAgeHours / 24)} dagen geleden`
+							: "meer dan 3 dagen geleden"}
+						.{" "}
+						{retailer.website && (
+							<a
+								href={retailer.website}
+								target="_blank"
+								rel="noopener noreferrer"
+								className="font-medium underline hover:text-blue-800"
+							>
+								Bekijk {retailer.name} voor de nieuwste aanbiedingen
+							</a>
+						)}
+					</span>
+				</div>
+			)}
+
 			{/* Primary: Embedded folder viewer (iframe) */}
 			{mode === "embed" && hasEmbed && !isEmbedBlocked ? (
 				<div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
@@ -226,11 +266,11 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 						{isFullscreen && (
 							<button
 								onClick={() => setIsFullscreen(false)}
-								className="absolute z-10 bg-white/90 hover:bg-white border border-gray-200 rounded-lg px-3 py-2 text-sm font-medium text-gray-700 shadow-lg transition"
 								style={{
 									top: "calc(env(safe-area-inset-top) + 1rem)",
 									right: "calc(env(safe-area-inset-right) + 1rem)",
 								}}
+								className="absolute z-10 bg-white/90 hover:bg-white border border-gray-200 rounded-lg px-3 py-2 text-sm font-medium text-gray-700 shadow-lg transition"
 							>
 								Sluiten
 							</button>
@@ -330,13 +370,14 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 			{mode === "pages" && folder.pages.length > 1 && (
 				<div className="mt-4 flex gap-2 overflow-x-auto pb-2">
 					{folder.pages.map((page, i) => (
-						<Link
+						<button
 							key={page.pageNumber}
-							href={
-								i === 0
-									? `/folders/${retailer.slug}`
-									: `/folders/${retailer.slug}/p/${i + 1}`
-							}
+							onClick={() => {
+								window.location.href =
+									i === 0
+										? `/folders/${retailer.slug}`
+										: `/folders/${retailer.slug}/p/${i + 1}`;
+							}}
 							className={`shrink-0 w-16 h-22 rounded-md overflow-hidden border-2 transition ${
 								i === currentPage
 									? "border-blue-600 shadow-sm"
@@ -350,7 +391,7 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 								height={88}
 								className="object-cover w-full h-full"
 							/>
-						</Link>
+						</button>
 					))}
 				</div>
 			)}
