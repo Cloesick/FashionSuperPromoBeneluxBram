@@ -5,9 +5,19 @@ export class ZalandoScraper extends BaseScraper {
 		slug: "zalando",
 		name: "Zalando",
 		folderTitle: "Zalando outlet",
-		folderUrls: ["https://www.zalando.be/promo/", "https://www.zalando.be/promo-dames/"],
-		dealUrls: ["https://www.zalando.be/promo/"],
-		cookieSelectors: ["#onetrust-accept-btn-handler"],
+		folderUrls: [
+			"https://www.zalando.be/promo/",
+			"https://www.zalando.be/promo-dames/",
+			"https://www.zalando.be/promo-heren/",
+		],
+		dealUrls: [
+			"https://www.zalando.be/promo/",
+			"https://www.zalando.be/promo-dames/",
+		],
+		cookieSelectors: [
+			"#onetrust-accept-btn-handler",
+			'button[class*="accept"]',
+		],
 		priceSelectors: {
 			card: "article, [data-testid*='product'], [class*='product']",
 			name: "h2, h3, [data-testid*='product-name'], [class*='product']",
