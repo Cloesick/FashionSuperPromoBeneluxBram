@@ -312,6 +312,7 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 							fill
 							className="object-contain"
 							priority={currentPage === 0}
+							unoptimized
 						/>
 					</div>
 
@@ -394,6 +395,7 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 								width={64}
 								height={88}
 								className="object-cover w-full h-full"
+								unoptimized
 							/>
 						</button>
 					))}
