@@ -52,8 +52,6 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 	const [dataAgeHours, setDataAgeHours] = useState<number | null>(null);
 	const isStale = dataAgeHours !== null && dataAgeHours > 72; // > 3 days
 
-	const [isIOS, setIsIOS] = useState(false);
-
 	const [trackingEnabled, setTrackingEnabled] = useState(false);
 	const sentRef = useRef<Set<string>>(new Set());
 
@@ -186,12 +184,6 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 		});
 	}, [trackingEnabled, mode, currentPage, retailer.slug]);
 
-	useEffect(() => {
-		const ua = navigator.userAgent;
-		const detectedIOS = /iP(hone|od|ad)/.test(ua);
-		setIsIOS(detectedIOS);
-	}, []);
-
 	const validFrom = new Date(folder.validFrom).toLocaleDateString("nl-BE", {
 		day: "numeric",
 		month: "long",
@@ -247,20 +239,32 @@ export function FolderViewer({ folder, retailer }: FolderViewerProps) {
 					<div
 						className={`relative ${isFullscreen ? "fixed inset-0 z-50 bg-white" : ""}`}
 					>
-						{isIOS && !hasPdf && !hasPages && !isFullscreen && (
+						{!isFullscreen && (
 							<div className="sm:hidden px-6 py-4 border-b border-gray-100 bg-gray-50">
 								<p className="text-sm text-gray-600 mb-3">
-									Op iPhone wordt de online folder soms geblokkeerd in deze
+									Op mobiel wordt de online folder soms geblokkeerd in deze
 									pagina.
 								</p>
-								<a
-									href={folder.embedUrl}
-									target="_blank"
-									rel="noopener noreferrer"
-									className="inline-flex items-center gap-1.5 text-sm font-medium text-blue-700 hover:text-blue-800 transition"
-								>
-									Open in nieuw tabblad
-								</a>
+								<div className="flex flex-wrap gap-3">
+									<a
+										href={folder.embedUrl}
+										target="_blank"
+										rel="noopener noreferrer"
+										className="inline-flex items-center gap-1.5 text-sm font-medium text-blue-700 hover:text-blue-800 transition"
+									>
+										Open in nieuw tabblad
+									</a>
+									{hasPdf && (
+										<a
+											href={folder.pdfUrl}
+											target="_blank"
+											rel="noopener noreferrer"
+											className="inline-flex items-center gap-1.5 text-sm font-medium text-blue-700 hover:text-blue-800 transition"
+										>
+											Download PDF
+										</a>
+									)}
+								</div>
 							</div>
 						)}
 						{isFullscreen && (
