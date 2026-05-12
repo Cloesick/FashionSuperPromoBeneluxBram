@@ -1,10 +1,13 @@
 import fs from "fs";
 import path from "path";
+import { pathToFileURL } from "url";
 import puppeteer, { Page, Browser, HTTPRequest } from "puppeteer";
 import { Folder, Deal, ScrapedData, ContentSource } from "../lib/types";
+import { syncDealsToDb } from "../lib/productsDb";
 
 const DATA_DIR = path.join(process.cwd(), "data", "folders");
 const SCREENSHOT_DIR = path.join(process.cwd(), "public", "screenshots");
+const TMP_DIR = path.join(process.cwd(), "data", "tmp");
 const DEFAULT_PROFILE_DIR = path.join(process.cwd(), ".puppeteer_profile");
 
 const DEFAULT_USER_AGENT =
@@ -108,11 +111,12 @@ export abstract class BaseScraper {
 		return this.config.name;
 	}
 
-	// ---- Main entry point ---------------------------------------------------
-
-	async run(): Promise<void> {
-		this.log("Starting scrape...");
-
+	async probeFingerprint(): Promise<{
+		fingerprint: string;
+		embedUrl?: string;
+		pdfUrl?: string;
+		source: ContentSource;
+	}> {
 		const headless = process.env.SCRAPER_HEADLESS === "false" ? false : true;
 		const userDataDir =
 			process.env.PUPPETEER_USER_DATA_DIR || DEFAULT_PROFILE_DIR;
@@ -141,9 +145,132 @@ export abstract class BaseScraper {
 				methods: [],
 			};
 
+			const url = this.config.folderUrls[0];
+			if (!url) {
+				return { fingerprint: "no-folder-url", source: "unknown" };
+			}
+
+			await this.gotoWithRetry(page, url);
+			ctx.sourceUrls.push(url);
+			await this.dismissCookieConsent(page);
+			await this.dismissOverlays(page);
+			await this.throwIfCaptcha(page);
+
+			let embed: EmbedResult | null = null;
+			let patternMatchedUrl: string | null = null;
+
+			for (let depth = 0; depth < 3; depth++) {
+				embed = await this.findEmbed(ctx);
+				if (embed) break;
+				if (patternMatchedUrl) break;
+
+				const folderLink = await this.findFolderLink(page);
+				if (!folderLink) break;
+
+				const canonicalLink = folderLink.split("#")[0];
+				if (ctx.sourceUrls.some((u) => u.split("#")[0] === canonicalLink))
+					break;
+
+				const isPatternMatch = (this.config.folderLinkPatterns || []).some(
+					(p) => p.test(folderLink),
+				);
+
+				try {
+					await this.gotoWithRetry(page, folderLink);
+				} catch {
+					break;
+				}
+				await this.dismissCookieConsent(page);
+				await this.dismissOverlays(page);
+				await this.throwIfCaptcha(page);
+				ctx.sourceUrls.push(folderLink);
+
+				if (isPatternMatch) patternMatchedUrl = folderLink;
+			}
+
+			if (!embed && this.config.clickSelectors?.length) {
+				for (const selector of this.config.clickSelectors) {
+					try {
+						const el = await page.$(selector);
+						if (el) {
+							await el.click();
+							await new Promise((r) => setTimeout(r, 2000));
+							await page.waitForNetworkIdle({ timeout: 5000 }).catch(() => {});
+						}
+					} catch {
+						// ignore
+					}
+				}
+			}
+
+			if (!embed) embed = await this.findEmbed(ctx);
+			if (!embed && patternMatchedUrl) {
+				const source = this.detectEmbedSource(patternMatchedUrl);
+				const finalSource: ContentSource =
+					source !== "unknown" ? source : "publitas";
+				if (!ctx.methods.includes(finalSource)) ctx.methods.push(finalSource);
+				embed = { url: patternMatchedUrl, source: finalSource };
+			}
+
+			let pdf = await this.findPdf(ctx);
+			if (!pdf && embed?.url) {
+				const pdfFromEmbed = await this.findPdfFromEmbedUrl(ctx, embed.url);
+				if (pdfFromEmbed) pdf = pdfFromEmbed;
+			}
+
+			const source: ContentSource = embed?.source || (pdf ? "pdf" : "unknown");
+			const raw = embed?.url || pdf?.url || "none";
+
+			return {
+				fingerprint: raw,
+				embedUrl: embed?.url,
+				pdfUrl: pdf?.url,
+				source,
+			};
+		} finally {
+			await browser.close();
+		}
+	}
+
+	// ---- Main entry point ---------------------------------------------------
+
+	async run(): Promise<void> {
+		this.log("Starting scrape...");
+
+		const headless = process.env.SCRAPER_HEADLESS === "false" ? false : true;
+		const envUserDataDir = process.env.PUPPETEER_USER_DATA_DIR;
+		const userDataDir = headless
+			? envUserDataDir
+			: envUserDataDir || DEFAULT_PROFILE_DIR;
+
+		const browser = await puppeteer.launch({
+			headless,
+			executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || undefined,
+			...(userDataDir ? { userDataDir } : {}),
+			args: ["--no-sandbox", "--disable-setuid-sandbox"],
+		});
+
+		try {
+			const page = await browser.newPage();
+			await page.setUserAgent(DEFAULT_USER_AGENT);
+			await page.setViewport({ width: 1440, height: 900 });
+			await this.setupRequestBlocking(page);
+
+			const intercepted = this.createInterceptedUrls();
+			this.setupNetworkInterception(page, intercepted);
+
+			const ctx: ScrapeContext = {
+				page,
+				browser,
+				interceptedUrls: intercepted,
+				sourceUrls: [],
+				methods: [],
+			};
+
 			// ---- Fallback chain (each method tries, passes to next if empty) ----
 			const folders: Folder[] = [];
 			const allDeals: Deal[] = [];
+			let successfulFolderUrl: string | null = null;
 
 			for (const url of this.config.folderUrls) {
 				this.log(`Navigating to ${url}`);
@@ -155,6 +282,7 @@ export abstract class BaseScraper {
 				}
 
 				ctx.sourceUrls.push(url);
+				successfulFolderUrl = url;
 
 				// Step 0: Dismiss cookie consent
 				await this.dismissCookieConsent(page);
@@ -274,9 +402,27 @@ export abstract class BaseScraper {
 						ctx.methods.push(apiDeals.source);
 				}
 
-				// Step 7: Screenshot fallback (when no embed/pdf is available)
+				// Step 7: Screenshot fallback
 				let screenshots: ScreenshotResult | null = null;
-				if (!embed && !pdf) {
+				if (pdf) {
+					screenshots = await this.renderPdfPagesToScreenshots(ctx, pdf.url);
+					if (
+						screenshots?.pages.length &&
+						!ctx.methods.includes("screenshot")
+					) {
+						ctx.methods.push("screenshot");
+					}
+				}
+				if (!screenshots && !pdf && embed?.url) {
+					screenshots = await this.takeScreenshots(ctx, embed.url);
+					if (
+						screenshots.pages.length > 0 &&
+						!ctx.methods.includes("screenshot")
+					) {
+						ctx.methods.push("screenshot");
+					}
+				}
+				if (!screenshots && !embed && !pdf) {
 					screenshots = await this.takeScreenshots(ctx);
 					if (
 						screenshots.pages.length > 0 &&
@@ -327,6 +473,56 @@ export abstract class BaseScraper {
 				break; // First successful URL wins
 			}
 
+			// Instance 1 fallback: if no folder URL succeeded, still emit a folder via screenshot rendering.
+			if (folders.length === 0) {
+				const url = this.config.folderUrls[0];
+				if (url) {
+					this.log(
+						`No folder scraped. Rendering screenshot fallback from ${url}`,
+					);
+					try {
+						await this.gotoWithRetry(page, url);
+						await this.dismissCookieConsent(page);
+						await this.dismissOverlays(page);
+						await this.throwIfCaptcha(page);
+						successfulFolderUrl = url;
+						ctx.sourceUrls.push(url);
+
+						const screenshots = await this.takeScreenshots(ctx);
+						if (
+							screenshots.pages.length > 0 &&
+							!ctx.methods.includes("screenshot")
+						) {
+							ctx.methods.push("screenshot");
+						}
+
+						const dates = this.getCurrentWeekDates();
+						const folderPages = screenshots.pages.map((p) => ({
+							pageNumber: p.pageNumber,
+							imageUrl: p.imagePath,
+							deals: [] as Deal[],
+						}));
+
+						folders.push({
+							id: this.generateFolderId("folder"),
+							retailerSlug: this.retailerSlug,
+							title:
+								this.config.folderTitle ||
+								`${this.retailerName} folder van de week`,
+							validFrom: dates.from,
+							validUntil: dates.until,
+							pageCount: folderPages.length,
+							thumbnailUrl: folderPages[0]?.imageUrl || "",
+							pages: folderPages,
+							contentSource: "screenshot",
+							scrapedAt: new Date().toISOString(),
+						});
+					} catch (e) {
+						this.log(`Fallback render failed: ${e}`);
+					}
+				}
+			}
+
 			// ---- Scrape additional deal pages ----
 			if (this.config.dealUrls) {
 				for (const dealUrl of this.config.dealUrls) {
@@ -350,6 +546,47 @@ export abstract class BaseScraper {
 
 			// ---- Deduplicate deals ----
 			const uniqueDeals = this.deduplicateDeals(allDeals);
+
+			// Instance 2 fallback: if no deals/products could be extracted, render pages
+			// so the UI can still show "folder products" from rendered folder pages.
+			if (uniqueDeals.length === 0 && folders.length > 0) {
+				const primaryFolder = folders[0];
+				const hasRenderablePages =
+					primaryFolder.pages && primaryFolder.pages.length > 0;
+				if (!hasRenderablePages) {
+					const url = successfulFolderUrl || this.config.folderUrls[0];
+					if (url) {
+						this.log(
+							`No deals extracted. Rendering folder pages for fallback from ${url}`,
+						);
+						try {
+							await this.gotoWithRetry(page, url);
+							await this.dismissCookieConsent(page);
+							await this.dismissOverlays(page);
+							await this.throwIfCaptcha(page);
+
+							const screenshots = await this.takeScreenshots(ctx);
+							if (
+								screenshots.pages.length > 0 &&
+								!ctx.methods.includes("screenshot")
+							) {
+								ctx.methods.push("screenshot");
+							}
+
+							primaryFolder.pages = screenshots.pages.map((p) => ({
+								pageNumber: p.pageNumber,
+								imageUrl: p.imagePath,
+								deals: [] as Deal[],
+							}));
+							primaryFolder.pageCount = primaryFolder.pages.length;
+							primaryFolder.thumbnailUrl =
+								primaryFolder.pages[0]?.imageUrl || primaryFolder.thumbnailUrl;
+						} catch (e) {
+							this.log(`Products fallback render failed: ${e}`);
+						}
+					}
+				}
+			}
 
 			// ---- Persist ----
 			this.log(
@@ -381,6 +618,28 @@ export abstract class BaseScraper {
 
 			fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
 			this.log(`Saved to ${filePath}`);
+
+			// ---- Sync deals to database ----
+			if (uniqueDeals.length > 0) {
+				try {
+					const vertical = process.env.NEXT_PUBLIC_RETAIL_VERTICAL ?? "general";
+					const synced = await syncDealsToDb({
+						retailerSlug: this.retailerSlug,
+						retailerName: this.retailerName,
+						vertical,
+						deals: uniqueDeals,
+						scrapedAt: data.scrapedAt,
+						sourceMethod: ctx.methods[0],
+						sourceUrl: ctx.sourceUrls[0],
+						folderTitle: folders[0]?.title,
+					});
+					this.log(
+						`Synced ${synced}/${uniqueDeals.length} deal(s) to database`,
+					);
+				} catch (dbErr) {
+					this.log(`Database sync failed (non-fatal): ${dbErr}`);
+				}
+			}
 		} catch (error) {
 			this.log(`Scrape failed: ${error}`);
 			throw error;
@@ -1027,17 +1286,240 @@ export abstract class BaseScraper {
 
 	protected async takeScreenshots(
 		ctx: ScrapeContext,
+		overrideUrl?: string,
 	): Promise<ScreenshotResult> {
 		const { page } = ctx;
 		this.log("Taking screenshot fallback...");
 
+		if (overrideUrl) {
+			try {
+				await this.gotoWithRetry(page, overrideUrl);
+				await this.dismissCookieConsent(page);
+				await this.dismissOverlays(page);
+				await this.throwIfCaptcha(page);
+				ctx.sourceUrls.push(overrideUrl);
+			} catch {
+				// ignore; we'll screenshot the current page state
+			}
+		}
+
+		const isIssuuEmbed =
+			(typeof overrideUrl === "string" &&
+				overrideUrl.includes("e.issuu.com/embed.html")) ||
+			page.url().includes("e.issuu.com/embed.html");
+		const isPublitasEmbed =
+			(typeof overrideUrl === "string" &&
+				(overrideUrl.includes("view.publitas.com/") ||
+					overrideUrl.includes("publitas_embed="))) ||
+			page.url().includes("view.publitas.com/") ||
+			page.url().includes("publitas_embed=");
+
+		const getViewerClip = async (): Promise<{
+			x: number;
+			y: number;
+			width: number;
+			height: number;
+		} | null> => {
+			const candidates = [
+				"iframe",
+				"embed",
+				"canvas",
+				"img",
+				"main",
+				"article",
+			];
+			let best: {
+				x: number;
+				y: number;
+				width: number;
+				height: number;
+				area: number;
+			} | null = null;
+
+			for (const sel of candidates) {
+				try {
+					const el = await page.$(sel);
+					if (!el) continue;
+					const box = await el.boundingBox();
+					if (!box) continue;
+					const area = Math.max(0, box.width) * Math.max(0, box.height);
+					if (!best || area > best.area) {
+						best = {
+							x: box.x,
+							y: box.y,
+							width: box.width,
+							height: box.height,
+							area,
+						};
+					}
+				} catch {
+					// ignore
+				}
+			}
+
+			if (!best) return null;
+			if (best.width < 50 || best.height < 50) return null;
+
+			const view = page.viewport();
+			if (view) {
+				const minArea = (view.width * view.height) / 8;
+				if (best.area < minArea) return null;
+			}
+
+			return {
+				x: Math.max(0, best.x),
+				y: Math.max(0, best.y),
+				width: Math.max(1, best.width),
+				height: Math.max(1, best.height),
+			};
+		};
+
+		const waitForViewer = async (): Promise<void> => {
+			await page
+				.waitForSelector("iframe, embed, canvas, img", { timeout: 10000 })
+				.catch(() => {});
+			await new Promise((r) => setTimeout(r, 1200));
+		};
+
+		const isOfflinePublication = async (): Promise<boolean> => {
+			try {
+				const text = await page.evaluate(() => document.body?.innerText ?? "");
+				const t = String(text).toLowerCase();
+				return (
+					t.includes("deze publicatie is offline") ||
+					t.includes("this publication is offline")
+				);
+			} catch {
+				return false;
+			}
+		};
+
 		if (!fs.existsSync(SCREENSHOT_DIR))
 			fs.mkdirSync(SCREENSHOT_DIR, { recursive: true });
 
-		const filename = `${this.generateFolderId("screenshot-p1")}.png`;
+		if (isIssuuEmbed) {
+			const baseUrl = overrideUrl ?? page.url();
+			const maxPages = parseInt(process.env.MAX_SCREENSHOT_PAGES ?? "12", 10);
+			const pages: { pageNumber: number; imagePath: string }[] = [];
+
+			for (let i = 1; i <= (Number.isFinite(maxPages) ? maxPages : 12); i++) {
+				let u: URL;
+				try {
+					u = new URL(baseUrl);
+				} catch {
+					break;
+				}
+
+				u.searchParams.set("pageNumber", String(i));
+				const url = u.toString();
+
+				try {
+					await this.gotoWithRetry(page, url);
+					await waitForViewer();
+				} catch {
+					break;
+				}
+
+				if (await isOfflinePublication()) {
+					throw new Error(
+						"Publication is offline; refusing to generate screenshots",
+					);
+				}
+
+				const filename = `${this.generateFolderId(`viewerimg-p${i}`)}.png`;
+				const filepath = path.join(SCREENSHOT_DIR, filename);
+				const clip = await getViewerClip();
+				if (clip) {
+					await page.screenshot({ path: filepath, clip });
+				} else {
+					await page.screenshot({ path: filepath, fullPage: true });
+				}
+				pages.push({ pageNumber: i, imagePath: `/screenshots/${filename}` });
+			}
+
+			if (pages.length > 0) {
+				this.log(`Screenshots saved: ${pages.length} page(s)`);
+				return { pages };
+			}
+		}
+
+		if (isPublitasEmbed) {
+			const baseUrl = overrideUrl ?? page.url();
+			const maxPages = parseInt(process.env.MAX_SCREENSHOT_PAGES ?? "12", 10);
+			const pages: { pageNumber: number; imagePath: string }[] = [];
+
+			for (let i = 1; i <= (Number.isFinite(maxPages) ? maxPages : 12); i++) {
+				let u: URL;
+				try {
+					u = new URL(baseUrl);
+				} catch {
+					break;
+				}
+
+				if (
+					u.pathname.includes("/page/") ||
+					/\/page\/\d+(\/)?$/.test(u.pathname)
+				) {
+					u.pathname = u.pathname.replace(/\/page\/\d+(\/)?$/, `/page/${i}`);
+					if (!u.pathname.includes("/page/")) {
+						u.pathname = u.pathname.replace(/\/+$/, "") + `/page/${i}`;
+					}
+				} else {
+					u.searchParams.set("page", String(i));
+					u.searchParams.set("pageNumber", String(i));
+				}
+				const url = u.toString();
+
+				try {
+					await this.gotoWithRetry(page, url);
+					await waitForViewer();
+				} catch {
+					break;
+				}
+
+				if (await isOfflinePublication()) {
+					throw new Error(
+						"Publication is offline; refusing to generate screenshots",
+					);
+				}
+
+				const filename = `${this.generateFolderId(`viewerimg-p${i}`)}.png`;
+				const filepath = path.join(SCREENSHOT_DIR, filename);
+				const clip = await getViewerClip();
+				if (clip) {
+					await page.screenshot({ path: filepath, clip });
+				} else {
+					await page.screenshot({ path: filepath, fullPage: true });
+				}
+				pages.push({ pageNumber: i, imagePath: `/screenshots/${filename}` });
+			}
+
+			if (pages.length > 0) {
+				this.log(`Screenshots saved: ${pages.length} page(s)`);
+				return { pages };
+			}
+		}
+
+		const filename = `${this.generateFolderId("viewerimg-p1")}.png`;
 		const filepath = path.join(SCREENSHOT_DIR, filename);
 
-		await page.screenshot({ path: filepath, fullPage: true });
+		if (await isOfflinePublication()) {
+			throw new Error(
+				"Publication is offline; refusing to generate screenshots",
+			);
+		}
+
+		try {
+			await waitForViewer();
+			const clip = await getViewerClip();
+			if (clip) {
+				await page.screenshot({ path: filepath, clip });
+			} else {
+				await page.screenshot({ path: filepath, fullPage: true });
+			}
+		} catch {
+			await page.screenshot({ path: filepath, fullPage: true });
+		}
 		this.log(`Screenshot saved: ${filepath}`);
 
 		return {
@@ -1048,6 +1530,127 @@ export abstract class BaseScraper {
 				},
 			],
 		};
+	}
+
+	protected async renderPdfPagesToScreenshots(
+		ctx: ScrapeContext,
+		pdfUrl: string,
+	): Promise<ScreenshotResult | null> {
+		this.log(`Rendering PDF pages to screenshots: ${pdfUrl}`);
+
+		if (!fs.existsSync(SCREENSHOT_DIR))
+			fs.mkdirSync(SCREENSHOT_DIR, { recursive: true });
+		if (!fs.existsSync(TMP_DIR)) fs.mkdirSync(TMP_DIR, { recursive: true });
+
+		let pdfBuffer: Buffer;
+		try {
+			const res = await fetch(pdfUrl, { redirect: "follow" });
+			if (!res.ok) {
+				this.log(`Failed to download PDF (${res.status}): ${pdfUrl}`);
+				return null;
+			}
+			const ab = await res.arrayBuffer();
+			pdfBuffer = Buffer.from(ab);
+		} catch (e) {
+			this.log(`Failed to download PDF: ${e}`);
+			return null;
+		}
+
+		const estimatedPages = this.estimatePdfPageCount(pdfBuffer);
+		const maxPages = parseInt(process.env.MAX_PDF_PAGES ?? "40", 10);
+		const pageCount = Math.min(
+			estimatedPages,
+			Number.isFinite(maxPages) ? maxPages : 40,
+		);
+		if (!pageCount || pageCount < 1) {
+			this.log("Could not estimate PDF page count; skipping PDF render");
+			return null;
+		}
+
+		const tmpPdfPath = path.join(
+			TMP_DIR,
+			`${this.generateFolderId("folder")}.pdf`,
+		);
+		try {
+			fs.writeFileSync(tmpPdfPath, pdfBuffer);
+		} catch (e) {
+			this.log(`Failed to write temp PDF: ${e}`);
+			return null;
+		}
+
+		const fileUrl = pathToFileURL(tmpPdfPath).toString();
+		const pdfPage = await ctx.browser.newPage();
+		try {
+			await pdfPage.setUserAgent(DEFAULT_USER_AGENT);
+			await pdfPage.setViewport({
+				width: 1400,
+				height: 1900,
+				deviceScaleFactor: 2,
+			});
+
+			const pages: { pageNumber: number; imagePath: string }[] = [];
+			for (let i = 1; i <= pageCount; i++) {
+				try {
+					await pdfPage.goto(
+						`${fileUrl}#page=${i}&toolbar=0&navpanes=0&scrollbar=0&view=FitH`,
+						{ waitUntil: "networkidle2", timeout: 30000 },
+					);
+					await pdfPage
+						.waitForSelector("embed, iframe", { timeout: 5000 })
+						.catch(() => {});
+					await new Promise((r) => setTimeout(r, 2500));
+				} catch (e) {
+					this.log(`PDF page navigation failed at page ${i}: ${e}`);
+					break;
+				}
+
+				const filename = `${this.generateFolderId(`pdfimg-p${i}`)}.png`;
+				const filepath = path.join(SCREENSHOT_DIR, filename);
+
+				const embed = (await pdfPage.$("embed")) || (await pdfPage.$("iframe"));
+				const box = embed ? await embed.boundingBox() : null;
+				if (box) {
+					const toolbarGuess = 56;
+					const clipY = box.y + toolbarGuess;
+					const clipH = Math.max(1, box.height - toolbarGuess);
+					await pdfPage.screenshot({
+						path: filepath,
+						clip: {
+							x: box.x,
+							y: clipY,
+							width: box.width,
+							height: clipH,
+						},
+					});
+				} else {
+					await pdfPage.screenshot({ path: filepath, fullPage: true });
+				}
+
+				pages.push({ pageNumber: i, imagePath: `/screenshots/${filename}` });
+			}
+
+			if (pages.length === 0) return null;
+			this.log(`PDF screenshots saved: ${pages.length} page(s)`);
+			return { pages };
+		} finally {
+			await pdfPage.close().catch(() => {});
+			try {
+				fs.unlinkSync(tmpPdfPath);
+			} catch {
+				// ignore
+			}
+		}
+	}
+
+	protected estimatePdfPageCount(buffer: Buffer): number {
+		try {
+			const text = buffer.toString("latin1");
+			const matches = text.match(/\/Type\s*\/Page\b/g);
+			const rawCount = matches ? matches.length : 0;
+			return Math.max(1, Math.min(rawCount, 400));
+		} catch {
+			return 0;
+		}
 	}
 
 	// ---- Network interception setup ----------------------------------------
