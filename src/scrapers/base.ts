@@ -4,6 +4,7 @@ import { pathToFileURL } from "url";
 import puppeteer, { Page, Browser, HTTPRequest } from "puppeteer";
 import { Folder, Deal, ScrapedData, ContentSource } from "../lib/types";
 import { syncDealsToDb } from "../lib/productsDb";
+import { extractDealsFromPdf } from "./extractDealsFromText";
 
 const DATA_DIR = path.join(process.cwd(), "data", "folders");
 const SCREENSHOT_DIR = path.join(process.cwd(), "public", "screenshots");
@@ -540,6 +541,59 @@ export abstract class BaseScraper {
 						allDeals.push(...jsonLdDeals.deals);
 					} catch {
 						this.log(`Failed to scrape deals from ${dealUrl}`);
+					}
+				}
+			}
+
+			// ---- Alternative extraction fallbacks ----
+			if (allDeals.length === 0) {
+				const pdfUrl = folders[0]?.pdfUrl;
+				if (pdfUrl) {
+					this.log(`Trying PDF text extraction from ${pdfUrl.slice(0, 80)}...`);
+					try {
+						const dates = this.getCurrentWeekDates();
+						const pdfDeals = await extractDealsFromPdf(
+							pdfUrl,
+							this.retailerSlug,
+							dates.from,
+							dates.until,
+						);
+						if (pdfDeals.length > 0) {
+							allDeals.push(...pdfDeals);
+							if (!ctx.methods.includes("pdf-text"))
+								ctx.methods.push("pdf-text");
+							this.log(
+								`PDF text extraction yielded ${pdfDeals.length} deal(s)`,
+							);
+						}
+					} catch (e) {
+						this.log(`PDF text extraction failed: ${e}`);
+					}
+				}
+			}
+
+			if (allDeals.length === 0) {
+				const dealPages = this.config.dealUrls ?? [this.config.folderUrls[0]];
+				for (const dealUrl of dealPages) {
+					this.log(`Trying generic text extraction from ${dealUrl}`);
+					try {
+						await page.goto(dealUrl, {
+							waitUntil: "networkidle2",
+							timeout: 30000,
+						});
+						await this.dismissCookieConsent(page);
+						const pageDeals = await this.extractDealsFromPageText(ctx);
+						if (pageDeals.length > 0) {
+							allDeals.push(...pageDeals);
+							if (!ctx.methods.includes("page-text"))
+								ctx.methods.push("page-text");
+							this.log(
+								`Generic text extraction yielded ${pageDeals.length} deal(s) from ${dealUrl}`,
+							);
+							break;
+						}
+					} catch {
+						this.log(`Generic text extraction failed for ${dealUrl}`);
 					}
 				}
 			}
@@ -1280,6 +1334,76 @@ export abstract class BaseScraper {
 		// Subclasses can override to parse intercepted API JSON
 		// Default implementation: no-op
 		return { deals: [], source: "api" };
+	}
+
+	// ---- Step 6b: Generic page text extraction (fallback) ------------------
+
+	protected async extractDealsFromPageText(
+		ctx: ScrapeContext,
+	): Promise<Deal[]> {
+		const { page } = ctx;
+		const dates = this.getCurrentWeekDates();
+		const fnSrc = `(
+			function (retailerSlug, validFrom, validUntil) {
+				const NOISE_RE = /^(menu|footer|header|nav|cookie|login|registr|winkel|winkels|jobs|bezorg|verzend|levering|service|advies|contact|klantenservice|openingsuren|over ons|alle (acties|categorie|product|promo)|acties voor jou|top promo|weekactie\\d|aanbiedingen|promotions? page|acties & promoties|gratis (ruilen|retour|advies|verzend)|voor \\d+u|download|volgende week|meer info|bekijk |lees meer|inloggen|uitloggen|mijn account|zoeken|categorie)/i;
+				const allElements = document.querySelectorAll(
+					'[class*="product-card"], [class*="productCard"], [class*="product-tile"], [class*="productTile"], ' +
+					'[class*="product-item"], [class*="productItem"], [class*="deal-card"], [class*="dealCard"], ' +
+					'[class*="offer-card"], [class*="offerCard"], [class*="promo-card"], [class*="promoCard"], ' +
+					'[data-product], [data-product-id], [data-item-id], [data-testid*="product"]'
+				);
+				const elements = allElements.length > 0 ? allElements : document.querySelectorAll(
+					'article, [role="listitem"], [class*="product"]:not(nav):not(header):not(footer), ' +
+					'[class*="card"]:not(nav):not(header):not(footer)'
+				);
+				const results = [];
+				const seen = new Set();
+				for (const el of elements) {
+					const text = (el.textContent || "").trim();
+					if (text.length < 15 || text.length > 300) continue;
+					const euroMatch = text.match(/\u20ac\\s*(\\d+[.,]\\d{2})/g);
+					if (!euroMatch || euroMatch.length === 0) continue;
+					const discountMatch = text.match(/(-\\d+\\s*%|\\d+\\s*\\+\\s*\\d+\\s*gratis|[234]e?\\s*(halve\\s*prijs|gratis)|1\\+1)/i);
+					const lines = text.split(/\\n/).map(l => l.trim()).filter(l => l.length > 3);
+					let productName = "";
+					for (const line of lines) {
+						const cleaned = line.replace(/\u20ac\\s*\\d+[.,]\\d{2}/g, "").replace(/\\b\\d{1,3}[.,]\\d{2}\\b/g, "").replace(/-?\\d+\\s*%/g, "").trim();
+						if (cleaned.length >= 5 && !cleaned.match(/^[\\d\\s%\u20ac,.+-]+$/) && !NOISE_RE.test(cleaned)) {
+							productName = cleaned.slice(0, 100);
+							break;
+						}
+					}
+					if (!productName || productName.length < 5) continue;
+					const key = productName.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 30);
+					if (seen.has(key)) continue;
+					seen.add(key);
+					const prices = euroMatch.map(p => parseFloat(p.replace("\u20ac", "").replace(",", ".").trim())).filter(p => !isNaN(p) && p > 0.01 && p < 50000);
+					if (prices.length === 0) continue;
+					let originalPrice, promoPrice;
+					if (prices.length >= 2) {
+						originalPrice = Math.max(...prices);
+						promoPrice = Math.min(...prices);
+						if (originalPrice <= promoPrice) { promoPrice = prices[0]; originalPrice = undefined; }
+					} else { promoPrice = prices[0]; }
+					results.push({ id: 'pagetext-' + results.length, product: productName, originalPrice, promoPrice, discount: discountMatch ? discountMatch[0].trim() : undefined, validFrom, validUntil, retailerSlug });
+				}
+				return results;
+			}
+		)`;
+		try {
+			const deals = await page.evaluate(
+				(src: string, args: string[]) => {
+					const fn = (0, eval)(src) as (...a: any[]) => any;
+					return fn(args[0], args[1], args[2]);
+				},
+				fnSrc,
+				[this.retailerSlug, dates.from, dates.until],
+			);
+			return Array.isArray(deals) ? (deals as Deal[]) : [];
+		} catch (err) {
+			this.log(`Generic page text extraction error: ${err}`);
+			return [];
+		}
 	}
 
 	// ---- Step 7: Screenshot fallback ---------------------------------------

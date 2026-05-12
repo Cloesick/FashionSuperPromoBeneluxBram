@@ -7,6 +7,7 @@ import { CookieConsent } from "@/components/CookieConsent";
 import { AnalyticsGate } from "@/components/AnalyticsGate";
 import { AdSenseGate } from "@/components/AdSenseGate";
 import { AdPlacements } from "@/components/AdPlacements";
+import { MetaPixelGate } from "@/components/MetaPixelGate";
 import {
 	getDefaultMetaDescription,
 	getSiteBaseUrl,
@@ -49,6 +50,7 @@ export default function RootLayout({
 				<Footer />
 				<CookieConsent />
 				<AnalyticsGate />
+				<MetaPixelGate />
 				<AdSenseGate />
 			</body>
 		</html>

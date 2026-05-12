@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { retailers, getRetailerBySlug } from "@/lib/retailers";
-import { getCurrentFolder } from "@/lib/folders";
+import { getCurrentFolder, getDealsForRetailer } from "@/lib/folders";
 import { FolderViewer } from "@/components/FolderViewer";
 import { getSiteBaseUrl, getSiteConfig, getSiteTitle } from "@/lib/site";
 import {
@@ -11,6 +11,7 @@ import {
 	createBreadcrumbJsonLd,
 } from "@/components/JsonLd";
 import { AdPlacements } from "@/components/AdPlacements";
+import { DealsSection } from "@/components/DealsSection";
 import { Facebook, ExternalLink } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -69,7 +70,8 @@ export default async function RetailerPage({ params }: PageProps) {
 		notFound();
 	}
 
-	const currentFolder = getCurrentFolder(slug);
+	const currentFolder = await getCurrentFolder(slug);
+	const deals = await getDealsForRetailer(slug);
 	const outboundUrl = `/out/${slug}`;
 	const site = getSiteConfig();
 
@@ -185,7 +187,16 @@ export default async function RetailerPage({ params }: PageProps) {
 
 			{/* Folder viewer */}
 			{currentFolder ? (
-				<FolderViewer folder={currentFolder} retailer={retailer} />
+				<div id="folder-viewer">
+					<DealsSection
+						retailer={retailer}
+						deals={deals}
+						fallbackPages={currentFolder.pages}
+					/>
+					<div className="mt-8">
+						<FolderViewer folder={currentFolder} retailer={retailer} />
+					</div>
+				</div>
 			) : (
 				<div className="bg-amber-50 border border-amber-200 rounded-xl p-8 text-center mb-8">
 					<p className="text-amber-800 font-medium mb-2">

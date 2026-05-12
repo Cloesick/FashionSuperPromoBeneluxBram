@@ -103,7 +103,7 @@ export function FoldersClient({ retailers }: { retailers: Retailer[] }) {
 				</section>
 			) : null}
 
-			{groups.map(([category, items], i) => (
+			{groups.map(([category, items]) => (
 				<div key={category}>
 					<h2 className="text-xl font-bold text-gray-900 mb-4">
 						{getCategoryLabel(category)}

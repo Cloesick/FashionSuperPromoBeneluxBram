@@ -50,7 +50,7 @@ export default async function NlBorderRetailerPage({ params }: PageProps) {
 		notFound();
 	}
 
-	const currentFolder = getCurrentFolder(slug);
+	const currentFolder = await getCurrentFolder(slug);
 	const outboundUrl = `/out/${slug}`;
 
 	const isSvgLogo = retailer.logo.toLowerCase().endsWith(".svg");

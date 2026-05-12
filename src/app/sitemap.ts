@@ -5,13 +5,15 @@ import { getSiteBaseUrl } from "@/lib/site";
 
 const BASE_URL = getSiteBaseUrl();
 
-export default function sitemap(): MetadataRoute.Sitemap {
-	const retailerPages = retailers.map((r) => ({
-		url: `${BASE_URL}/folders/${r.slug}`,
-		lastModified: getScrapedAt(r.slug) ?? new Date(),
-		changeFrequency: "weekly" as const,
-		priority: 0.8,
-	}));
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+	const retailerPages = await Promise.all(
+		retailers.map(async (r) => ({
+			url: `${BASE_URL}/folders/${r.slug}`,
+			lastModified: (await getScrapedAt(r.slug)) ?? new Date(),
+			changeFrequency: "weekly" as const,
+			priority: 0.8,
+		})),
+	);
 
 	const latestScrape = retailerPages.reduce<Date>((latest, p) => {
 		const d =
