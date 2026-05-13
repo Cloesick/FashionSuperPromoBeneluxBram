@@ -1361,13 +1361,13 @@ export abstract class BaseScraper {
 				for (const el of elements) {
 					const text = (el.textContent || "").trim();
 					if (text.length < 15 || text.length > 300) continue;
-					const euroMatch = text.match(/\u20ac\\s*(\\d+[.,]\\d{2})/g);
+					const euroMatch = text.match(/\u20ac\\s*(\\d{1,3}(?:\\.\\d{3})*,\\d{2}|\\d+[,.]\\d{2})/g);
 					if (!euroMatch || euroMatch.length === 0) continue;
 					const discountMatch = text.match(/(-\\d+\\s*%|\\d+\\s*\\+\\s*\\d+\\s*gratis|[234]e?\\s*(halve\\s*prijs|gratis)|1\\+1)/i);
 					const lines = text.split(/\\n/).map(l => l.trim()).filter(l => l.length > 3);
 					let productName = "";
 					for (const line of lines) {
-						const cleaned = line.replace(/\u20ac\\s*\\d+[.,]\\d{2}/g, "").replace(/\\b\\d{1,3}[.,]\\d{2}\\b/g, "").replace(/-?\\d+\\s*%/g, "").trim();
+						const cleaned = line.replace(/\u20ac\\s*\\d{1,3}(?:\\.\\d{3})*[,.]\\d{2}/g, "").replace(/\\b\\d{1,3}[.,]\\d{2}\\b/g, "").replace(/-?\\d+\\s*%/g, "").replace(/^(Promo|Sale|Actie|Nieuw|New|Aanbieding)\\s*/i, "").replace(/^\\d[.,]\\d\\s*/g, "").replace(/^(Cashback|Gratis|Korting|Bonus|Cadeau)\\s*/i, "").trim();
 						if (cleaned.length >= 5 && !cleaned.match(/^[\\d\\s%\u20ac,.+-]+$/) && !NOISE_RE.test(cleaned)) {
 							productName = cleaned.slice(0, 100);
 							break;
@@ -1377,7 +1377,7 @@ export abstract class BaseScraper {
 					const key = productName.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 30);
 					if (seen.has(key)) continue;
 					seen.add(key);
-					const prices = euroMatch.map(p => parseFloat(p.replace("\u20ac", "").replace(",", ".").trim())).filter(p => !isNaN(p) && p > 0.01 && p < 50000);
+					const prices = euroMatch.map(function(p) { var s = p.replace("\u20ac", "").trim(); if (s.includes(",") && s.indexOf(".") < s.indexOf(",")) { s = s.replace(/\\./g, "").replace(",", "."); } else if (s.includes(",") && !s.includes(".")) { s = s.replace(",", "."); } return parseFloat(s); }).filter(function(p) { return !isNaN(p) && p > 0.01 && p < 50000; });
 					if (prices.length === 0) continue;
 					let originalPrice, promoPrice;
 					if (prices.length >= 2) {
