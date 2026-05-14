@@ -1,0 +1,180 @@
+{
+  "generatedAt": "2026-05-14T07:50:43.712Z",
+  "retailers": [
+    {
+      "slug": "albert-heijn",
+      "name": "Albert Heijn",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:33:26.610Z",
+      "folderCount": 1,
+      "dealCount": 89,
+      "hasEmbed": true,
+      "hasPdf": true,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": [
+        {
+          "url": "https://view.publitas.com/ah/bonus-week-20-2026/page/1?publitas_embed=embedded",
+          "status": 200,
+          "live": true
+        },
+        {
+          "url": "https://view.publitas.com/126/3036004/pdfs/27b13c61-3f34-4d3e-bc55-046005df79ec.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-20-2026.pdf",
+          "status": 200,
+          "live": true
+        }
+      ]
+    },
+    {
+      "slug": "lidl",
+      "name": "Lidl",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:40:17.017Z",
+      "folderCount": 1,
+      "dealCount": 5,
+      "hasEmbed": true,
+      "hasPdf": true,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": [
+        {
+          "url": "https://folder-nl.lidl.be/nl-folder-11-05-16-05",
+          "status": 200,
+          "live": true
+        },
+        {
+          "url": "https://folder-nl.lidl.be/97031/3028948/pdfs/3efb7e93-14c5-457d-a857-eb319cda8361.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252011-05-16-05.pdf",
+          "status": 200,
+          "live": true
+        }
+      ]
+    },
+    {
+      "slug": "delhaize",
+      "name": "Delhaize",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:47:03.656Z",
+      "folderCount": 1,
+      "dealCount": 0,
+      "hasEmbed": true,
+      "hasPdf": true,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": [
+        {
+          "url": "https://view.publitas.com/delhaize-belgium-nl/w20-2026-nl/page/1?publitas_embed=embedded",
+          "status": 200,
+          "live": true
+        },
+        {
+          "url": "https://view.publitas.com/11013/3061696/pdfs/6ce16e60-c792-4b53-a9e1-b8122e941440.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W20-2026-NL.pdf",
+          "status": 200,
+          "live": true
+        }
+      ]
+    },
+    {
+      "slug": "colruyt",
+      "name": "Colruyt",
+      "status": "stale",
+      "attempts": 4,
+      "dataAge": "30d",
+      "scrapedAt": "2026-04-14T13:25:36.190Z",
+      "folderCount": 1,
+      "dealCount": 0,
+      "hasEmbed": false,
+      "hasPdf": false,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": [],
+      "error": "Captcha detected. Rerun with SCRAPER_HEADLESS=false and a persistent profile (PUPPETEER_USER_DATA_DIR) to complete verification once."
+    },
+    {
+      "slug": "aldi",
+      "name": "ALDI",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:48:13.002Z",
+      "folderCount": 1,
+      "dealCount": 0,
+      "hasEmbed": true,
+      "hasPdf": false,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": [
+        {
+          "url": "https://cdn.ipaper.io/flipbooks/api/v3/latest.js",
+          "status": 200,
+          "live": true
+        }
+      ]
+    },
+    {
+      "slug": "action",
+      "name": "Action",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:49:26.271Z",
+      "folderCount": 1,
+      "dealCount": 23,
+      "hasEmbed": true,
+      "hasPdf": false,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": [
+        {
+          "url": "https://be.publications.action.com/?publitas_embed=embedded",
+          "status": 200,
+          "live": true
+        }
+      ]
+    },
+    {
+      "slug": "hm",
+      "name": "H&M",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:50:04.810Z",
+      "folderCount": 1,
+      "dealCount": 16,
+      "hasEmbed": false,
+      "hasPdf": false,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": []
+    },
+    {
+      "slug": "zalando",
+      "name": "Zalando",
+      "status": "fresh",
+      "attempts": 1,
+      "dataAge": null,
+      "scrapedAt": "2026-05-14T07:50:41.193Z",
+      "folderCount": 1,
+      "dealCount": 152,
+      "hasEmbed": false,
+      "hasPdf": false,
+      "hasPages": true,
+      "validationIssues": [],
+      "probeResults": []
+    }
+  ],
+  "summary": {
+    "total": 8,
+    "fresh": 7,
+    "fallback": 0,
+    "stale": 1,
+    "missing": 0,
+    "withErrors": 0,
+    "withDeadUrls": 0
+  }
+}

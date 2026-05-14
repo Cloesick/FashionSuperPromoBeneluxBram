@@ -2,65 +2,273 @@
   "retailer": "lidl",
   "folders": [
     {
-      "id": "lidl-2026-w16-folder",
+      "id": "lidl-2026-w20-folder",
       "retailerSlug": "lidl",
       "title": "Lidl folder van de week",
-      "validFrom": "2026-04-13",
-      "validUntil": "2026-04-19",
-      "pageCount": 0,
-      "thumbnailUrl": "",
-      "pages": [],
-      "embedUrl": "https://folder-nl.lidl.be/nl-folder-13-04-18-04",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/2961502/pdfs/1974a1b3-5d61-41b9-a164-616cd8cead22.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252013-04-18-04.pdf",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "pageCount": 40,
+      "thumbnailUrl": "/screenshots/lidl-2026-w20-pdfimg-p1.png",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p1.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 2,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p2.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 3,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p3.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 4,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p4.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 5,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p5.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 6,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p6.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 7,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p7.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 8,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p8.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 9,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p9.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 10,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p10.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 11,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p11.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 12,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p12.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 13,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p13.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 14,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p14.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 15,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p15.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 16,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p16.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 17,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p17.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 18,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p18.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 19,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p19.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 20,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p20.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 21,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p21.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 22,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p22.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 23,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p23.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 24,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p24.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 25,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p25.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 26,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p26.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 27,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p27.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 28,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p28.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 29,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p29.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 30,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p30.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 31,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p31.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 32,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p32.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 33,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p33.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 34,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p34.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 35,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p35.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 36,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p36.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 37,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p37.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 38,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p38.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 39,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p39.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 40,
+          "imageUrl": "/screenshots/lidl-2026-w20-pdfimg-p40.png",
+          "deals": []
+        }
+      ],
+      "embedUrl": "https://folder-nl.lidl.be/nl-folder-11-05-16-05",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3028948/pdfs/3efb7e93-14c5-457d-a857-eb319cda8361.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252011-05-16-05.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-04-14T10:37:47.383Z"
+      "scrapedAt": "2026-05-14T07:39:59.786Z"
     }
   ],
   "deals": [
     {
       "id": "html-0",
-      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "discount": "Ook in de winkel van 10/04 - 23/04",
-      "validFrom": "2026-04-13",
-      "validUntil": "2026-04-19",
+      "product": "Alleszuiger PARKSIDE® PWS20",
+      "promoPrice": 79.99,
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-8",
-      "product": "Vervangspoelen voor grastrimmer",
-      "validFrom": "2026-04-13",
-      "validUntil": "2026-04-19",
+      "id": "html-7",
+      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
+      "promoPrice": 29.99,
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-14",
-      "product": "Elektrische tuinfrees PARKSIDE® PEBH1500",
-      "validFrom": "2026-04-13",
-      "validUntil": "2026-04-19",
+      "product": "Robotstofzuiger",
+      "originalPrice": 69.99,
+      "promoPrice": 69.991459,
+      "discount": "Ook in de winkel van 08/05 - 21/05",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-21",
-      "product": "Accu-compressor, 20 V PARKSIDE® PAKT20",
-      "validFrom": "2026-04-13",
-      "validUntil": "2026-04-19",
+      "product": "Vervangspoelen voor grastrimmer",
+      "promoPrice": 4.99,
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-28",
-      "product": "Accubosmaaier en grastrimmer, 40 V PARKSIDE PERFORMANCE® PPAFS40",
-      "validFrom": "2026-04-13",
-      "validUntil": "2026-04-19",
+      "product": "Ultrasone marterverjager met flitslicht",
+      "promoPrice": 14.99,
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-04-14T10:37:51.443Z",
+  "scrapedAt": "2026-05-14T07:40:17.017Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
-    "https://folder-nl.lidl.be/nl-folder-13-04-18-04"
+    "https://folder-nl.lidl.be/nl-folder-11-05-16-05"
   ],
   "methods": [
     "publitas",
-    "pdf"
+    "pdf",
+    "screenshot"
   ]
 }

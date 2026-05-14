@@ -1,0 +1,167 @@
+{
+  "retailer": "hm",
+  "folders": [
+    {
+      "id": "hm-2026-w20-folder",
+      "retailerSlug": "hm",
+      "title": "H&M sale",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "pageCount": 1,
+      "thumbnailUrl": "/screenshots/hm-2026-w20-viewerimg-p1.png",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "imageUrl": "/screenshots/hm-2026-w20-viewerimg-p1.png",
+          "deals": []
+        }
+      ],
+      "contentSource": "screenshot",
+      "scrapedAt": "2026-05-14T07:49:48.551Z"
+    }
+  ],
+  "deals": [
+    {
+      "id": "jsonld-0",
+      "product": "Gebreide peplumtop",
+      "promoPrice": 19.99,
+      "imageUrl": [
+        "https://image.hm.com/assets/hm/ac/5e/ac5e61b2acb8398a161704fad6a00b1be3ae1293.jpg",
+        "https://image.hm.com/assets/hm/ca/9c/ca9c6628d04c167165f9c0c00c926f73d1fdfb98.jpg",
+        "https://image.hm.com/assets/hm/27/71/2771d4be5283d641f059b764cb7a23e07f523acf.jpg",
+        "https://image.hm.com/assets/hm/04/89/04897b6764fbdd2ba07c2f0a10665bb57e9d0275.jpg",
+        "https://image.hm.com/assets/hm/4d/e1/4de1a5508526fc78f8bd04c625bd3c8fd6c9d1ab.jpg",
+        "https://image.hm.com/assets/hm/17/61/176160117b66837f4285c184e92e7cb6d7cb35ab.jpg"
+      ],
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "jsonld-1",
+      "product": "Panty met dessin",
+      "originalPrice": 12.99,
+      "imageUrl": [
+        "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
+        "https://image.hm.com/assets/hm/72/d4/72d411b4796d71a1a9aa63ff1af9177feb559be1.jpg"
+      ],
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-8",
+      "product": "Je winkelmandje is leeg.",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-10",
+      "product": "Gebreide peplumtop",
+      "imageUrl": "https://image.hm.com/assets/hm/ac/5e/ac5e61b2acb8398a161704fad6a00b1be3ae1293.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-12",
+      "product": "Gedrapeerde jurk van mesh",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0f/9a/0f9ad284b6abe2be7b71bb4f7cd23d56c33a9e4d.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
+      "product": "MAMA panty met dessin",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/43/9a/439a54a2ec659b323d28739a121962a8b8f54724.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-14",
+      "product": "Katoenen pyjama",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/26/e6/26e6746438a244926dcfca35947747baa7d0e61c.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Satijnen overslagrok",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3f/8f/3f8fcaefd0525f6b913fc7a8e553746f9e19b8e1.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Fijngebreid vest",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/49/5a/495a728ace736a9858fc0c58d4fd53c1301499c6.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Korte jurk",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3c/0e/3c0ec2aa3a102c78d9e03f2e3573168361f07d1d.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Vest met peplum",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e2/04/e204adff51293c9d1cc6860cad3f6d48c598a0aa.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Denim bloes met volants",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Oversized denim jas",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Jas met sjaalkraag van linnenmix",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Peplumjasje van linnenmix",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Mesh bloes met plumetis",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    }
+  ],
+  "scrapedAt": "2026-05-14T07:50:04.810Z",
+  "sourceUrls": [
+    "https://www2.hm.com/nl_be/sale/dames/view-all.html"
+  ],
+  "methods": [
+    "html",
+    "screenshot"
+  ]
+}
