@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-14T07:49:48.551Z"
+      "scrapedAt": "2026-05-15T08:01:58.651Z"
     }
   ],
   "deals": [
@@ -66,8 +66,8 @@
     },
     {
       "id": "html-12",
-      "product": "Gedrapeerde jurk van mesh",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0f/9a/0f9ad284b6abe2be7b71bb4f7cd23d56c33a9e4d.jpg",
+      "product": "Midi-jurk met V-hals",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7d/aa/7daab0af9d876347e2be265eee5aa75d91ab1dff.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
@@ -82,81 +82,73 @@
     },
     {
       "id": "html-14",
-      "product": "Katoenen pyjama",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/26/e6/26e6746438a244926dcfca35947747baa7d0e61c.jpg",
+      "product": "Barrel High Waist Jeans",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/48/49/4849d28aaf2b9c9654ddc482b87e356cc80dbe3c.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Satijnen overslagrok",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3f/8f/3f8fcaefd0525f6b913fc7a8e553746f9e19b8e1.jpg",
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "Fijngebreid vest",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/49/5a/495a728ace736a9858fc0c58d4fd53c1301499c6.jpg",
+      "product": "Gelaagd vest",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f9/00/f900a62659834124a765a1342bf5ff4b28548972.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Korte jurk",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3c/0e/3c0ec2aa3a102c78d9e03f2e3573168361f07d1d.jpg",
+      "product": "T-shirt met ronde hals",
+      "imageUrl": "https://media.stories.com/assets/005/16/fe/16fe16d5edc3e0df6490ca72561b06314ba5d5e2.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
-      "product": "Vest met peplum",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e2/04/e204adff51293c9d1cc6860cad3f6d48c598a0aa.jpg",
+      "product": "Ramie jurk met trekkoord",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/07/cb/07cbb4d1edda4321d75c6303d237b58592610437.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Denim bloes met volants",
+      "product": "Broek van linnenmix",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Oversized denim jas",
+      "product": "One-shoulderjurk van merinoswol",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Jas met sjaalkraag van linnenmix",
+      "product": "Ribgebreide top",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Peplumjasje van linnenmix",
+      "product": "Geribde top met boothals",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Mesh bloes met plumetis",
+      "product": "Jeansshort met trekkoord",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-14T07:50:04.810Z",
+  "scrapedAt": "2026-05-15T08:02:15.612Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
