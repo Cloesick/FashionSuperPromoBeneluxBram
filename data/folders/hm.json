@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-15T08:01:58.651Z"
+      "scrapedAt": "2026-05-16T07:01:43.158Z"
     }
   ],
   "deals": [
@@ -66,14 +66,6 @@
     },
     {
       "id": "html-12",
-      "product": "Midi-jurk met V-hals",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7d/aa/7daab0af9d876347e2be265eee5aa75d91ab1dff.jpg",
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-13",
       "product": "MAMA panty met dessin",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/43/9a/439a54a2ec659b323d28739a121962a8b8f54724.jpg",
       "validFrom": "2026-05-11",
@@ -81,47 +73,145 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-13",
+      "product": "Gedrapeerde jurk van mesh",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0f/9a/0f9ad284b6abe2be7b71bb4f7cd23d56c33a9e4d.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-14",
-      "product": "Barrel High Waist Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/48/49/4849d28aaf2b9c9654ddc482b87e356cc80dbe3c.jpg",
+      "product": "2 paar kniekousen",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/46/4f/464fec47237d14975eff890096e9aecb9c1751e6.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Gelaagd vest",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f9/00/f900a62659834124a765a1342bf5ff4b28548972.jpg",
+      "product": "Katoenen pyjama",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/26/e6/26e6746438a244926dcfca35947747baa7d0e61c.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Vest met kanten look",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7b/1d/7b1d1b52a3e41c5966a55a42103bec2debaee7a6.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "T-shirt met ronde hals",
-      "imageUrl": "https://media.stories.com/assets/005/16/fe/16fe16d5edc3e0df6490ca72561b06314ba5d5e2.jpg",
+      "product": "Bloes met kant",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a1/dd/a1dd42ee8b1b55f6cdd627d80cd86bf058f9a979.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
-      "product": "Ramie jurk met trekkoord",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/07/cb/07cbb4d1edda4321d75c6303d237b58592610437.jpg",
+      "product": "Midi-jurk met V-hals",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7d/aa/7daab0af9d876347e2be265eee5aa75d91ab1dff.jpg",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Broek van linnenmix",
+      "product": "Straight High Waist Jeans",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "One-shoulderjurk van merinoswol",
+      "product": "Double-breasted jasje met structuur",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Strappy sandalen",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Oversized T-shirt",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Fijngebreid vest",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
+      "product": "Oversized bloes van katoenmix",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f7/4e/f74e5234b0d123869502b6e30af9d0580749ecb1.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-14",
+      "product": "Bloes met volants",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/c3/99/c3992db500287ec0446f2c4b580ab85710d740d1.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Set van 2 softbeha's van katoen",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/73/ba/73bacc99e706d4309edd3b444884b600795c4814.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Triangelbikinitop met padding",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9c/62/9c622a1bbf1554aef530d26ff4eec1d14247cb85.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Slim zijden T-shirt",
+      "imageUrl": "https://media.cos.com/assets/001/e5/6d/e56dcded940ec484ea3ec5b95c67942d7685f055.jpg",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Bloes met pofmouwen",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Shift-jurk van linnenmix",
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Top van pimakatoen met diepe hals",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
@@ -135,20 +225,20 @@
     },
     {
       "id": "html-22",
-      "product": "Geribde top met boothals",
+      "product": "Peplumvest met korte mouwen",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Jeansshort met trekkoord",
+      "product": "Geribde top met boothals",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-15T08:02:15.612Z",
+  "scrapedAt": "2026-05-16T07:02:00.339Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

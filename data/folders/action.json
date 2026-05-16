@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-14T07:49:20.928Z"
+      "scrapedAt": "2026-05-16T07:01:15.633Z"
     }
   ],
   "deals": [
@@ -191,22 +191,6 @@
     },
     {
       "id": "pagetext-14",
-      "product": "GebaksbordØ 16,5 x 2 cm | diverse varianten/st122Weekactie",
-      "promoPrice": 1.22,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
-      "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-15",
-      "product": "SchaalØ 14 x 6,5 cm | diverse varianten/st149Weekactie",
-      "promoPrice": 1.49,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
-      "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-16",
       "product": "Tapo slimme beveiligingscameraTCA41/st2595Weekactie",
       "promoPrice": 25.95,
       "validFrom": "2026-05-11",
@@ -214,7 +198,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-17",
+      "id": "pagetext-15",
       "product": "Verkoelende matrasbeschermer90 x 200 cm/m21295Weekactie",
       "promoPrice": 7.19,
       "validFrom": "2026-05-11",
@@ -222,7 +206,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-18",
+      "id": "pagetext-16",
       "product": "Verkoelend easy dekbed240 x 200 cm | diverse varianten/m21895Weekactie",
       "promoPrice": 3.95,
       "validFrom": "2026-05-11",
@@ -230,8 +214,24 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-19",
+      "id": "pagetext-17",
       "product": "K2 autoluchtverfrissers4 stuks | diverse varianten/st149Weekactie",
+      "promoPrice": 1.49,
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-18",
+      "product": "GebaksbordØ 16,5 x 2 cm | diverse varianten/st122Weekactie",
+      "promoPrice": 1.22,
+      "validFrom": "2026-05-11",
+      "validUntil": "2026-05-17",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-19",
+      "product": "SchaalØ 14 x 6,5 cm | diverse varianten/st149Weekactie",
       "promoPrice": 1.49,
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
@@ -262,7 +262,7 @@
       "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-05-14T07:49:26.271Z",
+  "scrapedAt": "2026-05-16T07:01:21.894Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"

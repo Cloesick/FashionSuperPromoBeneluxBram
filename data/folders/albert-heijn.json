@@ -7,7 +7,7 @@
       "title": "Albert Heijn Bonusfolder",
       "validFrom": "2026-05-11",
       "validUntil": "2026-05-17",
-      "pageCount": 32,
+      "pageCount": 34,
       "thumbnailUrl": "/screenshots/albert-heijn-2026-w20-pdfimg-p1.png",
       "pages": [
         {
@@ -169,12 +169,22 @@
           "pageNumber": 32,
           "imageUrl": "/screenshots/albert-heijn-2026-w20-pdfimg-p32.png",
           "deals": []
+        },
+        {
+          "pageNumber": 33,
+          "imageUrl": "/screenshots/albert-heijn-2026-w20-pdfimg-p33.png",
+          "deals": []
+        },
+        {
+          "pageNumber": 34,
+          "imageUrl": "/screenshots/albert-heijn-2026-w20-pdfimg-p34.png",
+          "deals": []
         }
       ],
-      "embedUrl": "https://view.publitas.com/ah/bonus-week-20-2026/page/1?publitas_embed=embedded",
-      "pdfUrl": "https://view.publitas.com/126/3036004/pdfs/27b13c61-3f34-4d3e-bc55-046005df79ec.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-20-2026.pdf",
+      "embedUrl": "https://view.publitas.com/ah/bonus-week-21-2026/page/1?publitas_embed=embedded",
+      "pdfUrl": "https://view.publitas.com/126/3057029/pdfs/f866d12b-f647-4979-8a86-63eb98d0c92e.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-21-2026.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-15T07:45:30.768Z"
+      "scrapedAt": "2026-05-16T06:45:50.585Z"
     }
   ],
   "deals": [
@@ -917,7 +927,7 @@
       "retailerSlug": "albert-heijn"
     }
   ],
-  "scrapedAt": "2026-05-15T07:45:48.074Z",
+  "scrapedAt": "2026-05-16T06:46:05.534Z",
   "sourceUrls": [
     "https://www.ah.be/bonus/folder"
   ],
