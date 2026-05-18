@@ -2,78 +2,78 @@
   "retailer": "action",
   "folders": [
     {
-      "id": "action-2026-w20-folder",
+      "id": "action-2026-w21-folder",
       "retailerSlug": "action",
       "title": "Action folder van de week",
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "pageCount": 12,
-      "thumbnailUrl": "/screenshots/action-2026-w20-viewerimg-p1.png",
+      "thumbnailUrl": "/screenshots/action-2026-w21-viewerimg-p1.png",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p1.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p1.png",
           "deals": []
         },
         {
           "pageNumber": 2,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p2.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p2.png",
           "deals": []
         },
         {
           "pageNumber": 3,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p3.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p3.png",
           "deals": []
         },
         {
           "pageNumber": 4,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p4.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p4.png",
           "deals": []
         },
         {
           "pageNumber": 5,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p5.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p5.png",
           "deals": []
         },
         {
           "pageNumber": 6,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p6.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p6.png",
           "deals": []
         },
         {
           "pageNumber": 7,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p7.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p7.png",
           "deals": []
         },
         {
           "pageNumber": 8,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p8.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p8.png",
           "deals": []
         },
         {
           "pageNumber": 9,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p9.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p9.png",
           "deals": []
         },
         {
           "pageNumber": 10,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p10.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p10.png",
           "deals": []
         },
         {
           "pageNumber": 11,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p11.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p11.png",
           "deals": []
         },
         {
           "pageNumber": 12,
-          "imageUrl": "/screenshots/action-2026-w20-viewerimg-p12.png",
+          "imageUrl": "/screenshots/action-2026-w21-viewerimg-p12.png",
           "deals": []
         }
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-16T07:01:15.633Z"
+      "scrapedAt": "2026-05-18T08:52:05.814Z"
     }
   ],
   "deals": [
@@ -81,188 +81,188 @@
       "id": "pagetext-0",
       "product": "SchaalØ 11,5 x 5,5 cm | diverse varianten/st099Weekactie",
       "promoPrice": 0.99,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-1",
       "product": "Varanti mini eau de toilette15 ml | diverse varianten/l084Weekactie",
       "promoPrice": 56,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-2",
       "product": "A Good Clean allesreiniger Rozemarijn & Gember750 ml/l128Weekactie",
       "promoPrice": 1.71,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-3",
       "product": "Drinkglas275 ml | diverse varianten/st078Weekactie",
       "promoPrice": 0.78,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-4",
       "product": "SneakersokkenMaten 39 - 46 | 7 paar/st199Weekactie",
       "promoPrice": 0.28,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-5",
       "product": "Snacks of the World chili & limoen mix Spicy200 gram/kg179Weekactie",
       "promoPrice": 8.95,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-6",
       "product": "Diep bordØ 19,5 x 4,5 cm | diverse varianten/st149Weekactie",
       "promoPrice": 1.49,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-7",
       "product": "Takis Fuego200 gram/kg295Weekactie",
       "promoPrice": 14.75,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-8",
       "product": "Vivance geurstokjes150 ml | diverse varianten/l299Weekactie",
       "promoPrice": 19.93,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-9",
       "product": "Big Jeff kant-en-klare barbecue27,5 x 24,5 x 10,5 cm/st399Weekactie",
       "promoPrice": 3.99,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-10",
       "product": "Atelier De Luxe Handzeep500 ml | diverse varianten/l249Weekactie",
       "promoPrice": 4.98,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-11",
       "product": "Tapo indoor wifi camera2K QHD/st1695Weekactie",
       "promoPrice": 16.95,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-12",
       "product": "Sau'cee Honing-mosterd500 ml/l199Weekactie",
       "promoPrice": 3.98,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-13",
       "product": "Verkoelend easy dekbed140 x 200 cm | diverse kleuren/m21295Weekactie",
       "promoPrice": 4.63,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-14",
-      "product": "Tapo slimme beveiligingscameraTCA41/st2595Weekactie",
-      "promoPrice": 25.95,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "Verkoelende matrasbeschermer90 x 200 cm/m21295Weekactie",
+      "promoPrice": 7.19,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-15",
-      "product": "Verkoelende matrasbeschermer90 x 200 cm/m21295Weekactie",
-      "promoPrice": 7.19,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "Verkoelend easy dekbed240 x 200 cm | diverse varianten/m21895Weekactie",
+      "promoPrice": 3.95,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-16",
-      "product": "Verkoelend easy dekbed240 x 200 cm | diverse varianten/m21895Weekactie",
-      "promoPrice": 3.95,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "K2 autoluchtverfrissers4 stuks | diverse varianten/st149Weekactie",
+      "promoPrice": 1.49,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-17",
-      "product": "K2 autoluchtverfrissers4 stuks | diverse varianten/st149Weekactie",
-      "promoPrice": 1.49,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "GebaksbordØ 16,5 x 2 cm | diverse varianten/st122Weekactie",
+      "promoPrice": 1.22,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-18",
-      "product": "GebaksbordØ 16,5 x 2 cm | diverse varianten/st122Weekactie",
-      "promoPrice": 1.22,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "SchaalØ 14 x 6,5 cm | diverse varianten/st149Weekactie",
+      "promoPrice": 1.49,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-19",
-      "product": "SchaalØ 14 x 6,5 cm | diverse varianten/st149Weekactie",
-      "promoPrice": 1.49,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "Nor-Tec drijvende kwal met ledØ 11,5 x 23 cm/st299Weekactie",
+      "promoPrice": 2.99,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-20",
-      "product": "Nor-Tec drijvende kwal met ledØ 11,5 x 23 cm/st299Weekactie",
-      "promoPrice": 2.99,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "Sitecom 2-poorts wandlader GaN365 watt | diverse kleuren/st695Weekactie",
+      "promoPrice": 6.95,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-21",
-      "product": "Sitecom 2-poorts wandlader GaN365 watt | diverse kleuren/st695Weekactie",
-      "promoPrice": 6.95,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "Fresh ’n Rebel draadloze koptelefoonDiverse kleuren/st1295Weekactie",
+      "promoPrice": 12.95,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-22",
-      "product": "Fresh ’n Rebel draadloze koptelefoonDiverse kleuren/st1295Weekactie",
-      "promoPrice": 12.95,
-      "validFrom": "2026-05-11",
-      "validUntil": "2026-05-17",
+      "product": "L'Oréal Elseve conditioner Clean Control200 ml/l229Weekactie",
+      "promoPrice": 11.45,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
       "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-05-16T07:01:21.894Z",
+  "scrapedAt": "2026-05-18T08:52:11.704Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"
