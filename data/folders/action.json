@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-18T08:52:05.814Z"
+      "scrapedAt": "2026-05-19T08:23:02.004Z"
     }
   ],
   "deals": [
@@ -260,9 +260,17 @@
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-23",
+      "product": "Lichtdoorlatend rolgordijn – 120 x 160 cm - witKettingbediening | breedte inkortbaar/m21995Op voorra",
+      "promoPrice": 10.39,
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-05-18T08:52:11.704Z",
+  "scrapedAt": "2026-05-19T08:23:08.431Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"
