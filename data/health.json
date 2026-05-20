@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T08:24:24.559Z",
+  "generatedAt": "2026-05-20T08:22:40.814Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-19T08:14:10.415Z",
+      "scrapedAt": "2026-05-20T08:12:28.398Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -47,7 +47,7 @@
           "live": true
         },
         {
-          "url": "https://folder-nl.lidl.be/97031/3049044/pdfs/b5b13955-09bf-4286-a53a-5c0cc34e74f8.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
+          "url": "https://folder-nl.lidl.be/97031/3049044/pdfs/bfb3f57e-cb39-4c5a-96f2-88d9c4a6b6b6.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
           "status": 200,
           "live": true
         }
@@ -84,7 +84,7 @@
       "name": "Colruyt",
       "status": "stale",
       "attempts": 4,
-      "dataAge": "35d",
+      "dataAge": "36d",
       "scrapedAt": "2026-04-14T13:25:36.190Z",
       "folderCount": 1,
       "dealCount": 0,
@@ -122,9 +122,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-19T08:23:08.431Z",
+      "scrapedAt": "2026-05-20T08:21:22.871Z",
       "folderCount": 1,
-      "dealCount": 24,
+      "dealCount": 23,
       "hasEmbed": true,
       "hasPdf": false,
       "hasPages": true,
@@ -143,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-19T08:23:47.549Z",
+      "scrapedAt": "2026-05-20T08:22:02.273Z",
       "folderCount": 1,
-      "dealCount": 25,
+      "dealCount": 14,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-19T08:24:21.604Z",
+      "scrapedAt": "2026-05-20T08:22:37.203Z",
       "folderCount": 1,
-      "dealCount": 147,
+      "dealCount": 162,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-19T08:23:32.317Z"
+      "scrapedAt": "2026-05-20T08:21:47.093Z"
     }
   ],
   "deals": [
@@ -66,164 +66,81 @@
     },
     {
       "id": "html-12",
-      "product": "Flared High Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f6/b0/f6b034867e7363479d7baa4196dfa5d5a38955c7.jpg",
+      "product": "Ajourgebreide trui met volants",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/b6/27/b627b8766f1223565ffc30bdbdbcb61798dc8300.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-13",
-      "product": "Gedrapeerde one-shoulderjurk",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ea/b2/eab209f1671b035b99005091278b1cc8c9a3d5de.jpg",
+      "product": "Set van 3 superkorte kanten sokken",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e4/13/e413c92a0cc124dba75621f2b9d4f17084740958.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-14",
-      "product": "Tennis-cirkelrok met DryMove™",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/fd/12/fd129f50fcc8a5072df77ecd41982002112dae52.jpg",
+      "product": "Mary Jane-ballerina's met geperforeerd dessin",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ad/dc/addc8ebca0cdcbd998fcdd47b191f53b62a43f5f.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Single-breasted blazer",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/55/2b/552b22eb0313e3e67420dccc68f52bcf54ca332e.jpg",
+      "product": "Oversized T-shirt",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7c/fa/7cfae021302f07dd16c8b2c48e05e0869a2c72df.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Espadrilleslippers",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/d6/4f/d64fe80e468530034efb44c0b1fb9ab488c15844.jpg",
+      "product": "Ballerina's met bedeltjes",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/05/69/0569bbd2fefcdba528955885e5970e320541feea.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Satijnen bloes met volants",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/1d/70/1d70de9ffba583fe28b91589145f62e1c4f56324.jpg",
+      "product": "Suède Mary Jane-ballerina's",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Bandeaujurk met versiersel",
+      "product": "Set van 5 slips Thong",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Sjaal met dessin",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-22",
-      "product": "Glitterjurk met schoudervullingen",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-23",
-      "product": "Flared Regular Waist Jeans",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-12",
-      "product": "T-shirt van pimakatoen met wijde hals",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/13/e8/13e873078a9c3d820a0d44ddc9c41b211bee69ba.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
-      "product": "Kniehoge laarzen",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0c/44/0c44935b697b29f13075721f20bbc8c0eea8de56.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Kniehoge cowboyboots",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/31/c7/31c76c5b71db78a0c7de0050b5a58dfcd3c0c81a.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "Ribgebreide top",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0e/90/0e9018bba2058f0a739abb1efb3a302b2a7502d0.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Haltertop met print",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/79/ca/79ca1dc617a67c763d45878454061480e2a31af7.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-18",
-      "product": "Ajourgebreide trui met volants",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-19",
-      "product": "Ribgebreide peplumtop",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "Oversized T-shirt met geprint motief",
+      "product": "Jurk met striklint Loose Fit",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Asymmetrische top met strikdetail",
+      "product": "Asymmetrische kanten rok",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Fijngebreide rok",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-23",
-      "product": "Set van 2 softbeha's van microvezel",
+      "product": "Getailleerde katoenen bloes",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-19T08:23:47.549Z",
+  "scrapedAt": "2026-05-20T08:22:02.273Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
