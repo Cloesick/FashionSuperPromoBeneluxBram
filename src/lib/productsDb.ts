@@ -306,7 +306,7 @@ export async function getProductStats(opts?: {
 			FROM promo_products
 			WHERE scraped_at >= ${since}
 		`;
-		const row = (result?.[0] ?? {}) as Record<string, unknown>;
+		const row = ((result as Record<string, unknown>[])?.[0] ?? {}) as Record<string, unknown>;
 		return {
 			total: (row.total as number) ?? 0,
 			retailers: (row.retailers as number) ?? 0,
