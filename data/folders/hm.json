@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-21T08:29:28.628Z"
+      "scrapedAt": "2026-05-21T11:50:15.240Z"
     }
   ],
   "deals": [
@@ -107,6 +107,7 @@
     {
       "id": "html-17",
       "product": "Ribgebreide trui met peplum en rits",
+      "imageUrl": "https://media.weekday.com/assets/003/db/42/db429736f5246d35c98f9b65013b879641e56af3.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
@@ -152,60 +153,9 @@
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "Leren ballerina's met gevlochten look",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/d7/41/d74159014b34bc11d08c1c668a283dfa66b85b1c.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Doorgestikt THERMOLITE®-jasje",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/bf/15/bf157febd1c7a3892e338cd830ea9734c4fc6739.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-18",
-      "product": "Ballerina's met gevlochten look",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-19",
-      "product": "Katoenen broek met trekkoord",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "Gedrapeerde jurk met cut-out",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-21",
-      "product": "Bandeaujurk met uitlopende rok",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-22",
-      "product": "Katoenen T-shirt met lange mouwen",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-21T08:29:44.083Z",
+  "scrapedAt": "2026-05-21T11:50:33.517Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
