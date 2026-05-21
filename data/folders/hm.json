@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-20T08:21:47.093Z"
+      "scrapedAt": "2026-05-21T08:29:28.628Z"
     }
   ],
   "deals": [
@@ -66,8 +66,8 @@
     },
     {
       "id": "html-12",
-      "product": "Ajourgebreide trui met volants",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/b6/27/b627b8766f1223565ffc30bdbdbcb61798dc8300.jpg",
+      "product": "Denim A-lijnrok",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9f/65/9f6548b6860d483f238f45aec6192adcccd31a71.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
@@ -82,65 +82,130 @@
     },
     {
       "id": "html-14",
-      "product": "Mary Jane-ballerina's met geperforeerd dessin",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ad/dc/addc8ebca0cdcbd998fcdd47b191f53b62a43f5f.jpg",
+      "product": "MAMA panty met dessin",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/43/9a/439a54a2ec659b323d28739a121962a8b8f54724.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Oversized T-shirt",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7c/fa/7cfae021302f07dd16c8b2c48e05e0869a2c72df.jpg",
+      "product": "Fluffy mantel",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0b/66/0b6625dda0641165f34ff5457dc59ad90f79b556.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Ballerina's met bedeltjes",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/05/69/0569bbd2fefcdba528955885e5970e320541feea.jpg",
+      "product": "Gedecoreerde minirok",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/1a/87/1a87140b0ecf733feb6531b92858c483d01af172.jpg",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Suède Mary Jane-ballerina's",
+      "product": "Ribgebreide trui met peplum en rits",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Mary Jane-ballerina's met geperforeerd dessin",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Set van 5 slips Thong",
+      "product": "Ajourgebreide trui met volants",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Jurk met striklint Loose Fit",
+      "product": "Jeansshort met trekkoord",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Asymmetrische kanten rok",
+      "product": "Strappy espadrilles",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Getailleerde katoenen bloes",
+      "product": "Skort met overslag",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Broek met coating",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Leren ballerina's met gevlochten look",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/d7/41/d74159014b34bc11d08c1c668a283dfa66b85b1c.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Doorgestikt THERMOLITE®-jasje",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/bf/15/bf157febd1c7a3892e338cd830ea9734c4fc6739.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Ballerina's met gevlochten look",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Katoenen broek met trekkoord",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Gedrapeerde jurk met cut-out",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Bandeaujurk met uitlopende rok",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Katoenen T-shirt met lange mouwen",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-20T08:22:02.273Z",
+  "scrapedAt": "2026-05-21T08:29:44.083Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

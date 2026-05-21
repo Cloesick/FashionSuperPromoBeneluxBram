@@ -212,9 +212,9 @@
         }
       ],
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-18-05-23-05",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3049044/pdfs/bfb3f57e-cb39-4c5a-96f2-88d9c4a6b6b6.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3049044/pdfs/a42e13e0-7135-4d0d-a814-7183a82ba03d.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-20T08:12:10.897Z"
+      "scrapedAt": "2026-05-21T08:20:09.215Z"
     }
   ],
   "deals": [
@@ -256,16 +256,16 @@
     },
     {
       "id": "html-29",
-      "product": "Jersey hoeslaken, 140-160 x 200 cm",
+      "product": "Microvezel satijnen dekbedovertrek, draaibaar, 140 x 200 cm",
       "originalPrice": 5.99,
-      "promoPrice": 5.99184,
+      "promoPrice": 5.99174,
       "discount": "Ook in de winkel van 22/05 - 04/06",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-20T08:12:28.398Z",
+  "scrapedAt": "2026-05-21T08:20:26.385Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-18-05-23-05"

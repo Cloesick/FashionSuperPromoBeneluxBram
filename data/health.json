@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T08:22:40.814Z",
+  "generatedAt": "2026-05-21T08:30:20.641Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -7,9 +7,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-18T08:36:19.749Z",
+      "scrapedAt": "2026-05-21T08:13:27.122Z",
       "folderCount": 1,
-      "dealCount": 75,
+      "dealCount": 73,
       "hasEmbed": true,
       "hasPdf": true,
       "hasPages": true,
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-20T08:12:28.398Z",
+      "scrapedAt": "2026-05-21T08:20:26.385Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -47,7 +47,7 @@
           "live": true
         },
         {
-          "url": "https://folder-nl.lidl.be/97031/3049044/pdfs/bfb3f57e-cb39-4c5a-96f2-88d9c4a6b6b6.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
+          "url": "https://folder-nl.lidl.be/97031/3049044/pdfs/a42e13e0-7135-4d0d-a814-7183a82ba03d.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
           "status": 200,
           "live": true
         }
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-18T08:50:02.688Z",
+      "scrapedAt": "2026-05-21T08:26:56.536Z",
       "folderCount": 1,
       "dealCount": 0,
       "hasEmbed": true,
@@ -68,12 +68,12 @@
       "validationIssues": [],
       "probeResults": [
         {
-          "url": "https://view.publitas.com/delhaize-belgium-nl/w20-2026-nl/page/1?publitas_embed=embedded",
+          "url": "https://view.publitas.com/delhaize-belgium-nl/w21-2026-nl/page/1?publitas_embed=embedded",
           "status": 200,
           "live": true
         },
         {
-          "url": "https://view.publitas.com/11013/3061696/pdfs/6ce16e60-c792-4b53-a9e1-b8122e941440.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W20-2026-NL.pdf",
+          "url": "https://view.publitas.com/11013/3084502/pdfs/a45ed21d-6400-4efe-a1ab-e461fae02be9.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W21-2026-NL.pdf",
           "status": 200,
           "live": true
         }
@@ -84,7 +84,7 @@
       "name": "Colruyt",
       "status": "stale",
       "attempts": 4,
-      "dataAge": "36d",
+      "dataAge": "37d",
       "scrapedAt": "2026-04-14T13:25:36.190Z",
       "folderCount": 1,
       "dealCount": 0,
@@ -143,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-20T08:22:02.273Z",
+      "scrapedAt": "2026-05-21T08:29:44.083Z",
       "folderCount": 1,
-      "dealCount": 14,
+      "dealCount": 23,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-20T08:22:37.203Z",
+      "scrapedAt": "2026-05-21T08:30:18.134Z",
       "folderCount": 1,
-      "dealCount": 162,
+      "dealCount": 175,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
