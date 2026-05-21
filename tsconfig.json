@@ -37,5 +37,5 @@
     ".next-fashion/types/**/*.ts",
     ".next-fashion/dev/types/**/*.ts"
   ],
-  "exclude": ["node_modules", "cypress"]
+  "exclude": ["node_modules", "cypress", "src/scrapers"]
 }
