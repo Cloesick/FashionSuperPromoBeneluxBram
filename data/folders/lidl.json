@@ -212,9 +212,9 @@
         }
       ],
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-18-05-23-05",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3049044/pdfs/a42e13e0-7135-4d0d-a814-7183a82ba03d.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3049044/pdfs/1191c1af-8fb9-4645-a78e-11f301da08f5.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-21T08:20:09.215Z"
+      "scrapedAt": "2026-05-21T17:24:10.897Z"
     }
   ],
   "deals": [
@@ -265,7 +265,7 @@
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-21T08:20:26.385Z",
+  "scrapedAt": "2026-05-21T17:24:27.377Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-18-05-23-05"
