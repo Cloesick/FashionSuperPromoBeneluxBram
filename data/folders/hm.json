@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-21T17:33:15.251Z"
+      "scrapedAt": "2026-05-22T08:18:57.251Z"
     }
   ],
   "deals": [
@@ -66,6 +66,46 @@
     },
     {
       "id": "html-12",
+      "product": "Denim A-lijnrok",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9f/65/9f6548b6860d483f238f45aec6192adcccd31a71.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
+      "product": "Set van 3 superkorte kanten sokken",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e4/13/e413c92a0cc124dba75621f2b9d4f17084740958.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-14",
+      "product": "MAMA panty met dessin",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/43/9a/439a54a2ec659b323d28739a121962a8b8f54724.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Triangelbikinitop met padding",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/55/1d/551d7d45b833362859e5f2cc536a87c448413828.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Fluffy mantel",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0b/66/0b6625dda0641165f34ff5457dc59ad90f79b556.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
       "product": "Gedecoreerde minirok",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/1a/87/1a87140b0ecf733feb6531b92858c483d01af172.jpg",
       "validFrom": "2026-05-18",
@@ -73,89 +113,116 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-13",
-      "product": "Ribgebreide trui met peplum en rits",
-      "imageUrl": "https://media.weekday.com/assets/003/db/42/db429736f5246d35c98f9b65013b879641e56af3.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
-      "product": "Skort met overslag",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/28/8f/288f023c31720078a734a0b6a3966c1c0ad4dbf5.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Broek met coating",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/78/26/7826d03f50f38bf8bb79df0b0c128652a45dfcf6.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "3 paar sportsokken met DryMove™",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/62/0d/620db098faff028ca812237191e683ea0f15725e.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Opengewerkte slip-ins",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/af/c6/afc6b1fe170ccb295afe58a6ad1bfd4a018cf7fa.jpg",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-18",
-      "product": "Sandalen met kittenheel",
+      "product": "Ribgebreide trui met peplum en rits",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Ballerina's met bedeltjes",
+      "product": "Ajourgebreide trui met volants",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Low jersey hotpants",
+      "product": "Jeansshort met trekkoord",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Sportieve fietsshort met hoge taille",
+      "product": "Mary Jane-ballerina's met geperforeerd dessin",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Leren ballerina's met gevlochten look",
+      "product": "Strappy espadrilles",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Doorgestikt THERMOLITE®-jasje",
+      "product": "Skort met overslag",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
+      "product": "Denim barrel-broek",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0f/8a/0f8aeec64d732431ecd4c3167b75479d03c20732.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Denim broek met trekkoord",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/fe/7f/fe7f7588f03f9fbe5ae58b99e9de9c4dfcdc0c9e.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Maxirok van crinklesatijn",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0e/07/0e074d06466bd7c095d8146a5ec76ab8d9112e25.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Uitlopende rok met elastische taille",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9d/cb/9dcbde1f58c55f5e1e24296d3a01875ba497d07c.jpg",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Ribgebreide top",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Panty met dessin - 20 denier",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Kanten panty",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Ribgebreide jurk",
+      "validFrom": "2026-05-18",
+      "validUntil": "2026-05-24",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Shaping panty - 20 denier",
       "validFrom": "2026-05-18",
       "validUntil": "2026-05-24",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-21T17:33:30.699Z",
+  "scrapedAt": "2026-05-22T08:19:13.502Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

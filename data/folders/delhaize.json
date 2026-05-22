@@ -214,37 +214,17 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w21-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3084502/pdfs/a45ed21d-6400-4efe-a1ab-e461fae02be9.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W21-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-21T17:30:01.339Z"
+      "scrapedAt": "2026-05-22T08:15:41.560Z"
     }
   ],
-  "deals": [
-    {
-      "id": "pagetext-0",
-      "product": "OnlineAxe Deo | Bodyspray | Gold Oud Wood & Dark vanilla | 150ml15 cl32,10 €/l35,67 €/l€481S20210119",
-      "promoPrice": 5.35,
-      "discount": "-10%",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-1",
-      "product": "OnlineMc Cain Oven | Frieten | Klassiek700 gr3,99 €/kg5,70 €/kg€279S202208030027428009819",
-      "promoPrice": 3.99,
-      "discount": "-30%",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "delhaize"
-    }
-  ],
-  "scrapedAt": "2026-05-21T17:30:47.267Z",
+  "deals": [],
+  "scrapedAt": "2026-05-22T08:16:28.162Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
   "methods": [
     "publitas",
     "pdf",
-    "screenshot",
-    "page-text"
+    "screenshot"
   ]
 }
