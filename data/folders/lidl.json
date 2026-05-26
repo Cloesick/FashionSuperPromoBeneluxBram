@@ -2,228 +2,168 @@
   "retailer": "lidl",
   "folders": [
     {
-      "id": "lidl-2026-w21-folder",
+      "id": "lidl-2026-w22-folder",
       "retailerSlug": "lidl",
       "title": "Lidl folder van de week",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "pageCount": 40,
-      "thumbnailUrl": "/screenshots/lidl-2026-w21-pdfimg-p1.webp",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "pageCount": 28,
+      "thumbnailUrl": "/screenshots/lidl-2026-w22-pdfimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p1.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p1.webp",
           "deals": []
         },
         {
           "pageNumber": 2,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p2.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p2.webp",
           "deals": []
         },
         {
           "pageNumber": 3,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p3.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p3.webp",
           "deals": []
         },
         {
           "pageNumber": 4,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p4.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p4.webp",
           "deals": []
         },
         {
           "pageNumber": 5,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p5.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p5.webp",
           "deals": []
         },
         {
           "pageNumber": 6,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p6.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p6.webp",
           "deals": []
         },
         {
           "pageNumber": 7,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p7.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p7.webp",
           "deals": []
         },
         {
           "pageNumber": 8,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p8.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p8.webp",
           "deals": []
         },
         {
           "pageNumber": 9,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p9.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p9.webp",
           "deals": []
         },
         {
           "pageNumber": 10,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p10.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p10.webp",
           "deals": []
         },
         {
           "pageNumber": 11,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p11.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p11.webp",
           "deals": []
         },
         {
           "pageNumber": 12,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p12.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p12.webp",
           "deals": []
         },
         {
           "pageNumber": 13,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p13.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p13.webp",
           "deals": []
         },
         {
           "pageNumber": 14,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p14.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p14.webp",
           "deals": []
         },
         {
           "pageNumber": 15,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p15.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p15.webp",
           "deals": []
         },
         {
           "pageNumber": 16,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p16.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p16.webp",
           "deals": []
         },
         {
           "pageNumber": 17,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p17.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p17.webp",
           "deals": []
         },
         {
           "pageNumber": 18,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p18.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p18.webp",
           "deals": []
         },
         {
           "pageNumber": 19,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p19.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p19.webp",
           "deals": []
         },
         {
           "pageNumber": 20,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p20.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p20.webp",
           "deals": []
         },
         {
           "pageNumber": 21,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p21.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p21.webp",
           "deals": []
         },
         {
           "pageNumber": 22,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p22.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p22.webp",
           "deals": []
         },
         {
           "pageNumber": 23,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p23.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p23.webp",
           "deals": []
         },
         {
           "pageNumber": 24,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p24.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p24.webp",
           "deals": []
         },
         {
           "pageNumber": 25,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p25.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p25.webp",
           "deals": []
         },
         {
           "pageNumber": 26,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p26.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p26.webp",
           "deals": []
         },
         {
           "pageNumber": 27,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p27.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p27.webp",
           "deals": []
         },
         {
           "pageNumber": 28,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p28.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 29,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p29.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 30,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p30.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 31,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p31.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 32,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p32.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 33,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p33.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 34,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p34.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 35,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p35.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 36,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p36.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 37,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p37.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 38,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p38.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 39,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p39.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 40,
-          "imageUrl": "/screenshots/lidl-2026-w21-pdfimg-p40.webp",
+          "imageUrl": "/screenshots/lidl-2026-w22-pdfimg-p28.webp",
           "deals": []
         }
       ],
-      "embedUrl": "https://folder-nl.lidl.be/nl-folder-18-05-23-05",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3049044/pdfs/1191c1af-8fb9-4645-a78e-11f301da08f5.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252018-05-23-05.pdf",
+      "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-22T08:09:45.609Z"
+      "scrapedAt": "2026-05-26T17:37:26.857Z"
     }
   ],
   "deals": [
     {
       "id": "html-0",
-      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "promoPrice": 29.99,
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
+      "product": "Houtskoolbarbecue",
+      "promoPrice": 129.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     },
     {
@@ -231,8 +171,8 @@
       "product": "Microvezel satijnen dekbedovertrek, draaibaar, 240 x 220 cm",
       "promoPrice": 9.95,
       "discount": "Ook in de winkel van 22/05 - 04/06",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     },
     {
@@ -241,34 +181,34 @@
       "originalPrice": 6.99,
       "promoPrice": 6.99155,
       "discount": "Ook in de winkel van 22/05 - 04/06",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-22",
-      "product": "Houtskoolbarbecue",
-      "originalPrice": 129.99,
-      "promoPrice": 129.992399,
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-29",
       "product": "Microvezel satijnen dekbedovertrek, draaibaar, 140 x 200 cm",
       "originalPrice": 5.99,
       "promoPrice": 5.99174,
       "discount": "Ook in de winkel van 22/05 - 04/06",
-      "validFrom": "2026-05-18",
-      "validUntil": "2026-05-24",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-29",
+      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
+      "promoPrice": 29.99,
+      "discount": "Ook in de winkel van 27/05 - 09/06",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-22T08:10:02.597Z",
+  "scrapedAt": "2026-05-26T17:37:43.850Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
-    "https://folder-nl.lidl.be/nl-folder-18-05-23-05"
+    "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"
   ],
   "methods": [
     "publitas",
