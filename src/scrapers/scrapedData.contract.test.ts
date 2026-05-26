@@ -37,10 +37,10 @@ describe("scraper output contract", () => {
 					validFrom: "2026-03-30",
 					validUntil: "2026-04-05",
 					pageCount: 2,
-					thumbnailUrl: "/screenshots/p1.png",
+					thumbnailUrl: "/screenshots/p1.webp",
 					pages: [
-						{ pageNumber: 1, imageUrl: "/screenshots/p1.png", deals: [] },
-						{ pageNumber: 2, imageUrl: "/screenshots/p2.png", deals: [] },
+						{ pageNumber: 1, imageUrl: "/screenshots/p1.webp", deals: [] },
+						{ pageNumber: 2, imageUrl: "/screenshots/p2.webp", deals: [] },
 					],
 					contentSource: "screenshot",
 					scrapedAt: new Date().toISOString(),

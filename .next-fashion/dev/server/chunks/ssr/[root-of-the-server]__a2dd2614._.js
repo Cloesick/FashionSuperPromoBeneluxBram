@@ -1,7 +1,7 @@
 module.exports = [
-"[project]/src/app/icon.svg.mjs { IMAGE => \"[project]/src/app/icon.svg (static in ecmascript, tag client)\" } [app-rsc] (structured image object, ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
+"[project]/src/app/icon.webp.mjs { IMAGE => \"[project]/src/app/icon.webp (static in ecmascript, tag client)\" } [app-rsc] (structured image object, ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
 
-__turbopack_context__.n(__turbopack_context__.i("[project]/src/app/icon.svg.mjs { IMAGE => \"[project]/src/app/icon.svg (static in ecmascript, tag client)\" } [app-rsc] (structured image object, ecmascript)"));
+__turbopack_context__.n(__turbopack_context__.i("[project]/src/app/icon.webp.mjs { IMAGE => \"[project]/src/app/icon.webp (static in ecmascript, tag client)\" } [app-rsc] (structured image object, ecmascript)"));
 }),
 "[externals]/next/dist/shared/lib/no-fallback-error.external.js [external] (next/dist/shared/lib/no-fallback-error.external.js, cjs)", ((__turbopack_context__, module, exports) => {
 

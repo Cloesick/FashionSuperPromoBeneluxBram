@@ -46,7 +46,7 @@ export async function generateMetadata({
 			url: pageUrl,
 			images: [
 				{
-					url: `${baseUrl}/icon.svg`,
+					url: `${baseUrl}/icon.webp`,
 					width: 512,
 					height: 512,
 					alt: getSiteTitle(),
@@ -57,7 +57,7 @@ export async function generateMetadata({
 			card: "summary",
 			title: `${retailer.name} folder deze week | ${getSiteTitle()}`,
 			description: retailer.description,
-			images: [`${baseUrl}/icon.svg`],
+			images: [`${baseUrl}/icon.webp`],
 		},
 	};
 }
@@ -75,7 +75,7 @@ export default async function RetailerPage({ params }: PageProps) {
 	const outboundUrl = `/out/${slug}`;
 	const site = getSiteConfig();
 
-	const isSvgLogo = retailer.logo.toLowerCase().endsWith(".svg");
+	const isSvgLogo = retailer.logo.toLowerCase().endsWith(".webp");
 
 	const { seo } = retailer;
 	const faqItems = [

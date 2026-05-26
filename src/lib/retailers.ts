@@ -4,7 +4,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "hm",
 		name: "H&M",
-		logo: "/retailers/hm.svg",
+		logo: "/retailers/hm.webp",
 		color: "#E11D48",
 		website: "https://www2.hm.com/nl_be",
 		description:
@@ -24,7 +24,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "zalando",
 		name: "Zalando",
-		logo: "/retailers/zalando.svg",
+		logo: "/retailers/zalando.webp",
 		color: "#111827",
 		website: "https://www.zalando.be",
 		description: "Bekijk Zalando promoties op mode, schoenen en accessoires.",
@@ -43,7 +43,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "albert-heijn",
 		name: "Albert Heijn",
-		logo: "/retailers/albert-heijn.png",
+		logo: "/retailers/albert-heijn.webp",
 		color: "#00A0E2",
 		website: "https://www.ah.be",
 		description:
@@ -68,7 +68,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "lidl",
 		name: "Lidl",
-		logo: "/retailers/lidl.png",
+		logo: "/retailers/lidl.webp",
 		color: "#0050AA",
 		website: "https://www.lidl.be",
 		description:
@@ -93,7 +93,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "delhaize",
 		name: "Delhaize",
-		logo: "/retailers/delhaize.png",
+		logo: "/retailers/delhaize.webp",
 		color: "#E31837",
 		website: "https://www.delhaize.be",
 		description:
@@ -119,7 +119,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "colruyt",
 		name: "Colruyt",
-		logo: "/retailers/colruyt.png",
+		logo: "/retailers/colruyt.webp",
 		color: "#E94E1B",
 		website: "https://www.colruyt.be",
 		description:
@@ -146,7 +146,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "aldi",
 		name: "ALDI",
-		logo: "/retailers/aldi.svg",
+		logo: "/retailers/aldi.webp",
 		color: "#0B5AA2",
 		website: "https://www.aldi.be",
 		description:
@@ -171,7 +171,7 @@ export const retailersBe: Retailer[] = [
 	{
 		slug: "action",
 		name: "Action",
-		logo: "/retailers/action.svg",
+		logo: "/retailers/action.webp",
 		color: "#0046AD",
 		website: "https://www.action.com/nl-be",
 		description:

@@ -1550,7 +1550,7 @@ export abstract class BaseScraper {
 					);
 				}
 
-				const filename = `${this.generateFolderId(`viewerimg-p${i}`)}.png`;
+				const filename = `${this.generateFolderId(`viewerimg-p${i}`)}.webp`;
 				const filepath = path.join(SCREENSHOT_DIR, filename);
 				const clip = await getViewerClip();
 				if (clip) {
@@ -1607,7 +1607,7 @@ export abstract class BaseScraper {
 					);
 				}
 
-				const filename = `${this.generateFolderId(`viewerimg-p${i}`)}.png`;
+				const filename = `${this.generateFolderId(`viewerimg-p${i}`)}.webp`;
 				const filepath = path.join(SCREENSHOT_DIR, filename);
 				const clip = await getViewerClip();
 				if (clip) {
@@ -1624,7 +1624,7 @@ export abstract class BaseScraper {
 			}
 		}
 
-		const filename = `${this.generateFolderId("viewerimg-p1")}.png`;
+		const filename = `${this.generateFolderId("viewerimg-p1")}.webp`;
 		const filepath = path.join(SCREENSHOT_DIR, filename);
 
 		if (await isOfflinePublication()) {
@@ -1728,7 +1728,7 @@ export abstract class BaseScraper {
 					break;
 				}
 
-				const filename = `${this.generateFolderId(`pdfimg-p${i}`)}.png`;
+				const filename = `${this.generateFolderId(`pdfimg-p${i}`)}.webp`;
 				const filepath = path.join(SCREENSHOT_DIR, filename);
 
 				const embed = (await pdfPage.$("embed")) || (await pdfPage.$("iframe"));
