@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-26T17:47:00.073Z"
+      "scrapedAt": "2026-05-27T08:45:34.101Z"
     }
   ],
   "deals": [
@@ -73,23 +73,39 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-13",
+      "product": "Panty met dessin - 20 denier",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-14",
-      "product": "Set van 10 katoenen slips Thong",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e7/5a/e75a4a28300716a9e9281f33ccf8dafa3c5ea2a7.jpg",
+      "product": "Panty - 40 denier",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ea/3c/ea3c624161ac3857683d0017a782971dbbae0023.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Body met kanten bovenstuk",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ae/21/ae211d47765f1e1186d98e866b574fcb8a1ccd4e.jpg",
+      "product": "Shaping panty - 20 denier",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9e/a0/9ea00141ca1e717995be3a520f963817cb3a2b37.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
+      "product": "Kanten panty",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/1c/73/1c732996021eca9a461cf3174568b2a480a5e104.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
       "product": "MAMA panty met dessin",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/43/9a/439a54a2ec659b323d28739a121962a8b8f54724.jpg",
       "validFrom": "2026-05-25",
@@ -97,56 +113,50 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-17",
-      "product": "Gedrapeerde jurk van linnenmix",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-18",
-      "product": "Ribgebreid T-shirt",
+      "product": "Top in jersey met twistdetail",
+      "imageUrl": "https://media.cos.com/assets/001/44/6b/446b8694c5bcaa6bf8cdc79badc90c00301b67be.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Ribgebreide top",
+      "product": "Asymmetrisch top met gehaakte look",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Panty met dessin - 20 denier",
+      "product": "Top van zijdemix met gehaakte look",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Kanten panty",
+      "product": "Jurk met striklintjes",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Panty - 40 denier",
+      "product": "Denim bloes met smokwerk",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Set van 2 kanten slips - Hipster",
+      "product": "Badpak met cups met padding",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-26T17:47:12.875Z",
+  "scrapedAt": "2026-05-27T08:45:50.832Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

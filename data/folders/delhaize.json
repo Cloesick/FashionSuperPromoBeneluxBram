@@ -214,45 +214,17 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w21-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3084502/pdfs/e96afdd4-9ad1-4682-9bc0-85bdc5a4d2f7.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W21-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-26T17:43:24.023Z"
+      "scrapedAt": "2026-05-27T08:41:11.412Z"
     }
   ],
-  "deals": [
-    {
-      "id": "pagetext-0",
-      "product": "OnlineMc Cain Oven | Frieten | Klassiek700 gr3,99 €/kg5,70 €/kg€279S202208030027428009817",
-      "promoPrice": 3.99,
-      "discount": "-30%",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-1",
-      "product": "OnlineCheetos Chips | Crunchitos | Sweet Chili110 gr16,02 €/kg21,36 €/kg€176S202303230055991000018",
-      "promoPrice": 2.35,
-      "discount": "-25%",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-2",
-      "product": "Delhaize Zalmfilet | Zonder vel+/- 290 gr27,44 €/kg+/-  €+/-€796F199003130024940000019",
-      "promoPrice": 8.84,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "delhaize"
-    }
-  ],
-  "scrapedAt": "2026-05-26T17:44:09.868Z",
+  "deals": [],
+  "scrapedAt": "2026-05-27T08:42:00.691Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
   "methods": [
     "publitas",
     "pdf",
-    "screenshot",
-    "page-text"
+    "screenshot"
   ]
 }
