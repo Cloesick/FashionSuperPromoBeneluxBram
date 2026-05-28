@@ -154,22 +154,22 @@
       "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
       "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-27T08:35:08.134Z"
+      "scrapedAt": "2026-05-28T08:36:04.316Z"
     }
   ],
   "deals": [
     {
       "id": "html-0",
-      "product": "Houtskoolbarbecue",
-      "promoPrice": 129.99,
+      "product": "Lokale airconditioner",
+      "promoPrice": 149.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-7",
-      "product": "Lokale airconditioner",
-      "promoPrice": 149.99,
+      "product": "Bladloze standventilator",
+      "promoPrice": 74.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
@@ -185,23 +185,24 @@
     },
     {
       "id": "html-21",
-      "product": "Bladloze standventilator",
-      "promoPrice": 74.99,
+      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
+      "originalPrice": 29.99,
+      "promoPrice": 29.993319,
+      "discount": "Ook in de winkel van 27/05 - 09/06",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-28",
-      "product": "Microvezel satijnen dekbedovertrek, draaibaar, 240 x 220 cm",
-      "promoPrice": 9.95,
-      "discount": "Ook in de winkel van 22/05 - 04/06",
+      "id": "html-29",
+      "product": "Houtskoolbarbecue",
+      "promoPrice": 129.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-27T08:35:25.466Z",
+  "scrapedAt": "2026-05-28T08:36:20.938Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"

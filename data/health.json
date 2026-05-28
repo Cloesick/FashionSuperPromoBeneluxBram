@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T18:01:32.696Z",
+  "generatedAt": "2026-05-28T08:46:02.281Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-27T08:35:25.466Z",
+      "scrapedAt": "2026-05-28T08:36:20.938Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -59,21 +59,21 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-27T17:58:04.685Z",
+      "scrapedAt": "2026-05-28T08:42:41.305Z",
       "folderCount": 1,
-      "dealCount": 1,
+      "dealCount": 0,
       "hasEmbed": true,
       "hasPdf": true,
       "hasPages": true,
       "validationIssues": [],
       "probeResults": [
         {
-          "url": "https://view.publitas.com/delhaize-belgium-nl/w21-2026-nl/page/1?publitas_embed=embedded",
+          "url": "https://view.publitas.com/delhaize-belgium-nl/w22-2026-nl/page/1?publitas_embed=embedded",
           "status": 200,
           "live": true
         },
         {
-          "url": "https://view.publitas.com/11013/3084502/pdfs/e96afdd4-9ad1-4682-9bc0-85bdc5a4d2f7.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W21-2026-NL.pdf",
+          "url": "https://view.publitas.com/11013/3104953/pdfs/0009b6d2-2843-4ef7-8dfb-832c5fcd4f81.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W22-2026-NL.pdf",
           "status": 200,
           "live": true
         }
@@ -84,7 +84,7 @@
       "name": "Colruyt",
       "status": "stale",
       "attempts": 4,
-      "dataAge": "43d",
+      "dataAge": "44d",
       "scrapedAt": "2026-04-14T13:25:36.190Z",
       "folderCount": 1,
       "dealCount": 0,
@@ -122,7 +122,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-27T08:45:10.146Z",
+      "scrapedAt": "2026-05-28T08:44:49.281Z",
       "folderCount": 1,
       "dealCount": 23,
       "hasEmbed": true,
@@ -143,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-27T18:00:55.317Z",
+      "scrapedAt": "2026-05-28T08:45:27.700Z",
       "folderCount": 1,
-      "dealCount": 15,
+      "dealCount": 25,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-27T18:01:29.773Z",
+      "scrapedAt": "2026-05-28T08:45:59.810Z",
       "folderCount": 1,
-      "dealCount": 155,
+      "dealCount": 160,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

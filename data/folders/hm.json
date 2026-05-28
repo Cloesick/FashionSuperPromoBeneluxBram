@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-27T18:00:37.470Z"
+      "scrapedAt": "2026-05-28T08:45:12.736Z"
     }
   ],
   "deals": [
@@ -66,22 +66,6 @@
     },
     {
       "id": "html-12",
-      "product": "Flared jurk van Ponte di Roma",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e0/c2/e0c2a625137fa3209996781b086d3926aa896de7.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-13",
-      "product": "Ribgebreide jurk",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/89/51/89517b1a77ab7911d02ff34665b25afe77a784f9.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
       "product": "Oversized tuniekjurk",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/bc/25/bc25df91033a197f6d4f5ffb6f026711cc05043b.jpg",
       "validFrom": "2026-05-25",
@@ -89,66 +73,156 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-13",
+      "product": "3 paar ribgebreide enkelsokken",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/6d/9f/6d9fd3c3a68bbdd9b53449c52b167e2d79db9d70.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-14",
+      "product": "Double-faced jas",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e5/ba/e5ba93292bf0e8e1746b5c9b04c959c0dd4d4163.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-15",
-      "product": "Warmgevoerde chelseaboots",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/74/3c/743c1a2a477391b347dcfadef024c8921a150fc6.jpg",
+      "product": "Open-backjurk met striklintjes",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3a/f9/3af9a2a33d91840281a899a5c6faac7afae3fdab.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Sportfietsshort met SoftMove™",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9f/46/9f46e7c22a3ad47be7d39ab6f17e7b9d449529ae.jpg",
+      "product": "Flared jurk van Ponte di Roma",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e0/c2/e0c2a625137fa3209996781b086d3926aa896de7.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Kniehoge laarzen",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/86/3f/863f5d08ad6f7049946d7eca294e83e6c3b2ec38.jpg",
+      "product": "Ribgebreide jurk",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/89/51/89517b1a77ab7911d02ff34665b25afe77a784f9.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
-      "product": "Maxi-jurk met striklintjes",
+      "product": "Adventskalender met bad- en bodyproducten",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Wijde geklede broek",
+      "product": "Warmgevoerde chelseaboots",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Ajourgebreide trui met volants",
+      "product": "Flared High Jeans",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Barrel High Waist Jeans",
+      "product": "Denim bloes met smokwerk",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Maxi-jurk met onbedekte rug",
+      "product": "Badpak met cups met padding",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Sportfietsshort met SoftMove™",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Slippers",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/10/d6/10d699b3c40447fc1f890e1f43d05a66c3f4b25f.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Panty met dessin - 20 denier",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Denim ballonbroek",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/c3/84/c384939154a8bc49efff27134cbd1849dc16de19.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Denim broek met trekkoordjes",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/7f/ac/7face9e3443842438402272c37ac25a18eaf74d8.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Bikinislip - Brazilian",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Sarong",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Shaping panty - 20 denier",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Kanten panty",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Sandalen",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-27T18:00:55.317Z",
+  "scrapedAt": "2026-05-28T08:45:27.700Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
