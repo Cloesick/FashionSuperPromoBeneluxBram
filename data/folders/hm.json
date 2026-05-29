@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-28T18:08:40.601Z"
+      "scrapedAt": "2026-05-29T08:32:19.807Z"
     }
   ],
   "deals": [
@@ -39,11 +39,15 @@
     },
     {
       "id": "jsonld-1",
-      "product": "Panty met dessin",
-      "originalPrice": 12.99,
+      "product": "Kostuumpantalon met hoge taille en wijde pijpen",
+      "originalPrice": 34.99,
       "imageUrl": [
-        "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
-        "https://image.hm.com/assets/hm/72/d4/72d411b4796d71a1a9aa63ff1af9177feb559be1.jpg"
+        "https://media.weekday.com/assets/003/f0/25/f025e27843f7de0e09f4089fa5a5191798be773e.jpg",
+        "https://media.weekday.com/assets/003/35/55/3555675e2dbe6a67b3f816e0b922f34c656ec962.jpg",
+        "https://media.weekday.com/assets/003/6e/b9/6eb94b53ab0d9b96ea7754794bd30ca183153c48.jpg",
+        "https://media.weekday.com/assets/003/dd/75/dd7534b6b3938299286c4a2c208c9d7194b4e6e8.jpg",
+        "https://media.weekday.com/assets/003/da/fa/dafa54986962756d5e13fa2b18724c118c387aed.jpg",
+        "https://media.weekday.com/assets/003/f8/3a/f83a3fca474e3c643751446105e0584e2aec14e3.jpg"
       ],
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
@@ -59,6 +63,7 @@
     {
       "id": "html-10",
       "product": "Gebreide peplumtop",
+      "originalPrice": 19.99,
       "imageUrl": "https://image.hm.com/assets/hm/ac/5e/ac5e61b2acb8398a161704fad6a00b1be3ae1293.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
@@ -66,40 +71,45 @@
     },
     {
       "id": "html-12",
-      "product": "3 paar ribgebreide enkelsokken",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/6d/9f/6d9fd3c3a68bbdd9b53449c52b167e2d79db9d70.jpg",
+      "product": "Bandeaujurk met peplum",
+      "originalPrice": 34.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/33/e3/33e33eb3fdc103ae7f0e61042a57448549fa9665.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-13",
-      "product": "Double-faced jas",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e5/ba/e5ba93292bf0e8e1746b5c9b04c959c0dd4d4163.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
       "product": "Ribgebreide peplumtop",
+      "originalPrice": 22.99,
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/64/77/647769fd8cc6402d58ddfa2ee774577e40cb9037.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-15",
+      "id": "html-14",
       "product": "Open-backjurk met striklintjes",
+      "originalPrice": 59.99,
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3a/f9/3af9a2a33d91840281a899a5c6faac7afae3fdab.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
+      "id": "html-15",
+      "product": "Trui met peplum",
+      "originalPrice": 24.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a4/2e/a42e953e3c35af737f568b4083a5e16ca19de96c.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-16",
-      "product": "Enkellange broek van linnenmix",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0b/cf/0bcfb83760602c11d71f97c157fdbcd8b4758106.jpg",
+      "product": "Booty Bei Low Rise Skinny Bootcut Jeans",
+      "originalPrice": 39.99,
+      "imageUrl": "https://media.weekday.com/assets/003/b0/22/b022cfc94e9a8030ff516d90dc216ed20671f2c7.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
@@ -107,6 +117,8 @@
     {
       "id": "html-17",
       "product": "Fijngebreid T-shirt",
+      "originalPrice": 14.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/72/60/7260c27c693afbc409020a033780cd067bde181c.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
@@ -114,54 +126,138 @@
     {
       "id": "html-18",
       "product": "Uitlopende jurk met pofmouwen",
+      "originalPrice": 29.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Panty met dessin - 20 denier",
+      "product": "Oversized sweater met V-hals",
+      "originalPrice": 19.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Shaping panty - 20 denier",
+      "product": "Peplumbloes",
+      "originalPrice": 24.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Kanten panty",
+      "product": "Jacquardgeweven peplumtop",
+      "originalPrice": 22.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Peplumbloes",
+      "product": "Slippers",
+      "originalPrice": 19.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Slipdress met kant",
+      "product": "Bandeauplaysuit met peplum",
+      "originalPrice": 39.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
+      "product": "Top met V-hals en volant",
+      "originalPrice": 22.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/51/d6/51d6343ac83669aecfa76b4bbb6c4bc24ccb305a.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-14",
+      "product": "Jeansjurk met uitlopende rok",
+      "originalPrice": 29.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a5/aa/a5aa9532ccccd527ba23ebf1c1ab7ca3f25253aa.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Korte off-the-shouldertop",
+      "originalPrice": 24.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/81/50/81507285d78bfb1b15feb485de6ada3bce328a90.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "Satijnen maxirok",
+      "originalPrice": 29.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f1/98/f198d82e9e5b191a94a4be6ab852a6543f328eb5.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Straptop met pofeffect",
+      "originalPrice": 17.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/b7/39/b739015c1cb5258cc59253d391ef928c2028051a.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Off-the-shouldertop met peplum",
+      "originalPrice": 32.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Broek",
+      "originalPrice": 29.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Sandalen met bandjes en kralen",
+      "originalPrice": 34.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Baggy Regular Waist Jeans",
+      "originalPrice": 27.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Sweatpants",
+      "product": "Peplumtop van Punta di Roma",
+      "originalPrice": 12.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-28T18:08:55.507Z",
+  "scrapedAt": "2026-05-29T08:32:37.136Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

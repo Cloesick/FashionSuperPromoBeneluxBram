@@ -154,37 +154,12 @@
       "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
       "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-28T17:59:22.534Z"
+      "scrapedAt": "2026-05-29T08:23:14.760Z"
     }
   ],
   "deals": [
     {
       "id": "html-0",
-      "product": "Mobiele airco",
-      "promoPrice": 149.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-7",
-      "product": "Bladloze standventilator",
-      "promoPrice": 74.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-14",
-      "product": "Ijsblokjesmachine",
-      "originalPrice": 69.95,
-      "promoPrice": 69.9564,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-21",
       "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
       "originalPrice": 29.99,
       "promoPrice": 29.993319,
@@ -194,15 +169,40 @@
       "retailerSlug": "lidl"
     },
     {
+      "id": "html-8",
+      "product": "Bladloze standventilator",
+      "promoPrice": 74.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-15",
+      "product": "Mobiele airco",
+      "promoPrice": 149.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-22",
+      "product": "Ijsblokjesmachine",
+      "originalPrice": 69.95,
+      "promoPrice": 69.9564,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "lidl"
+    },
+    {
       "id": "html-29",
-      "product": "Houtskoolbarbecue",
-      "promoPrice": 129.99,
+      "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
+      "promoPrice": 17.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-28T17:59:39.567Z",
+  "scrapedAt": "2026-05-29T08:23:30.760Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"
