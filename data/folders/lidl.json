@@ -154,7 +154,7 @@
       "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
       "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-29T08:23:14.760Z"
+      "scrapedAt": "2026-05-30T07:34:47.329Z"
     }
   ],
   "deals": [
@@ -186,23 +186,23 @@
     },
     {
       "id": "html-22",
-      "product": "Ijsblokjesmachine",
-      "originalPrice": 69.95,
-      "promoPrice": 69.9564,
+      "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
+      "promoPrice": 17.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-29",
-      "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
-      "promoPrice": 17.99,
+      "product": "Ijsblokjesmachine",
+      "originalPrice": 69.95,
+      "promoPrice": 69.9564,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-29T08:23:30.760Z",
+  "scrapedAt": "2026-05-30T07:35:03.831Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"
