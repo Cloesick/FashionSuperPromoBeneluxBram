@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-30T07:43:53.025Z"
+      "scrapedAt": "2026-05-30T16:05:04.033Z"
     }
   ],
   "deals": [
@@ -83,108 +83,99 @@
     },
     {
       "id": "html-13",
-      "product": "Katoenen T-shirt",
-      "originalPrice": 7.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/60/c9/60c9e183c810bb231022a88e01996aa7e304434b.jpg",
+      "product": "Crossbody-bucketbag",
+      "originalPrice": 24.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/20/01/2001b7e7128dd88321c3ebf7527d4875b14b00dd.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-14",
-      "product": "Bermuda van linnenmix",
-      "originalPrice": 24.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/d9/29/d929f0ac671ef6ae38a73e7cc2b971466c7bdc38.jpg",
+      "product": "Kraagloze blazer",
+      "originalPrice": 49.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f1/0f/f10fe3a3a0f7e8c98a5b1179ef4d64fb891bb993.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "3 paar ribgebreide enkelsokken",
-      "originalPrice": 7.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/6d/9f/6d9fd3c3a68bbdd9b53449c52b167e2d79db9d70.jpg",
+      "product": "Jacquardgeweven jurk met striklintjes",
+      "originalPrice": 49.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3a/fd/3afd36db8234966e2ea5d5ecc3bbe0d25022daeb.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Jurk met uitlopende rok",
-      "originalPrice": 24.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/47/9c/479c81e382f3f7ab00c10e7c8f3a2d22f5dcffe1.jpg",
+      "product": "MAMA panty met dessin",
+      "originalPrice": 15.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/43/9a/439a54a2ec659b323d28739a121962a8b8f54724.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Cargobroek met ballonpijpen",
-      "originalPrice": 19.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/dd/a0/dda09465dd74c8d3e774f69bb4f4449f9e4e53f2.jpg",
+      "product": "Straptop van microvezel",
+      "originalPrice": 9.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/1c/1c/1c1ca0e08fb5efee3ab06a7a497604bd29b195cb.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
-      "product": "Kniehoge boots",
-      "originalPrice": 69.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a6/6c/a66c7aa79969873a974097a3cd4a1c531adc803d.jpg",
+      "product": "Panty met dessin - 20 denier",
+      "originalPrice": 9.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Body met kanten bovenstuk",
-      "originalPrice": 34.99,
+      "product": "Katoenen bloes met broderie anglaise",
+      "originalPrice": 19.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Double-faced jas",
-      "originalPrice": 69.99,
+      "product": "A-lijn satijnen short",
+      "originalPrice": 79,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Crossbody-bucketbag",
-      "originalPrice": 24.99,
+      "product": "Wide High Jeans",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Trui met peplum",
-      "originalPrice": 24.99,
+      "product": "Flared jeans",
+      "originalPrice": 59.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Bandeaujurk met peplum",
-      "originalPrice": 34.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-24",
-      "product": "Ribgebreide peplumtop",
-      "originalPrice": 22.99,
+      "product": "Set van 2 seamless Light Shape slips Thong",
+      "originalPrice": 19.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-30T07:44:10.763Z",
+  "scrapedAt": "2026-05-30T16:05:21.288Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:44:46.713Z",
+  "generatedAt": "2026-05-30T16:05:58.965Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -7,7 +7,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-26T17:32:53.020Z",
+      "scrapedAt": "2026-05-30T15:51:13.716Z",
       "folderCount": 1,
       "dealCount": 80,
       "hasEmbed": true,
@@ -16,12 +16,12 @@
       "validationIssues": [],
       "probeResults": [
         {
-          "url": "https://view.publitas.com/ah/bonus-week-22-2026/page/1?publitas_embed=embedded",
+          "url": "https://view.publitas.com/ah/bonus-week-23-2026/page/1?publitas_embed=embedded",
           "status": 200,
           "live": true
         },
         {
-          "url": "https://view.publitas.com/126/3077353/pdfs/95ef51c9-da7c-4b91-a1e2-b3846e07d154.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-22-2026.pdf",
+          "url": "https://view.publitas.com/126/3086299/pdfs/99f54fd0-06bb-4697-8ff6-d08318049873.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-23-2026.pdf",
           "status": 200,
           "live": true
         }
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-30T07:41:23.392Z",
+      "scrapedAt": "2026-05-30T16:02:30.431Z",
       "folderCount": 1,
       "dealCount": 1,
       "hasEmbed": true,
@@ -143,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-30T07:44:10.763Z",
+      "scrapedAt": "2026-05-30T16:05:21.288Z",
       "folderCount": 1,
-      "dealCount": 17,
+      "dealCount": 16,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-05-30T07:44:44.634Z",
+      "scrapedAt": "2026-05-30T16:05:56.264Z",
       "folderCount": 1,
-      "dealCount": 156,
+      "dealCount": 162,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

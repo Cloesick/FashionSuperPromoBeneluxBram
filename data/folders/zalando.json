@@ -17,292 +17,12 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-30T07:44:30.945Z"
+      "scrapedAt": "2026-05-30T16:05:42.201Z"
     }
   ],
   "deals": [
     {
       "id": "html-2",
-      "product": "VansOLD SKOOL UNISEX - Sneakers laag - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c3518d7afa003b199a26956595866440/75521bb5c184407ba00f35542b4c009f.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-3",
-      "product": "VansOLD SKOOL TAPERED UNISEX - Sneakers laag - theory oatmeal",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ea6144b0dcbc4c808f789f40ca1245de/643e3ed7d358462a8dc5d5a880db32a6.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-4",
-      "product": "Pepe JeansORIGINAL - T-shirt basic - mint",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/151531f2389640b98d010906bfe48e1f/305bafabd1f84216b087578a53ca84dc.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-5",
-      "product": "Levi's®BATWING TEE SET - T-shirt basic - dress blues",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a5842ba2bbe543eca61d40d5fe13d1b5/f8953c6c02364092a67348ef06c34df8.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-6",
-      "product": "Nike PerformanceDRY PARK III - Korte broeken - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8a3f7b1208f33ea382e945c5abdcf535/6491d363ddee453280698080add78198.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-8",
-      "product": "Nike PerformanceUNISEX - Korte broeken - black/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ade2f4b16b5c3beaac5207ba486ab5a7/8483833fed3641bd9ce121efcd9b6b41.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-9",
-      "product": "NYX Professional MakeupBROW GLUE INSTANT BROW STYLER - Wenkbrauwgel - TRANSPARENT",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a0d5acb63bad4cf4afbe63d22e31b432/5a4c47ed456f479e8a68a3b48cf397b9.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-10",
-      "product": "Nike SportswearAIR FORCE 1 07 - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0117d3f555064d619547338470ec2fcb/5aa562bb0b4b49d5bbabd3c1cd81a5d5.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-11",
-      "product": "Makeup RevolutionREVOLUTION BIG LASH VOLUME MASCARA - Mascara - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/385ece221df849549e2adb73c3c27235/fc4e5c67ca494dfdbbddfd0e5f4e0b35.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-12",
-      "product": "Nike PerformanceEVERYDAY CUSH CREW UNISEX 6 PACK  - Sportsokken - white/black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e24ad250e41232c4a42b081331c2fcd7/e00b72951afb48ff8b42756e760f4252.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-13",
-      "product": "Calvin Klein Underwear3 PACK - Boxershort - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9a95d87471c64407943448ce4bb7e175/6698ebd651e24a6a91f262946b6ac21f.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-14",
-      "product": "Levi's®BATWING TEE - T-shirt print - light blue",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5d4288d8180b444ba113a77a42bfe5f3/fc65da91bc784f978d905eefed5f62f8.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-15",
-      "product": "Jack & JonesJJTUNE TEE CREW NECK - T-shirt print - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e02a14c801241f7bcc5ba826c5b29a7/874863471e264cddbdfb4a31e9b899a0.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-16",
-      "product": "Anna Field10 PACK - Slip - pink/grey/black/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e280255f17754edfb127250c75759040/0075ff34c2a04317820e185f29181961.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-17",
-      "product": "PumaSOFTRIDE CARSON - Trainingsschoen - black- black- white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4721551d56264d97a5b76964481e5a0a/d313789d356c42808d2a53c1076c70a6.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-18",
-      "product": "SwarovskiUNA ANGELIC TENNIS NECKLACE ROUND CUT - Ketting - silver-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e889e807f2d7363f931d68a95daefef8/e11e1907db894ace9f313540fbf61fc6.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-19",
-      "product": "CliniqueALMOST LIPSTICK - Lippenstift - black honey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1a5e5e3e62314d519ffb3f60a31423f2/420b2db2b0a140a8ae05984f0fc7a9c7.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-20",
-      "product": "Calvin Klein Underwear3 PACK  - Boxershort - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cf1e99b3542c398ea4bbd37ab84a2139/bfb17599e3bd4b4185cca5341f32478a.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-21",
-      "product": "Calvin Klein UnderwearTHONG ICON - Tanga - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/80c79659746c4ff9839509e1bf448a86/15d66cef70534ba6983c72c889629f55.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-22",
-      "product": "Tommy Hilfiger2-PACK SIGNATURE CREW NECK LOUNGE T-SHIRTS - Hemd - white/light pink",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e54dc5cb77064f3c9fe3f0810fded1c5/f9e8ee421eac438b98fd094c874b20de.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-23",
-      "product": "Nike PerformanceEVERYDAY CUSH CREW 3 PACK - Sportsokken - white/black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/61af5ef973313caa84bd0eab4448c480/fa7bc32354504183b91b4485f5b1a515.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-24",
-      "product": "Makeup RevolutionREVOLUTION RE-LOADED PALETTE - Oogschaduwpalet - basic mattes",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/74fe3ffdb0634a188f357f2835574535/072b5b08ffb34a74a62c64ccf45d8bde.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-26",
-      "product": "Urban ClassicsDAMEN LADIES LONG EXTENDED SHOULDER DRESS - Jerseyjurk - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/00125bc4a0e54622a5590e4f29795dd2/3581cf2afbdd4fd0b7b78d80dd421916.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-27",
-      "product": "LANCÔMELASH IDÔLE MASCARA MIDI - Mascara - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba7f2904d24c4fa4833962b06205c4d8/b39992630775480385d4d28d0084862c.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-28",
-      "product": "Jack & JonesJJHEKTOR TEE CREW NECK - T-shirt print - cloud dancer",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a05e997bcfc54bfeb879c38246404f55/514eae6419f04659a1f38ed113092f65.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-29",
-      "product": "Calvin Klein UnderwearBOYSHORT ICON - Boyshorts - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14227697661849138926794e5410d047/6fce7bb77e22420c9766cc6f49cd762c.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-30",
-      "product": "Calvin Klein JeansCLASSIC FIT MONOGRAM TEE - T-shirt print - bright white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/aa119f005ccf479b97ea47e49a3d83bd/670b0805f1d2487a817cf48cc5066a5a.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-31",
-      "product": "U.S. Polo Assn.ARJUN - T-shirt basic - tap shoe",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0088b3625880488a8f3ff2e935b6473c/445d0f4e58de4268bb8bdaa39edf07e1.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-32",
-      "product": "adidas Originals3S CREW S 3PACK UNISEX  - Sokken - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f814cd88934846b68e027df0349aa59c/dd7110eea8be4dad9d8a3c5094571e5a.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-33",
-      "product": "Jack & JonesJORFRUTTI TEE - T-shirt print - buttercream",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/563ecc30cd71446288203dbfeaeaca83/ec0c9a1d3d4b4d7c868cf0ba96ec400c.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-34",
-      "product": "adidas OriginalsTR CREW S 6PACK UNISEX - Sokken - silver green/glow pink/powder yellow",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b649c8b62a1e4e4ea95163d5b24c6421/405110c500f74fcda3e72b3d7c60e174.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-35",
-      "product": "Anna FieldKlassieke pumps - beige",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bad5307ca5504f3c89e508dfde092d45/02ad1170e90c4483a040bce682710bdf.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-36",
-      "product": "Nike SportswearAIR FORCE 1  - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/464fe7de307e41129abb480a7b4a7bd6/6aef5638141b4c0f83a92349bf6880e4.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-38",
-      "product": "VansOLD SKOOL UNISEX - Sneakers laag - navy",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6a4e313a5bb946109b1e335eb040965e/3eaa30dd9ec04dd99c361f19e24a924a.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-39",
-      "product": "CliniqueHYDRATE & GLOW - Huidverzorgingsset",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e32a3a60324841f28647d665c5d8b406/ea8535dfcaf54cae9bedc006c4c2e0db.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-40",
       "product": "Azzaro ParfumsTHE MOST WANTED - Parfum",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/eb9ebaaa936a41fa81edb7e792dca8c6/5496f67076ee4b308e560cdaf189aed8.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -310,7 +30,215 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-41",
+      "id": "html-3",
+      "product": "Levi's®BATWING TEE SET - T-shirt basic - dress blues",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a5842ba2bbe543eca61d40d5fe13d1b5/f8953c6c02364092a67348ef06c34df8.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-4",
+      "product": "Nike PerformanceUNISEX - Korte broeken - black/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ade2f4b16b5c3beaac5207ba486ab5a7/8483833fed3641bd9ce121efcd9b6b41.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-5",
+      "product": "Nike PerformanceDRY PARK III - Korte broeken - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8a3f7b1208f33ea382e945c5abdcf535/6491d363ddee453280698080add78198.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-6",
+      "product": "NYX Professional MakeupBROW GLUE INSTANT BROW STYLER - Wenkbrauwgel - TRANSPARENT",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a0d5acb63bad4cf4afbe63d22e31b432/5a4c47ed456f479e8a68a3b48cf397b9.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-8",
+      "product": "Nike SportswearAIR FORCE 1 07 - Sneakers laag - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0117d3f555064d619547338470ec2fcb/5aa562bb0b4b49d5bbabd3c1cd81a5d5.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-9",
+      "product": "Makeup RevolutionREVOLUTION BIG LASH VOLUME MASCARA - Mascara - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/385ece221df849549e2adb73c3c27235/fc4e5c67ca494dfdbbddfd0e5f4e0b35.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-10",
+      "product": "Nike PerformanceEVERYDAY CUSH CREW UNISEX 6 PACK  - Sportsokken - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e24ad250e41232c4a42b081331c2fcd7/e00b72951afb48ff8b42756e760f4252.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-11",
+      "product": "Calvin Klein Underwear3 PACK - Boxershort - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9a95d87471c64407943448ce4bb7e175/6698ebd651e24a6a91f262946b6ac21f.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-12",
+      "product": "Levi's®BATWING TEE - T-shirt print - light blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5d4288d8180b444ba113a77a42bfe5f3/fc65da91bc784f978d905eefed5f62f8.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-13",
+      "product": "Jack & JonesJJTUNE TEE CREW NECK - T-shirt print - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e02a14c801241f7bcc5ba826c5b29a7/874863471e264cddbdfb4a31e9b899a0.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-14",
+      "product": "Anna Field10 PACK - Slip - pink/grey/black/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e280255f17754edfb127250c75759040/0075ff34c2a04317820e185f29181961.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-15",
+      "product": "Calvin Klein UnderwearTHONG ICON - Tanga - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/80c79659746c4ff9839509e1bf448a86/15d66cef70534ba6983c72c889629f55.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-16",
+      "product": "PumaSOFTRIDE CARSON - Trainingsschoen - black- black- white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4721551d56264d97a5b76964481e5a0a/d313789d356c42808d2a53c1076c70a6.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-17",
+      "product": "Tommy Hilfiger2-PACK SIGNATURE CREW NECK LOUNGE T-SHIRTS - Hemd - white/light pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e54dc5cb77064f3c9fe3f0810fded1c5/f9e8ee421eac438b98fd094c874b20de.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-18",
+      "product": "Nike PerformanceEVERYDAY CUSH CREW 3 PACK - Sportsokken - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/61af5ef973313caa84bd0eab4448c480/fa7bc32354504183b91b4485f5b1a515.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-19",
+      "product": "LANCÔMELASH IDÔLE MASCARA MIDI - Mascara - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba7f2904d24c4fa4833962b06205c4d8/b39992630775480385d4d28d0084862c.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-20",
+      "product": "Makeup RevolutionREVOLUTION RE-LOADED PALETTE - Oogschaduwpalet - basic mattes",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/74fe3ffdb0634a188f357f2835574535/072b5b08ffb34a74a62c64ccf45d8bde.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-21",
+      "product": "Calvin Klein UnderwearBOYSHORT ICON - Boyshorts - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14227697661849138926794e5410d047/6fce7bb77e22420c9766cc6f49cd762c.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-22",
+      "product": "Jack & JonesJJHEKTOR TEE CREW NECK - T-shirt print - cloud dancer",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a05e997bcfc54bfeb879c38246404f55/514eae6419f04659a1f38ed113092f65.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-23",
+      "product": "adidas Originals3S CREW S 3PACK UNISEX  - Sokken - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f814cd88934846b68e027df0349aa59c/dd7110eea8be4dad9d8a3c5094571e5a.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-24",
+      "product": "U.S. Polo Assn.ARJUN - T-shirt basic - tap shoe",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0088b3625880488a8f3ff2e935b6473c/445d0f4e58de4268bb8bdaa39edf07e1.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-26",
+      "product": "Calvin Klein JeansCLASSIC FIT MONOGRAM TEE - T-shirt print - bright white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/aa119f005ccf479b97ea47e49a3d83bd/670b0805f1d2487a817cf48cc5066a5a.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-27",
+      "product": "adidas OriginalsTR CREW S 6PACK UNISEX - Sokken - silver green/glow pink/powder yellow",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b649c8b62a1e4e4ea95163d5b24c6421/405110c500f74fcda3e72b3d7c60e174.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-28",
+      "product": "Jack & JonesJORFRUTTI TEE - T-shirt print - buttercream",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/563ecc30cd71446288203dbfeaeaca83/ec0c9a1d3d4b4d7c868cf0ba96ec400c.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-29",
+      "product": "Anna FieldKlassieke pumps - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bad5307ca5504f3c89e508dfde092d45/02ad1170e90c4483a040bce682710bdf.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-30",
+      "product": "Nike SportswearAIR FORCE 1  - Sneakers laag - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/464fe7de307e41129abb480a7b4a7bd6/6aef5638141b4c0f83a92349bf6880e4.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-31",
       "product": "Nike PerformanceTights - black/white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/be6e9148cdb543e1a1e275d6ed79ebd8/78e558dca15743678b8b800e591e494f.jpg?imwidth=300",
       "validFrom": "2026-05-25",
@@ -318,15 +246,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-42",
-      "product": "Pier OneLEATHER UNISEX - Muiltjes - stone",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/15d46f0c3f0f44e58c6486be37a436b6/daf84d1ce5f54f4e9c518e846af575dc.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-43",
+      "id": "html-32",
       "product": "Pier One5 PACK BOXERS - Boxershort - light grey/light blue",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/265683b09cc9434b99a9a147e609f325/8576fb98fd464348b596fb448e05e389.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -334,7 +254,47 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-44",
+      "id": "html-33",
+      "product": "YOURTURNREGULAR FIT - T-shirt print - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/167f9ad995cd436b96bc4ac367af53dd/a1e1d7ed429349fcaa3a404b4a003200.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-34",
+      "product": "Nike PerformanceEVERYDAY CUSH 3 PACK UNISEX - Sportsokken - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e1369cb165b33faf8696dd266d82956f/6a551ada9dad4e5d9a5c7e8eb67c0ff1.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-35",
+      "product": "adidas Originals3S CREW S 3PACK UNISEX  - Sokken - white medium/ grey heather/ black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c961914585534930a36c38fe2127d2ac/20dbca51c3d54359a2870e387b3ae0df.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-36",
+      "product": "Pier OneLEATHER UNISEX - Muiltjes - stone",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/15d46f0c3f0f44e58c6486be37a436b6/daf84d1ce5f54f4e9c518e846af575dc.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-38",
+      "product": "Calvin Klein Underwear3 PACK  - Boxershort - multi",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d9f851250ee24e3ab0f10b57370e88a2/26080fb52afc443bb0a6fe623c8a01e5.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-39",
       "product": "Anna FieldTeensandalen - gold",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/909f79002f8d30dfb2075668c6c20488/8140fda3b29648b78b3bea4fad3ddf78.jpg?imwidth=300",
       "validFrom": "2026-05-25",
@@ -342,7 +302,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-45",
+      "id": "html-40",
+      "product": "Real TechniquesEVERYDAY ESSENTIALS SET - Kwastenset",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/345ac3ee58c84494890a9e7ce3f804a8/a491a743c1804165805e8e0703bf0949.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-41",
+      "product": "BOSSCLASSIC 3 PACK - Hemd - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4744117674494031a7f179794c90cdec/5053d5efe110439aab11fd9d2a3978cb.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-42",
       "product": "RitualsEXCLUSIVE LIMITED EDITION - MEDIUM BATH & BODY GIFT SET - THE RITUAL OF KARMA - LOTUS & WHITE TEA - Bad- & bodyset",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5e28550247fd498295d3376d3d0da14d/7dda6f2d45894e29ba6ca32796b6b085.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -350,9 +326,33 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-43",
+      "product": "Pier One7 PACK - Boxershort - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d3830f5a574b3fdd8100e83a817150ca/d6d2f48676124e2ca20caee3d0a60358.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-44",
+      "product": "Tommy HilfigerESSENTIAL TEE UNISEX - T-shirt basic - radiant green",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4cc16e1aeaee4dbea4fad3a6cef88c29/45477a634cda4e5cb241e776a9fcf947.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-45",
+      "product": "Nike Underwear3 PACK - Boxershort - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9cadeca10c5e4cff87cfd0ad32260fd8/6771bd0b6b7f4ff9852d41f77c72a729.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-46",
-      "product": "YOURTURNREGULAR FIT - T-shirt print - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/167f9ad995cd436b96bc4ac367af53dd/a1e1d7ed429349fcaa3a404b4a003200.jpg?imwidth=300",
+      "product": "ConverseCHUCK TAYLOR ALL STAR LIFT - Sneakers hoog - black/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6af0121817e749b59d7fc47afb3c327f/8077809d84914d77bd60a3be9b536a0e.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
@@ -367,62 +367,6 @@
     },
     {
       "id": "html-48",
-      "product": "Tommy HilfigerESSENTIAL TEE UNISEX - T-shirt basic - radiant green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4cc16e1aeaee4dbea4fad3a6cef88c29/45477a634cda4e5cb241e776a9fcf947.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-49",
-      "product": "Nike PerformanceEVERYDAY CUSH 3 PACK UNISEX - Sportsokken - white/black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e1369cb165b33faf8696dd266d82956f/6a551ada9dad4e5d9a5c7e8eb67c0ff1.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-50",
-      "product": "adidas Originals3S CREW S 3PACK UNISEX  - Sokken - white medium/ grey heather/ black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c961914585534930a36c38fe2127d2ac/20dbca51c3d54359a2870e387b3ae0df.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-51",
-      "product": "Real TechniquesEVERYDAY ESSENTIALS SET - Kwastenset",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/345ac3ee58c84494890a9e7ce3f804a8/a491a743c1804165805e8e0703bf0949.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-52",
-      "product": "BOSSCLASSIC 3 PACK - Hemd - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4744117674494031a7f179794c90cdec/5053d5efe110439aab11fd9d2a3978cb.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-53",
-      "product": "Pier One7 PACK - Boxershort - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d3830f5a574b3fdd8100e83a817150ca/d6d2f48676124e2ca20caee3d0a60358.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-54",
-      "product": "Calvin Klein Underwear3 PACK  - Boxershort - multi",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d9f851250ee24e3ab0f10b57370e88a2/26080fb52afc443bb0a6fe623c8a01e5.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-55",
       "product": "KÉRASTASEGENESIS SÉRUM FORTIFIANT ANTI-CHUTE, FORTIFYING HAIR SERUM AGAINST HAIR LOSS - Haarserum",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3623ce1613de489c873665a011318925/8542d28af1154ed98cfbf61660222e00.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -430,39 +374,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-56",
-      "product": "Calvin Klein UnderwearLOW RISE TRUNK ICON COTTON STRETCH 5 PACK - Boxershort - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/84f13c8c4d9449a081f9943378e8ef67/74e61585f4b44d5c8cfbd967eddfe2ab.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-57",
-      "product": "Calvin Klein Underwear3 PACK - Boxershort - black/white/grey heather",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b32fa76f691448669bd019b9561f9fb7/8e8b3525b47e47138b3b65232eb2618f.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-58",
-      "product": "HeidemanMEVA POLIERT - Ketting - goldfarbend",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d6255d2dbd704b8ebb036e4e0117fee4/6c4209d2fdaa433b8a50a69a8801fa1e.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-59",
-      "product": "Calvin Klein UnderwearTHONG ICON - Tanga - grey heather",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a2bf718e3638474bb1f8be716d10692e/9321bbe6e0ee4d618bb00c01df3fce66.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-60",
+      "id": "html-49",
       "product": "Nike PerformanceGYM CLUB RETRO - Reistas - black/college grey/summit white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd367671af6045e79932f3554849b7a3/9bedc47ea08d431096c987ba4f13a857.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -470,79 +382,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-61",
-      "product": "HavaianasHAV. LUNA - Badslippers - rose gold",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ad0932da076f40558b06de8d3e3e41d5/ce36ef504e6947749d20769f68afdfe7.jpg?imwidth=300&filter=packshot",
+      "id": "html-50",
+      "product": "Calvin Klein UnderwearTHONG ICON - Tanga - grey heather",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a2bf718e3638474bb1f8be716d10692e/9321bbe6e0ee4d618bb00c01df3fce66.jpg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-62",
-      "product": "CrocsCROCS BROOKLYN LOW WEDGE W - Sandalen met sleehak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/77ff7383445648dfa4f4a501c5695439/0f21ae35862e4ade991e4a7cfd25e2dc.jpg?imwidth=300&filter=packshot",
+      "id": "html-51",
+      "product": "Anna FieldSandalen met sleehak - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd5a551eb7f631869afcf2c1dae66bf4/e61b8391c25b42ca8dc5825505f44079.jpg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-63",
-      "product": "Nike Underwear3 PACK - Boxershort - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9cadeca10c5e4cff87cfd0ad32260fd8/6771bd0b6b7f4ff9852d41f77c72a729.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-64",
-      "product": "ConverseCHUCK TAYLOR ALL STAR LIFT - Sneakers hoog - black/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6af0121817e749b59d7fc47afb3c327f/8077809d84914d77bd60a3be9b536a0e.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-65",
-      "product": "YOURTURNREGULAR FIT - T-shirt print - beige",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/963198fcd58246adb818f0b92043fe7b/570cc8c55137490999b2a394f86e0d75.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-66",
-      "product": "U.S. Polo Assn.ARJUN - T-shirt basic - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/33e55997d07c4ca7af5bd27b71dfef85/bdefa32ae2aa4c7fa807fc1d613da2ec.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-67",
-      "product": "Anna Field7 PACK LAZER CUT COTTON THONG - Tanga - nude",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8ad9f4b31df042d3a166ec389b52fd05/05e775bd7ff14df5871a5dcdbc3d9da4.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-68",
-      "product": "Marks & SpencerHIGH WAISTED - Tights - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/87f4e0101fd340a1830860f920fb8a96/dca6f3030bdf4ecca83a3bf59ff23cb0.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-69",
-      "product": "Sol de JaneiroCHEIROSA 62 PERFUME MIST - Body mist",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e7cee64928c646d68687c43c53f44622/bce7cc27b50048f381c5f74d743f5cc3.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-70",
+      "id": "html-52",
       "product": "Nike SportswearAIR FORCE 1 07 - Sneakers laag - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/131ee8b629e44e5d9efa59978986dfc9/92d6826c676f4eadb1873bae290cada6.jpg?imwidth=300",
       "validFrom": "2026-05-25",
@@ -550,47 +406,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-71",
-      "product": "adidas OriginalsHANDBALL SPEZIAL J - Sneakers laag - collegiate navy/clear sky",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/29ca215a1b1b4a7bb90f6b9a10dc372e/fc2d32cc6c1441b380ecd55bbd47703b.jpg?imwidth=300&filter=packshot",
+      "id": "html-53",
+      "product": "Marks & SpencerHIGH WAISTED - Tights - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/87f4e0101fd340a1830860f920fb8a96/dca6f3030bdf4ecca83a3bf59ff23cb0.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-73",
-      "product": "Pier OneLEATHER UNISEX - Muiltjes - light blue",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cf36471fd82a4cf7b94d14b728362ff2/e540dc105bd64cf3b20fdfe6a575a149.jpg?imwidth=300&filter=packshot",
+      "id": "html-55",
+      "product": "HavaianasHAV. LUNA - Badslippers - rose gold",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ad0932da076f40558b06de8d3e3e41d5/ce36ef504e6947749d20769f68afdfe7.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-74",
-      "product": "Azzaro ParfumsMOST WANTED INTENSE EDP - Eau de parfum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5182003c08b14eeeb345d02bdf4b9ca7/3a8d2c2441944308881cc3715ceb1578.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-75",
-      "product": "MOSCHINO FragrancesTOY MINIATURE SET - Geurset",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c4f32e17bac041b3af90d9b7d6aafa36/d4febd72a94c4023932f6d0f0af9a8f2.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-76",
-      "product": "Calvin Klein UnderwearTRUNK COTTON STRETCH 3 PACK  - Boxershort - grey/blue/black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3becea470feb4da6824e2cec95df15ea/be33bf8ae0514d89b8968d1ed4f10c64.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-77",
+      "id": "html-56",
       "product": "Nike SportswearBABY ESSENTIALS UNISEX SET - Body - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e7161ffdc21e4a0882af23f949794dd4/8cc9b73bdf4f44158dc2e050c637c9e1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -598,79 +430,55 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-78",
-      "product": "Even&OddT-shirt print - anthracite",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/69be63b0275a425091e3d3c011a51349/85a7db13b2d0416c9fa65cbe37b71ec5.jpg?imwidth=300",
+      "id": "html-57",
+      "product": "CrocsCROCS BROOKLYN LOW WEDGE W - Sandalen met sleehak - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/77ff7383445648dfa4f4a501c5695439/0f21ae35862e4ade991e4a7cfd25e2dc.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-79",
-      "product": "Pier OneLEATHER UNISEX - Clogs - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c2cb093acc2a4e7381b812d5ed6fe829/6e0eadc2c3d24cb8bf0c777e3cb8fd31.jpg?imwidth=300&filter=packshot",
+      "id": "html-58",
+      "product": "YOURTURNREGULAR FIT - T-shirt print - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/963198fcd58246adb818f0b92043fe7b/570cc8c55137490999b2a394f86e0d75.jpg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-80",
-      "product": "Pier One3 PACK BIRDIE T-SHIRTS - T-shirt basic - dark blue/beige/dark brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e2e785ecc1464af6b972257f61548511/0ff326bc8c55447a9774470285a7df1e.jpg?imwidth=300&filter=packshot",
+      "id": "html-59",
+      "product": "Anna Field7 PACK LAZER CUT COTTON THONG - Tanga - nude",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8ad9f4b31df042d3a166ec389b52fd05/05e775bd7ff14df5871a5dcdbc3d9da4.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-81",
-      "product": "Only & SonsONSOTTO BASE CAMP TEE - T-shirt print - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4d3e14d8cf164cf6868e84045b13550a/296392a177f34ed3928cb45237f82f82.jpg?imwidth=300",
+      "id": "html-60",
+      "product": "adidas OriginalsHANDBALL SPEZIAL J - Sneakers laag - collegiate navy/clear sky",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/29ca215a1b1b4a7bb90f6b9a10dc372e/fc2d32cc6c1441b380ecd55bbd47703b.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-82",
-      "product": "Valentino BagsRE - Handtas - nero",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14796cad5cd448f9bcd7b6070ee61e87/9fdf399dd32748b5b15a6192721947d3.jpg?imwidth=300&filter=packshot",
+      "id": "html-61",
+      "product": "Sol de JaneiroCHEIROSA 62 PERFUME MIST - Body mist",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e7cee64928c646d68687c43c53f44622/bce7cc27b50048f381c5f74d743f5cc3.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-83",
-      "product": "Anna FieldSportieve veterschoenen - beige",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/23a1f35034b249b5b9df4bac79ec9ea5/582bc0f63fa043ba8322eccf1f531dc4.jpg?imwidth=300",
+      "id": "html-62",
+      "product": "U.S. Polo Assn.ARJUN - T-shirt basic - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/33e55997d07c4ca7af5bd27b71dfef85/bdefa32ae2aa4c7fa807fc1d613da2ec.jpg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-84",
-      "product": "Guess FragrancesSEDUCTIVE MINIATURE GIFT SET 4 X 7.5ML - Geurset",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9380a2b2f1e84f96aa4d28aeb82417c7/daeb51cda5094f67bcec48ba2f6a70cd.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-85",
-      "product": "Mugler FragrancesALIEN - Eau de parfum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3e09a38ac6e34dc691a7516e681d84e5/c24c1635c2b3472a9e7d247772796832.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-86",
-      "product": "COLOR WOWDREAM COAT SUPERNATURAL SPRAY - Haarspray",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/40e6700793484d9c9d4b575e18a66047/e93c72665cc14c988c968c2d9cf45dcf.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-87",
+      "id": "html-63",
       "product": "ConverseCHUCK TAYLOR ALL STAR UNISEX - Sneakers hoog - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cbbf2b5b38a940c5984165b64af58208/5f50ba33e9d54d77ad292a1e2503646b.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -678,7 +486,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-88",
+      "id": "html-64",
       "product": "adidas Originals3S CREW S 3PACK UNISEX  - Sokken - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/57f33822074846fc9449a14f13f11950/4d5cf9674be14ad5bd8ac6ab67eaebff.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -686,7 +494,191 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-65",
+      "product": "Pier OneLEATHER UNISEX - Clogs - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c2cb093acc2a4e7381b812d5ed6fe829/6e0eadc2c3d24cb8bf0c777e3cb8fd31.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-66",
+      "product": "Even&OddT-shirt print - anthracite",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/69be63b0275a425091e3d3c011a51349/85a7db13b2d0416c9fa65cbe37b71ec5.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-67",
+      "product": "Guess FragrancesSEDUCTIVE MINIATURE GIFT SET 4 X 7.5ML - Geurset",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9380a2b2f1e84f96aa4d28aeb82417c7/daeb51cda5094f67bcec48ba2f6a70cd.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-68",
+      "product": "Valentino BagsRE - Handtas - nero",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14796cad5cd448f9bcd7b6070ee61e87/9fdf399dd32748b5b15a6192721947d3.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-69",
+      "product": "Pier One3 PACK BIRDIE T-SHIRTS - T-shirt basic - dark blue/beige/dark brown",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e2e785ecc1464af6b972257f61548511/0ff326bc8c55447a9774470285a7df1e.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-70",
+      "product": "Only & SonsONSOTTO BASE CAMP TEE - T-shirt print - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4d3e14d8cf164cf6868e84045b13550a/296392a177f34ed3928cb45237f82f82.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-71",
+      "product": "Nike SportswearAF1 SHADOW - Sneakers laag - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0b6dab5f95fc42c689a9b5d5f15fca17/4bdde44ed7e247c5b893b646cf798301.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-72",
+      "product": "Pier OneLEATHER UNISEX - Muiltjes - light blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cf36471fd82a4cf7b94d14b728362ff2/e540dc105bd64cf3b20fdfe6a575a149.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-73",
+      "product": "Armani BeautyEA STRONGER WITH YOU INTENSELY - Eau de parfum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1b60c33cf9fd431c9170ce84cd38ce9a/66ca5c76adfc474182f87fdcc21cde22.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-74",
+      "product": "VansOLD SKOOL UNISEX - Sneakers laag - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c3518d7afa003b199a26956595866440/75521bb5c184407ba00f35542b4c009f.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-75",
+      "product": "GuessORIGINAL TEE - T-shirt print - jet black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0f2d43ec41d5484491131e29cd4b559b/714a9a15ebf84591a89a4b24595d9c89.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-77",
+      "product": "Calvin Klein UnderwearICON 3 PACK - Boxershort - black/glacier/blue bell",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d25a7a63ef9c41f48dafcb3e438c31c0/d82870a9817b4f4db69560c68421d0a1.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-78",
+      "product": "Calvin Klein UnderwearBustier - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e1b346dea39483c88a2f458b6fdcc1d/261476ab7f1b4e46b3e0ad75922ff604.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-79",
+      "product": "Urban ClassicsSINGLE - Riem - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b6acd06316693ace8287805b21284e72/576900a7b9b34416b4a323c6033d0323.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-80",
+      "product": "Pier OneCHECK NIGHTWEAR SET - Pyjama - dark red",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/822330dc323749928c62b2151a3c2faa/d201cc7ee117462b90b75267460d1ed0.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-81",
+      "product": "ZignUNISEX - Zonnebril - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/00208354fa4742c59e94cd71a1d7c4b9/1467bb0ae25340d4a243b57fd86141f8.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-82",
+      "product": "adidas SportswearESSENTIALS 3 STRIPES - Tights - dark blue white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/837daf47db2342518f197faad3a29807/139f9751320c4f46a411c7a58f054558.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-83",
+      "product": "Calvin Klein UnderwearBOYSHORT ICON - Boyshorts - grey heather",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/af78507fdc984eefaf5f6f979bb76e42/031d794e965a4d2cb4ee1b312d4a3164.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-84",
+      "product": "Marks & SpencerFULL BRIEF 5 PACK - Slip - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f31dfed554d14b999a7e4cbd49fd29a8/4dcbc6a056d54daf8b20a014fcc5cf50.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-85",
+      "product": "Anna FieldSportieve veterschoenen - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/23a1f35034b249b5b9df4bac79ec9ea5/582bc0f63fa043ba8322eccf1f531dc4.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-86",
+      "product": "adidas OriginalsCAMPUS 00S J UNISEX - Sneakers laag - grey three/footwear white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5c6da4b01c5c4e82a011ca839c5146bb/beca6e100bd0494a990acfef211e0aa2.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-87",
+      "product": "Pier OneZonnebril - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/765a860772d04d7fa06b402703ba9dc7/1111630063eb483f84e42ecc8f4db675.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-88",
+      "product": "ConverseCHUCK TAYLOR ALL STAR LIFT - Sneakers hoog - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/70cd5336aeaf443db9dffcc1b70c17c7/5b627abca6304dad9e1afd5f474358b7.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-30",
       "product": "LASCANABikinitop - oliv",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c6d65d29add04dae8a513c2d3d32f2e1/fca7f0630fd54fd08839d4f99c50e97b.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -694,127 +686,167 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-52",
+      "product": "LASCANABikinibroekje - oliv",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/feef8198c9a04bf4be0d71cecb990dfb/4ac23d84c3424d9a91c21715635ea3ca.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-59",
+      "product": "LASCANABikinitop - koralle",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/00f2cc6320e84c4a91e3d32ac033f877/eaf8ab2996d54b3b9e0570e3fe0888b8.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-83",
+      "product": "VivanceJerseyjurk - türkis rosé creme bedruckt",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/46ab96d170ac4d93a2691fc03b1f4b2e/b60fb61ebb974625a3d6c219fb93c904.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-2",
+      "product": "PumaCOURT CLASSICO - Sneakers laag - puma white puma white puma gold",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/24d63cdd0c1d4b9fab408767fbce67d9/3b153f70e4ee4d2bb28b7b775e0c3602.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-3",
+      "product": "CliniqueALMOST LIPSTICK - Lippenstift - black honey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1a5e5e3e62314d519ffb3f60a31423f2/420b2db2b0a140a8ae05984f0fc7a9c7.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-8",
-      "product": "CalzedoniaTRIANGLE GOLDEN CHEVRON - Bikinitop - brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c9e52df2ba914090800ab18ef304066f/6f79e9ffa5594f84a33fcd534bc33e3b.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE 100H AUTO REPLENISHING HYDRATOR WITH ALOE VERA FERMENT - Dagcrème",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5d03034d6cc14d38870277feabd82244/6f77bda83ff44f649ab38c302077cda3.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-9",
-      "product": "CalzedoniaGOLDEN CHEVRON THONG - Bikinibroekje - brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e6d3a9862a346d3a66cf9986d7e344e/309cd48c84134f12bbb05377b61ae127.jpg?imwidth=300",
+      "product": "CliniqueHYDRATE & GLOW - Huidverzorgingsset",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e32a3a60324841f28647d665c5d8b406/ea8535dfcaf54cae9bedc006c4c2e0db.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-10",
-      "product": "CalzedoniaELEGANT ETHNIC BOW - Bikinibroekje - green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0eede2291682499b94e777fb98efc676/1861ba535fe94feba22e3c7998e2932a.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE INTENSE 72H LIPID-REPLENISHING HYDRATOR - Dagcrème",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/72b6686ae0c146bfbac8c7067ff7f3d1/c9e087d5559b4eeb8bf6be0687971c6d.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-11",
-      "product": "CalzedoniaELEGANT BICOLOR - Badpak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d3528cc28f9e4342bc4abf4cd17337c3/5b90965778bc48be9473a895ef52ca5e.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE 100H AUTO-REPLENISHING HYDRATOR JUMBO - Dagcrème",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2803a8b95c9e43a48671383229f7b3d2/27f476145a884a07897af5b873878fca.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-12",
-      "product": "CalzedoniaGOLDEN GLOW PUSH UP - Bikinitop - burgundy",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/563da143f7dd4ec8baccb183866f8c9d/65a58c89c7494390927ccb862645ad7b.jpg?imwidth=300",
+      "product": "CliniqueJUMBO TAKE THE DAY OFF MAKEUP REMOVER - Make-up remover",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e0859c0b6aec3f788059a1263479a1e4/e0225b67103c447082a321e67f75b53f.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-13",
-      "product": "CalzedoniaELEGANT ETHNIC BALCONETTE - Bikinitop - green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/26d25f62a49d44f8961cfdcf06a43118/4e4bcb058ad1406e9bf0f5935bdead87.jpg?imwidth=300",
+      "product": "CliniqueCLARIFYING LOTION 2 - Tonic",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b755637075fc44818140149261033c08/4ff01ba8a91c4a8ea266c276ba001a65.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-14",
-      "product": "CalzedoniaSUNSET SHADES - Badpak - brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/89673184b4144294b874452f74cd7496/c0bbe7ad048b47369c23fe3bd9709f19.jpg?imwidth=300",
+      "product": "CliniqueALL ABOUT EYES RICH - Oogverzorging",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4e8fccd41b2549f8a48befe6d6add810/1f9167a6a6a348999c3e486e89b55b2d.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-15",
-      "product": "CalzedoniaSOPHISTICATED SHINE BANDEAU - Bikinitop - brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/da8dbd4574c645e4a332d98eb50fac6e/eb02a95b88884f6eaa33b03b179a904e.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE GLOW SERUM - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a156937aaa5649d3a0b7cab2def02de8/c5aa132967894849a03e364489b28d6a.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-16",
-      "product": "CalzedoniaBikinitop - sand",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/08fff93bd0634ab2a92953b7bd7a8aa2/c6b9dacfc8dc4b4cba925883b5972df6.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE FACE SPRAY  - Gezichtsnevel",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f79b251e166144809cc4c5010a36c12f/d717186a8047422ba2a5dbe9ba4c68a1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-17",
-      "product": "CalzedoniaSOFT SHADES TRIANGLE - Bikinitop - red",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fd83430777494fabbe94cebf9b6a81eb/30793826c71544a0a0de9c5e0f9f777c.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE OVERNIGHT MASK  - Nachtverzorging",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5885fa7579404c8fa1b67b85d2f85655/6b27c2f6050e4edcb785ca52d5a6d1f4.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-18",
-      "product": "CalzedoniaSEA CORALS TRIANGLE - Bikinitop - blue",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d19d7fe0c39f4f7f8ff286369ca0ed0e/82e82b82f1e449baab79ccbc24446167.jpg?imwidth=300",
+      "product": "CliniqueEVEN BETTER LIGHT REFLECTING PRIMER - Primer",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b1118ed0929c4a149a9348df2ec7907e/dfce452d31bd4890be5a5ab175366237.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-19",
-      "product": "CalzedoniaSOFT SHADES BRAZILIAN - Bikinibroekje - red",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bccb80f4aa394f5995a6602815281c97/efdbcf916abb4684a74c500a5d6809e5.jpg?imwidth=300",
+      "product": "CliniqueALL ABOUT EYES - Oogverzorging",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9e46da9e2dc34b6f80d7d1746aed21fe/2a0930d4ca884cd8a3f1604f901a5812.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-20",
-      "product": "CalzedoniaWILD JUNGLE BANDEAU - Bikinitop - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1d44c1661b904e48979463cd74b0f0c7/cce1a17b0ab340fe911117d7ae2400a3.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE™ SPF 25 SHEER HYDRATOR - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e41a5e3a957243538502bd0845bcbc36/3e7dd0b15dab4825b5667f10fc239e56.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-21",
-      "product": "CalzedoniaWILD JUNGLE BRAZILIAN - Bikinibroekje - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/becc3e6b771d4bca8e4dacbd3af3c23a/165f4e23dff14d54bf6068f9f0808f94.jpg?imwidth=300",
+      "product": "CliniqueMOISTURE SURGE EYE 96HR HYDRO-FILLER CONCENTRATE - Oogverzorging",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b8c6db4d7aa649ccb25947acfaed7595/efa3479fe2c945e88d56f5f5f53a9329.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-22",
-      "product": "CalzedoniaBikinibroekje - sand",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3234df972e6940568fefc1cfbc237855/7da87517d6ef43ed95265c188fce4c86.jpg?imwidth=300",
+      "product": "CliniqueTAKE THE DAY OFF MAKEUP REMOVER  - Make-up remover",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4621f662a5e73e87b6f38a3036369965/391db2b598d0446681e13150a5de122d.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-24",
+      "id": "html-23",
       "product": "Even&OddShorts - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ae226c35b30e435086c38f1d663639a5/58f5300611d647dba8076910fa4780a7.jpg?imwidth=300",
       "validFrom": "2026-05-25",
@@ -823,22 +855,14 @@
     },
     {
       "id": "html-26",
-      "product": "The OrdinaryOptimaal volume",
-      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/egnirqp77bydsxnz2akp/1776773574072_egnirqp77bydsxnz2akp.jpeg?imwidth=300",
+      "product": "CalzedoniaKlaar voor de zomer?",
+      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/m6bzsomxg6u0ssfhyost/1778577703231_m6bzsomxg6u0ssfhyost.jpeg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-27",
-      "product": "Anna FieldSandalen met plateauzool - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d36d2ac548314695a753947f74228026/0cec88532e424bf9af7de07ccf370bfe.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-28",
       "product": "LingaDoreOverige accessoires - blush",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e9b7dd3dc5b23b3cb816f2f6235a7ceb/cb6e909ebaf148b0924fe6a1fb054c16.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -846,23 +870,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-29",
-      "product": "Even&Odd2 PACK - Top - black/light grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a5bea961501241ef9ea121c3e1bba130/588eab3d8f20457f8688c3babf528fb5.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-35",
-      "product": "Levi's®94 BAGGY - Baggy jeans - riveting",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/469f039562624570adb494e22e88f1b0/87122f54bfaf448aad7d172f65a44673.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-38",
+      "id": "html-30",
       "product": "Makeup RevolutionREVOLUTION SUPERFIX MISTING SETTING SPRAY - Fixeerspray & -poeder",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8fbfdb2afbec4595a6b503b7e11cce61/8fd4896afc0a48078b815f1c6acff9a0.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -870,15 +878,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-39",
-      "product": "BOSSDe zomer en ik",
-      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/dab5sbgt6to5wklqpxyv/1779433446672_dab5sbgt6to5wklqpxyv.jpeg?imwidth=300",
+      "id": "html-31",
+      "product": "Anna FieldSandalen met plateauzool - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d36d2ac548314695a753947f74228026/0cec88532e424bf9af7de07ccf370bfe.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-40",
+      "id": "html-32",
+      "product": "Even&Odd2 PACK - Top - black/light grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a5bea961501241ef9ea121c3e1bba130/588eab3d8f20457f8688c3babf528fb5.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-34",
       "product": "Even&OddCAPRI 2 PACK - Legging - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6b2524a9049f4bc0a06d6c1964d3e2aa/9b4eb32d62314d32a123c82592fdfd47.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -886,23 +902,15 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-50",
-      "product": "Anna FieldEspadrilles - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7688a6cc3e1c448db9d15b3b203e02a0/6e28a5e74911405895410eac0a2b93eb.jpg?imwidth=300&filter=packshot",
+      "id": "html-39",
+      "product": "InwearNatuurlijke zelfverzekerdheid",
+      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/decmwphxuqiwlp1bpg9e/1777451185707_decmwphxuqiwlp1bpg9e.jpeg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-52",
-      "product": "Anna Field8PP SNEAKER SOCKS - Sokken - grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cbbd4265c736468f95689672aec86bf8/59c18e42fb824d0bb57dfbdcaa6609ff.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-53",
+      "id": "html-43",
       "product": "Anna Field10 PACK - Tanga - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/82d155d743c543109ab52921bdb469b9/6de15257f4c74e21863d51ea6a809790.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -910,39 +918,15 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-54",
-      "product": "Looks voor de zomerLASCANA",
-      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/hi7k8kyfaffzzjjaypsg/1779808399037_hi7k8kyfaffzzjjaypsg.jpeg?imwidth=300",
+      "id": "html-47",
+      "product": "Anna Field8PP SNEAKER SOCKS - Sokken - grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cbbd4265c736468f95689672aec86bf8/59c18e42fb824d0bb57dfbdcaa6609ff.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-55",
-      "product": "HeidemanARMBAND MILANAISE - Armband - gold-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/69e433d50acd3988a806b73ffeb4a0e7/8ee1635d619a4017b2ea34b393ed7824.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-56",
-      "product": "Cacharel FragranceAMOR AMOR - Eau de toilette",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/434de653e1a344f3964c6bc02c6c6599/381d8c81d95c46318f35eea8f29c0d80.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-57",
-      "product": "Marks & SpencerFULL BRIEF 5 PACK - Slip - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f31dfed554d14b999a7e4cbd49fd29a8/4dcbc6a056d54daf8b20a014fcc5cf50.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-59",
+      "id": "html-48",
       "product": "LingaDoreCUPS ZUBEHÖR - Push-up BH - blush",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a31dc70a79a4390a874c0d78c73a6a8e/a526e6ce332943b08bc9152a3aea73a4.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -950,7 +934,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-62",
+      "id": "html-51",
       "product": "Anna Field5 PACK - Top - black/white/mottled light grey",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/103c1fc2ad784c30abc6b4d21ffe4d1f/02dbc796be814bc4b7ac8cc1865e3263.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -958,23 +942,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-63",
-      "product": "Anna FieldSandalen met sleehak - beige",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd5a551eb7f631869afcf2c1dae66bf4/e61b8391c25b42ca8dc5825505f44079.jpg?imwidth=300",
+      "id": "html-53",
+      "product": "Anna FieldEspadrilles - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7688a6cc3e1c448db9d15b3b203e02a0/6e28a5e74911405895410eac0a2b93eb.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-66",
-      "product": "Urban ClassicsBRAZILIAN 5-PACK - Brazilian slips - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a0125401b6f34056a6bbcc1753d624ab/98cc53a419144900a7ee7692f39e433c.jpg?imwidth=300&filter=packshot",
+      "id": "html-54",
+      "product": "Polo Ralph LaurenLente/zomer 2026",
+      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/x503mos0udpluw48ybgs/1779435829725_x503mos0udpluw48ybgs.jpeg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-67",
+      "id": "html-58",
       "product": "Anna FieldLongsleeve - dark blue/white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3357941d7f9846c1811037778db8eac1/467eb27664044fe39989611867bdddf4.jpg?imwidth=300",
       "validFrom": "2026-05-25",
@@ -982,15 +966,15 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-71",
-      "product": "Nike PerformanceFUSSBALL - TEAM ACADEMY - Korte broeken - schwarzschwarz",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f7464021e9174260ba72b721eef33695/1fa692515a07473fb7ad8a5e6a494f82.jpg?imwidth=300&filter=packshot",
+      "id": "html-59",
+      "product": "Urban ClassicsBRAZILIAN 5-PACK - Brazilian slips - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a0125401b6f34056a6bbcc1753d624ab/98cc53a419144900a7ee7692f39e433c.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-72",
+      "id": "html-61",
       "product": "Even&Odd Tall2 PACK - Legging - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/515ebea1233844a2b891d1f4c77f8ee3/30dc1ec9e1fb4bb3a0c6593d79a5ebdf.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -998,31 +982,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-75",
-      "product": "HeidemanOHRSCHMUCK TRIGO - Oorbellen - gold-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/16deef737e454eb2b6482ad5aeaea84f/622d7889e19b4400b29679a1d5a3c50a.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-78",
-      "product": "Even&Odd2 PACK - T-shirt print - white/black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/eec8c40512f3433f942577d6912fcfd1/b22ad427b4714e24961383a090f62870.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-80",
-      "product": "Marks & Spencer3PK HEAVY ABSORBENCY FULL - Menstruatie-ondergoed - rose quartz",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e2378144784f41b7aab5acfc1671e574/d72f21c4e0df4e708627b026294ba6a8.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-82",
+      "id": "html-64",
       "product": "GuessNOELLE - Handtas - latte/brown",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/40b2c1e542284d70a65a48eb522a3b42/a852211080964f03982399bb2a717353.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -1030,15 +990,15 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-83",
-      "product": "GuessORIGINAL TEE - T-shirt print - jet black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0f2d43ec41d5484491131e29cd4b559b/714a9a15ebf84591a89a4b24595d9c89.jpg?imwidth=300",
+      "id": "html-67",
+      "product": "Marks & Spencer3PK HEAVY ABSORBENCY FULL - Menstruatie-ondergoed - rose quartz",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e2378144784f41b7aab5acfc1671e574/d72f21c4e0df4e708627b026294ba6a8.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-84",
+      "id": "html-74",
       "product": "Even&Odd3 PACK - Legging - bordeaux/dark grey/black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fca744d4ad6d47f093009675a1bd4379/2039e55623b3431696ddc0520a4c5e16.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -1046,23 +1006,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-87",
-      "product": "Even&OddBroek - evergreen",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fead23a34c944f838ff73ff4d41c2db7/836ce7c05f4249e080dc20d0268d11a3.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-89",
-      "product": "HeidemanKetting - goldfarbend",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b0f4d8154c8d439fbf6ab37e39df8bbd/757e494ec28b4f51b897a893aeacf52a.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-93",
+      "id": "html-75",
       "product": "adidas Originals3 PACK UNISEX - Sokken - white white white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4b82cfccba8c4d158cdd58d8df9ec8e2/a904845776c542e79d6bf1aaa5009a70.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -1070,23 +1014,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-95",
-      "product": "Nike SportswearP 6000 - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/801e34c223034669a2ce4dd0af6d46d7/474f51ef88fb4559bda832199c453da1.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-96",
-      "product": "Marks & SpencerFULL BRIEF CL 5 PACK - Slip - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9ac917eab7954a1490b7316655fe2933/2d2f287dd9b240c2a0c74ef42860b8e0.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-98",
+      "id": "html-79",
       "product": "Marks & Spencer5 PACK - Slip - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9169abf6a8a63b8d84d61ed803e05b14/9f6b7392c2434499a7c658f4e9d3f5d1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -1094,47 +1022,31 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-99",
-      "product": "ONLYDenim ONLALIYAH Long - Blousejurk - medium blue denim",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/49d31b38baaf49a9b1e77db8d9ee0db6/f914b12227cf4fe5870d1d5d7836bbbf.jpg?imwidth=300",
+      "id": "html-80",
+      "product": "Makeup RevolutionEYESHADOW PALETTE FOREVER FLAWLESS ALLURE - Oogschaduwpalet - multi",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5d69451a502d30128f871810860dc397/770a3d56a99541e4ba6f8ad2ba1fedfa.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-100",
-      "product": "PiecesPCEMSA BRACELET 4 PACK - Armband - gold-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9de3151c39804b4aa5e980e85740dba1/8ed6d590d5cb43f78de356eee4847a4f.jpg?imwidth=300&filter=packshot",
+      "id": "html-83",
+      "product": "Even&Odd2 PACK - T-shirt print - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/eec8c40512f3433f942577d6912fcfd1/b22ad427b4714e24961383a090f62870.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-101",
-      "product": "Urban ClassicsLADIES SHORT OVERSIZED TEE - T-shirt basic - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/55512f1a7e014499875ff5ec80966dfd/f3869bde2eed4c27ac8076d02ccab6a3.jpg?imwidth=300",
+      "id": "html-85",
+      "product": "Nike SportswearP 6000 - Sneakers laag - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/801e34c223034669a2ce4dd0af6d46d7/474f51ef88fb4559bda832199c453da1.jpg?imwidth=300",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-102",
-      "product": "Victoria HydeBLACK BEAN - Riem - schwarz",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8842f8005df04ae39a1a506c2bd32a46/4e5e03ca63a14d508781a5f89e45f266.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-103",
-      "product": "Levi's®RIBCAGE STRAIGHT ANKLE - Straight leg jeans - jazz pop",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/78552ba147ef404e8d19ce9f76e3061c/546eaa77fccb47b19c296f5d87a18e0b.jpg?imwidth=300",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-104",
+      "id": "html-86",
       "product": "Anna Field7 PACK CORE COTTON THONG - Tanga - black/pink",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7c373be411b1497faa4cad141f41d2f3/f7e37a093e7540a8968047bd027eefeb.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
@@ -1142,135 +1054,271 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-87",
+      "product": "PiecesPCEMSA BRACELET 4 PACK - Armband - gold-coloured",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9de3151c39804b4aa5e980e85740dba1/8ed6d590d5cb43f78de356eee4847a4f.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-88",
+      "product": "Even&OddT-shirt print - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/eeef2612662d497ab2a4d3b867797518/d459602ee72142ecba3562008f310d96.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-89",
+      "product": "Even&Odd5 PACK - Tanga - light green/light beige/rust orange/light blue/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a617557aedd2428ba6455550119f3905/a778430f04c44553b3b8ed16d2aa6c60.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-90",
+      "product": "Marks & SpencerFULL BRIEF CL 5 PACK - Slip - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9ac917eab7954a1490b7316655fe2933/2d2f287dd9b240c2a0c74ef42860b8e0.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-91",
+      "product": "Even&OddBroek - evergreen",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fead23a34c944f838ff73ff4d41c2db7/836ce7c05f4249e080dc20d0268d11a3.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-92",
+      "product": "adidas Originals1/4 3PACK - Sokken - shadow red/silver green/night indigo",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8fc93d04335e4a569eb87d2bc2b71ae5/673aff79c92a48ff845cb75aee045107.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-95",
+      "product": "PULL&BEARImitatieleren jas - brown",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d1b71b90d2e747a5b78935bbb1ba0dcc/0bf0e06c15284474a4438ee6968a0eb4.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-96",
+      "product": "ONLYDenim ONLALIYAH Long - Blousejurk - medium blue denim",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/49d31b38baaf49a9b1e77db8d9ee0db6/f914b12227cf4fe5870d1d5d7836bbbf.jpg?imwidth=300",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-97",
+      "product": "Anna FieldWEEKDAY 7 PACK - Sokken - pink/purple/off-white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4c60a7991381474bba63bb0b4752711f/6b2b1fd6e030460aa413496686a45e31.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-98",
+      "product": "Even&OddSneakers laag - bleached denim",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/178900fb59c446d5a17d0c0e38f4c21a/6541156bb6454acf8eeaaff8f7d19135.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-99",
+      "product": "GuessJUBE02136JWYGT-U - Oorbellen - gold-coloured",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1a5af3ae159e478ebeaa8fd3e951ab13/ccbd52edcac9405ca03e616e66d4954c.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-100",
+      "product": "YOURTURNUNISEX 3 PACK - T-shirt basic - black/khaki/pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c75e1dadbe0b4c6e9e358176d7c490f9/321e158d8f1e484f831bacc76a4e5aa2.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-101",
+      "product": "Even&Odd2 PACK - Shorts - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6f0264c8c46c46aab68f325fb7ef2c1c/2b243083c7c24f3c824986341e70f058.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-102",
+      "product": "KÉRASTASENUTRITIVE 8H MAGIC NIGHT NOURISHING OVERNIGHT SERUM FOR DRY HAIR - Haarserum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d4de945f301b410aa8e2ea8f375a9f59/4e1692c5c24549a39945b176d9e007a8.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-103",
+      "product": "COSRXEXCLUSIVE ADVANCED SNAIL MUCIN ESSENCE & CREAM DUO KIT (SAVE UP TO 20%) - Huidverzorgingsset",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/785b5120a9514747aeb5030b2d2284d2/eb4affcc11fa4cdbb61a8c8219b09012.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-104",
+      "product": "Tommy JeansARCHIVE FLAG STRIPE CANVAS TRAINERS - Sneakers laag - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0a012a9d0ecd428ab1306784faab41f2/bd288945abbf4eafa0bf18ee33ddfc7d.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-105",
-      "product": "ZignUNISEX - Zonnebril - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/00208354fa4742c59e94cd71a1d7c4b9/1467bb0ae25340d4a243b57fd86141f8.jpg?imwidth=300&filter=packshot",
+      "product": "Nike PerformanceSKILLS MINI UNISEX - Basketbal - pink rise/pink foam/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b765af59937a444297cd85f0c282424a/fcb67cc96bed4ae7a9db43bc1af97a17.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-106",
-      "product": "Nike SportswearAF1 SHADOW - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0b6dab5f95fc42c689a9b5d5f15fca17/4bdde44ed7e247c5b893b646cf798301.jpg?imwidth=300",
+      "product": "Anna Field7 PACK SEAMLESS LAZER CUT COTTON THONG - Tanga - black/nude/off-white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0fcca64eb3884786a60a464d72868f48/1a354979a1b9412da8830246fa6cb567.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-107",
-      "product": "TezenisHIGH-LEG BRAZILIAN - Bikinibroekje - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/279773e4a7b540c09b4f17fc7cb6b935/cbf0135029b9436c80a65725d7fd6949.jpg?imwidth=300",
+      "product": "The OrdinaryGLYCOLIC ACID 7% EXFOLIATING TONER - Tonic",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/268b3add3b724a7dab8e9d42f21824ce/a811fb0b322c46d196fdea71562acfff.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-108",
-      "product": "TezenisCULOTTE - Bikinibroekje - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba76becf13484209973d87e4cc6d9f45/ee5314b76bcb4604a3ccf946e900487a.jpg?imwidth=300",
+      "product": "The OrdinaryNIACINAMIDE 10% + ZINC 1% - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ca8963f3941d40b492ea0cfb71846313/90297d0f4fba424e8c389aeb8f1dbc78.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-109",
-      "product": "TezenisRUCHED TRIANGLE - Bikinitop - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e11a95f429544061bbb6acbbfd7d7f1e/183adab9f6264ff7b91c9d370b48355e.jpg?imwidth=300",
+      "product": "The OrdinaryMULTI-PEPTIDE SERUM FOR HAIR DENSITY - Haarserum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0407557b581c4d5c8fa7b8a5b6303c80/b5431d628bdc4cb48a82430818050fb8.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-110",
-      "product": "TezenisNORMAL PLAIN COLOUR - Bikinibroekje - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3667127732624cc0bbff7b7c1f37ba06/410c019b15fb4068946f9d8ab7b7379e.jpg?imwidth=300",
+      "product": "The OrdinaryHYALURONIC ACID 2% + B5  - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3d0df4afd414428fa808fc73fd4901cc/d26bfc2d43044ca4a6ad729f001fb315.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-111",
-      "product": "TezenisTRIKINI CUT-OUT - Badpak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14c0e32757094307924c9f04a3312ad3/82ef0679ec704701a41dd11a4bae2b2e.jpg?imwidth=300",
+      "product": "The OrdinaryVOLUFILINE* 92% + PAL-ISOLEUCINE 1% - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/41bb15cc04ea480aa83290f7d3ea8b9c/a06a33c0c70549f98134e75ad0b579b9.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-112",
-      "product": "TezenisPERLE POIS - Badpak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/205c13c474bc48d79b45a6c68e6bfb4f/28b8149224274b7fa002e81f8a3dd00d.jpg?imwidth=300",
+      "product": "The OrdinarySALICYLIC ACID 2% SOLUTION - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1bf51f0d7c3c4cf6915210691395b9ff/caba7eb62968409ba699b4e57bf6f401.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-113",
+      "product": "The OrdinaryMULTI-PEPTIDE LASH AND BROW SERUM - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b97c672e1a7847e0b8c5faee1b66c954/7cb137f281dd4f32bd9dbf2c24c7e3a6.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-114",
-      "product": "TezenisSTRING - Bikinibroekje - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b272ac85114d4fb8aee8bd2275cc3aea/6e25f8b96f1c4b4fb1ebf8416273b05b.jpg?imwidth=300",
+      "product": "The OrdinaryTHE CLEAR SET - Huidverzorgingsset",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9f21bbc106f9483193de9002ed1663a0/3296da81299f46e2b365881a1935c111.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-115",
-      "product": "TezenisONE-PIECE WTH RUCHING - Badpak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/028816c61e0e4290a4161b99905664a5/c8b0ec5ac3324f7b8d8d2f0e61ff38d8.jpg?imwidth=300",
+      "product": "The OrdinaryNATURAL MOISTURIZING FACTORS + HA - Dagcrème",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/73f64af4d5a14b808acced5454880b2c/191639e1be664e88b7a73f9e2c14f086.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-116",
-      "product": "TezenisONE-PIECE - Badpak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bd943d56ba0f431d99c8e3961f3deb21/a4105bc513e9411ebb470d2164a3bf37.jpg?imwidth=300",
+      "product": "The OrdinaryAHA 30% + BHA 2% PEELING SOLUTION - Exfoliant",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e041899a83cc48fd9462ad607b00d8dd/c826cc27edcb4251bab6a5413ae8fbd3.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-117",
-      "product": "TezenisONE-PIECE BANDEAU - Badpak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ab3034fe0230404480937ce6d54a911d/d5e7a45435d2431a8b09f2120b5d8ef4.jpg?imwidth=300",
+      "product": "The OrdinaryRETINOL 1% IN SQUALANE - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/238a0989a0ef4aa1a5f34ce55aa55760/544487cbb41e44ebae629a97bb4e9e33.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-118",
-      "product": "TezenisHIGH WAIST BRAZILIAN - Bikinibroekje - 802",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/33b5b01313694f2f9cdf15524160824f/14705108ec9c4174a97f92868720162e.jpg?imwidth=300",
+      "product": "The OrdinaryAZELAIC ACID SUSPENSION 10% - Dagcrème",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7c716b9fc4b949b59124299d1e5da0ad/1d1e9086fc924beb8ff35cebe1e3284a.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-119",
-      "product": "TezenisHIGH WAIST - Bikinibroekje - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8d5baa4f9dd9461a9d57f0e63bd6987f/2e45692740154146a4fb23017dc3ece3.jpg?imwidth=300",
+      "product": "The OrdinaryCaffeine Solution 5% + EGCG Eye Serum - Oogverzorging",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/663f3e83d1ac4d429939a908688dc6e0/69e25b0d0e3f4b988970a460983b87af.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-120",
-      "product": "TezenisTIMELESS LOOK PUSH UP - Bikinitop - red",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/868ea9454f7f45bcbdb98c8c9369963b/26752278f97b4b4c8ec2ff188aaa1984.jpg?imwidth=300",
+      "product": "The OrdinaryMULTI-PEPTIDE + COPPER PEPTIDES 1% SERUM - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bf69f5664b2b4a06b1d36376d3910ff9/a4de952d1b6d42cc80c0ca933961c953.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-121",
-      "product": "TezenisRUCHED PUSH UP - Bikinitop - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/43211a33793148cdb31c7981746ad34f/13b2a481dff94aeb9d5720772809f0aa.jpg?imwidth=300",
+      "product": "The OrdinaryRETINAL 0.2% EMULSION SERUM - Serum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7088bc52a59847a98a467000d38672f4/737c305c1b3f4194b6acc56a3241e1f7.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "zalando"
     }
   ],
-  "scrapedAt": "2026-05-30T07:44:44.634Z",
+  "scrapedAt": "2026-05-30T16:05:56.264Z",
   "sourceUrls": [
     "https://www.zalando.be/promo/"
   ],
