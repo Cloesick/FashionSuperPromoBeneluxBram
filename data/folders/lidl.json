@@ -154,7 +154,7 @@
       "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
       "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-31T08:06:15.323Z"
+      "scrapedAt": "2026-05-31T15:57:51.404Z"
     }
   ],
   "deals": [
@@ -178,14 +178,6 @@
     },
     {
       "id": "html-15",
-      "product": "Mobiele airco",
-      "promoPrice": 149.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-22",
       "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
       "promoPrice": 17.99,
       "validFrom": "2026-05-25",
@@ -193,15 +185,25 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-29",
+      "id": "html-22",
       "product": "Accugrastrimmer 20 V PARKSIDE® PRTA20",
       "promoPrice": 29.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-29",
+      "product": "Meubel- en tapijtreiniger",
+      "originalPrice": 89.99,
+      "promoPrice": 89.992764,
+      "discount": "Ook in de winkel van 27/05 - 09/06",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-05-31T08:06:32.075Z",
+  "scrapedAt": "2026-05-31T15:58:07.491Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"

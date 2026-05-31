@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-31T08:15:20.328Z"
+      "scrapedAt": "2026-05-31T16:07:08.939Z"
     }
   ],
   "deals": [
@@ -83,24 +83,15 @@
     },
     {
       "id": "html-13",
-      "product": "Set van 3 slips van microvezel - Brazilian",
-      "originalPrice": 12.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a8/55/a855c7a35fd6f4afb91da2578ede5dd127fc7a7e.jpg",
+      "product": "Boucléblazer",
+      "originalPrice": 39.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3e/4f/3e4febfd0044ee00a80aa48ed227613ace0a5ff6.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-14",
-      "product": "Legging met coating",
-      "originalPrice": 19.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/bf/44/bf44724d5fdbfbf776a04d10dd331e521bbe712b.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
       "product": "Jurk met korsetlijfje",
       "originalPrice": 34.99,
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/72/bb/72bbbba341aeb5f43c68aeaeb3b74a7662d38bab.jpg",
@@ -109,10 +100,19 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-15",
+      "product": "Set van 3 slips van microvezel - Brazilian",
+      "originalPrice": 12.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a8/55/a855c7a35fd6f4afb91da2578ede5dd127fc7a7e.jpg",
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-16",
-      "product": "Panty met dessin - 20 denier",
-      "originalPrice": 9.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
+      "product": "Legging met coating",
+      "originalPrice": 19.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/bf/44/bf44724d5fdbfbf776a04d10dd331e521bbe712b.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
@@ -128,17 +128,17 @@
     },
     {
       "id": "html-18",
-      "product": "Kanten halterjurk",
-      "originalPrice": 89.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/24/64/2464d9304ff497e123e5e3f5cdcaf30fdaba08c3.jpg",
+      "product": "Panty met dessin - 20 denier",
+      "originalPrice": 9.99,
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Jurk met smokwerk",
-      "originalPrice": 44.99,
+      "product": "Ruimvallende blazer",
+      "originalPrice": 189,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
@@ -153,16 +153,32 @@
     },
     {
       "id": "html-21",
-      "product": "Shaping panty - 20 denier",
-      "originalPrice": 12.99,
+      "product": "Blazer van linnenmix met korte mouwen",
+      "originalPrice": 34.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Kanten panty",
-      "originalPrice": 14.99,
+      "product": "Blazer met vierkante hals",
+      "originalPrice": 29.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Jurk met smokwerk",
+      "originalPrice": 44.99,
+      "validFrom": "2026-05-25",
+      "validUntil": "2026-05-31",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-24",
+      "product": "Shaping panty - 20 denier",
+      "originalPrice": 12.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
@@ -238,17 +254,9 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-21",
+      "id": "html-22",
       "product": "3 paar ribgebreide enkelsokken",
       "originalPrice": 7.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-22",
-      "product": "Korte jurk",
-      "originalPrice": 24.99,
       "validFrom": "2026-05-25",
       "validUntil": "2026-05-31",
       "retailerSlug": "hm"
@@ -262,7 +270,7 @@
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-31T08:15:35.956Z",
+  "scrapedAt": "2026-05-31T16:07:26.644Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
