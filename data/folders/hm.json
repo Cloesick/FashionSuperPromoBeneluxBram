@@ -2,22 +2,22 @@
   "retailer": "hm",
   "folders": [
     {
-      "id": "hm-2026-w22-folder",
+      "id": "hm-2026-w23-folder",
       "retailerSlug": "hm",
       "title": "H&M sale",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "pageCount": 1,
-      "thumbnailUrl": "/screenshots/hm-2026-w22-viewerimg-p1.webp",
+      "thumbnailUrl": "/screenshots/hm-2026-w23-viewerimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/hm-2026-w22-viewerimg-p1.webp",
+          "imageUrl": "/screenshots/hm-2026-w23-viewerimg-p1.webp",
           "deals": []
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-05-31T16:07:08.939Z"
+      "scrapedAt": "2026-06-01T10:00:53.080Z"
     }
   ],
   "deals": [
@@ -33,8 +33,8 @@
         "https://image.hm.com/assets/hm/4d/e1/4de1a5508526fc78f8bd04c625bd3c8fd6c9d1ab.jpg",
         "https://image.hm.com/assets/hm/17/61/176160117b66837f4285c184e92e7cb6d7cb35ab.jpg"
       ],
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
@@ -49,8 +49,8 @@
         "https://media.weekday.com/assets/003/da/fa/dafa54986962756d5e13fa2b18724c118c387aed.jpg",
         "https://media.weekday.com/assets/003/f8/3a/f83a3fca474e3c643751446105e0584e2aec14e3.jpg"
       ],
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
@@ -61,216 +61,124 @@
         "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
         "https://image.hm.com/assets/hm/72/d4/72d411b4796d71a1a9aa63ff1af9177feb559be1.jpg"
       ],
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-8",
       "product": "Je winkelmandje is leeg.",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-10",
       "product": "Gebreide peplumtop",
-      "originalPrice": 19.99,
       "imageUrl": "https://image.hm.com/assets/hm/ac/5e/ac5e61b2acb8398a161704fad6a00b1be3ae1293.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-13",
-      "product": "Boucléblazer",
-      "originalPrice": 39.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/3e/4f/3e4febfd0044ee00a80aa48ed227613ace0a5ff6.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Wijde culotte van linnenmix",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/4b/d1/4bd159af71d810077e57dfeb9cdcf8762a10c935.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-14",
-      "product": "Jurk met korsetlijfje",
-      "originalPrice": 34.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/72/bb/72bbbba341aeb5f43c68aeaeb3b74a7662d38bab.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Vest met kraag",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/47/63/47639912f3fb85f2c59f8dfbe2476e778454fb79.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Set van 3 slips van microvezel - Brazilian",
-      "originalPrice": 12.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/a8/55/a855c7a35fd6f4afb91da2578ede5dd127fc7a7e.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Miniskort van plisséstof",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0e/ea/0eea470eab0ef124cc191d3b1e2c8b04e3d4cf80.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Legging met coating",
-      "originalPrice": 19.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/bf/44/bf44724d5fdbfbf776a04d10dd331e521bbe712b.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Gedrapeerde top met kralen",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/58/95/589587b750a9aabf560fd6ed2a5fbbf9517a3407.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Straptop van microvezel",
-      "originalPrice": 9.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/1c/1c/1c1ca0e08fb5efee3ab06a7a497604bd29b195cb.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Flared High Jeans",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/5d/24/5d24066505d248c798c547a16e70f0a10888b646.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
       "product": "Panty met dessin - 20 denier",
-      "originalPrice": 9.99,
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Ruimvallende blazer",
-      "originalPrice": 189,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "Gedrapeerde jurk met cut-out",
-      "originalPrice": 29.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Bloes met kant en volantmouwen",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Blazer van linnenmix met korte mouwen",
-      "originalPrice": 34.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Straight High Jeans",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Blazer met vierkante hals",
-      "originalPrice": 29.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Mouwloze open-backjurk",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Jurk met smokwerk",
-      "originalPrice": 44.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Crossbody-tas",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-24",
-      "product": "Shaping panty - 20 denier",
-      "originalPrice": 12.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-13",
-      "product": "Katoenen T-shirt",
-      "originalPrice": 7.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/60/c9/60c9e183c810bb231022a88e01996aa7e304434b.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
-      "product": "Bloemvormige oorbellen",
-      "originalPrice": 4.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/5b/11/5b1126690123b93e0c5097448fe0b6bb6f1cc9d5.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Bermuda van linnenmix",
-      "originalPrice": 24.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/d9/29/d929f0ac671ef6ae38a73e7cc2b971466c7bdc38.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "Cargobroek met ballonpijpen",
-      "originalPrice": 19.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/dd/a0/dda09465dd74c8d3e774f69bb4f4449f9e4e53f2.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Sweatshort",
-      "originalPrice": 9.99,
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e6/11/e611d891c43b735f59ad9b4f773ad921b2265f59.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-18",
-      "product": "Imoo Low Rise Loose Wide Jeans",
-      "originalPrice": 49.99,
-      "imageUrl": "https://media.weekday.com/assets/003/c3/36/c336a120c395ad3c8ffbf064e4f093a6c7eaf296.jpg",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-19",
-      "product": "Kraagloze blazer",
-      "originalPrice": 49.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "Jurk met uitlopende rok",
-      "originalPrice": 24.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-22",
-      "product": "3 paar ribgebreide enkelsokken",
-      "originalPrice": 7.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Stringbody met gedraaid detail",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Bikinislip - Brazilian",
-      "originalPrice": 12.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "product": "Mouwloze stringbody",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-24",
+      "product": "Schoudertas",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-05-31T16:07:26.644Z",
+  "scrapedAt": "2026-06-01T10:01:10.369Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

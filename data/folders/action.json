@@ -2,78 +2,78 @@
   "retailer": "action",
   "folders": [
     {
-      "id": "action-2026-w22-folder",
+      "id": "action-2026-w23-folder",
       "retailerSlug": "action",
       "title": "Action folder van de week",
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "pageCount": 12,
-      "thumbnailUrl": "/screenshots/action-2026-w22-viewerimg-p1.webp",
+      "thumbnailUrl": "/screenshots/action-2026-w23-viewerimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p1.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p1.webp",
           "deals": []
         },
         {
           "pageNumber": 2,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p2.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p2.webp",
           "deals": []
         },
         {
           "pageNumber": 3,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p3.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p3.webp",
           "deals": []
         },
         {
           "pageNumber": 4,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p4.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p4.webp",
           "deals": []
         },
         {
           "pageNumber": 5,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p5.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p5.webp",
           "deals": []
         },
         {
           "pageNumber": 6,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p6.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p6.webp",
           "deals": []
         },
         {
           "pageNumber": 7,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p7.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p7.webp",
           "deals": []
         },
         {
           "pageNumber": 8,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p8.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p8.webp",
           "deals": []
         },
         {
           "pageNumber": 9,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p9.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p9.webp",
           "deals": []
         },
         {
           "pageNumber": 10,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p10.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p10.webp",
           "deals": []
         },
         {
           "pageNumber": 11,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p11.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p11.webp",
           "deals": []
         },
         {
           "pageNumber": 12,
-          "imageUrl": "/screenshots/action-2026-w22-viewerimg-p12.webp",
+          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p12.webp",
           "deals": []
         }
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-05-30T07:43:22.363Z"
+      "scrapedAt": "2026-06-01T10:00:18.092Z"
     }
   ],
   "deals": [
@@ -81,188 +81,188 @@
       "id": "pagetext-0",
       "product": "Sologic laad- en datakabel USB-C1,5 meter | diverse kleuren/m099Weekactie",
       "promoPrice": 0.66,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-1",
       "product": "Duck Clean & Fresh toiletgel Eucalyptus750 ml/l154Weekactie",
       "promoPrice": 2.05,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-2",
       "product": "Hotel Royal jersey hoeslaken90/100 x 190/200 cm | diverse varianten/st499Weekactie",
       "promoPrice": 4.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-3",
       "product": "Tropi-coco kokoswater1 liter/l179Weekactie",
       "promoPrice": 1.79,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-4",
       "product": "Koelrugzak24 liter | diverse kleuren/st474Weekactie",
       "promoPrice": 4.74,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-5",
       "product": "Dove deodorant Classic Fresh300 ml/l299Weekactie",
       "promoPrice": 9.97,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-6",
       "product": "Picknick-barbecue35 x 25 x 17 cm/st788Weekactie",
       "promoPrice": 7.88,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-7",
       "product": "Gevulde etui19-delig | diverse varianten/st299Weekactie",
       "promoPrice": 2.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-8",
       "product": "SneakersokkenMaat 39/42 | 4 paar/st199Weekactie",
       "promoPrice": 0.5,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-9",
       "product": "Kinzo airconditioner1010 watt/st14995Weekactie",
       "promoPrice": 149.95,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-10",
       "product": "Maak je eigen geurkaarsØ 9 x 10 cm | diverse varianten/st345Weekactie",
       "promoPrice": 3.45,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-11",
       "product": "LSC Smart Connect buitenverlichting13 meter/st1595Weekactie",
       "promoPrice": 15.95,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-12",
       "product": "Dove deodorant Fresh Care300 ml/l299Weekactie",
       "promoPrice": 9.97,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-13",
       "product": "Holee Molee Koreaanse barbecuesaus285 ml/l129Weekactie",
       "promoPrice": 4.53,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-14",
       "product": "Kunststof longdrinkglazen2 stuks | 500 ml | diverse kleuren/st162Weekactie",
       "promoPrice": 0.81,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-15",
       "product": "Kunststof wijnglazen2 stuks | 280 ml | diverse kleuren/st162Weekactie",
       "promoPrice": 0.81,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-16",
       "product": "Solix solar draadloze oordoppenSL-510/st777Weekactie",
       "promoPrice": 7.77,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-17",
       "product": "Big Jeff barbecue schoonmaakdoekjes10 stuks/st079Weekactie",
       "promoPrice": 0.79,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-18",
       "product": "Palazzo koffiebonen Dark Roast900 gram/kg899Weekactie",
       "promoPrice": 9.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-19",
       "product": "Palazzo koffiebonen Regular900 gram/kg899Weekactie",
       "promoPrice": 9.99,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-20",
       "product": "Strandtas36 x 49 x 15 cm | diverse varianten/st595Weekactie",
       "promoPrice": 5.95,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-21",
       "product": "Disney notitieboek A5100 vel | diverse varianten/st149Weekactie",
       "promoPrice": 1.49,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-22",
       "product": "ShortMaten S - XL | diverse kleuren/st649Weekactie",
       "promoPrice": 6.49,
-      "validFrom": "2026-05-25",
-      "validUntil": "2026-05-31",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
       "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-05-30T07:43:29.132Z",
+  "scrapedAt": "2026-06-01T10:00:29.477Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"
