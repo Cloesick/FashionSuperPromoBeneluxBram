@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-01T10:00:53.080Z"
+      "scrapedAt": "2026-06-01T19:54:52.860Z"
     }
   ],
   "deals": [
@@ -90,14 +90,22 @@
     },
     {
       "id": "html-14",
-      "product": "Vest met kraag",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/47/63/47639912f3fb85f2c59f8dfbe2476e778454fb79.jpg",
+      "product": "Hemdjurk met korte mouwen",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
+      "product": "Kniehoge laarzen",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/fe/0a/fe0a60d3ebc4916ed20ef423452f3e32cb438bc9.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
       "product": "Miniskort van plisséstof",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0e/ea/0eea470eab0ef124cc191d3b1e2c8b04e3d4cf80.jpg",
       "validFrom": "2026-06-01",
@@ -105,23 +113,23 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-16",
-      "product": "Gedrapeerde top met kralen",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/58/95/589587b750a9aabf560fd6ed2a5fbbf9517a3407.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-17",
-      "product": "Flared High Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/5d/24/5d24066505d248c798c547a16e70f0a10888b646.jpg",
+      "product": "Wide High Jeans",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9f/ee/9fee76608ae030a558fb72ab5d900893f1ae11c8.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
+      "product": "Vest met kraag",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/47/63/47639912f3fb85f2c59f8dfbe2476e778454fb79.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
       "product": "Panty met dessin - 20 denier",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
       "validFrom": "2026-06-01",
@@ -129,35 +137,21 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-19",
-      "product": "Bloes met kant en volantmouwen",
+      "id": "html-20",
+      "product": "Gedrapeerde top met kralen",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Straight High Jeans",
+      "product": "Flared High Jeans",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Mouwloze open-backjurk",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-23",
-      "product": "Crossbody-tas",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-24",
       "product": "Stringbody met gedraaid detail",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
@@ -165,20 +159,20 @@
     },
     {
       "id": "html-23",
-      "product": "Mouwloze stringbody",
+      "product": "Shaping panty - 20 denier",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-24",
-      "product": "Schoudertas",
+      "product": "Jacquardgeweven peplumtop",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-01T10:01:10.369Z",
+  "scrapedAt": "2026-06-01T19:55:10.046Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

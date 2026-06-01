@@ -154,7 +154,7 @@
       "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
       "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-01T09:50:22.502Z"
+      "scrapedAt": "2026-06-01T19:40:50.529Z"
     }
   ],
   "deals": [
@@ -178,6 +178,16 @@
     },
     {
       "id": "html-15",
+      "product": "Meubel- en tapijtreiniger",
+      "originalPrice": 89.99,
+      "promoPrice": 89.992764,
+      "discount": "Ook in de winkel van 27/05 - 09/06",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-23",
       "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
       "promoPrice": 17.99,
       "validFrom": "2026-06-01",
@@ -185,24 +195,15 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-22",
+      "id": "html-30",
       "product": "Accugrastrimmer 20 V PARKSIDE® PRTA20",
       "promoPrice": 29.99,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-29",
-      "product": "Muurhaspel met tuinslang, 25 m",
-      "originalPrice": 59.99,
-      "promoPrice": 59.991649,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-01T09:50:38.626Z",
+  "scrapedAt": "2026-06-01T19:41:07.354Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"
