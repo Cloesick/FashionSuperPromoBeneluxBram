@@ -214,17 +214,37 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w22-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3104953/pdfs/0009b6d2-2843-4ef7-8dfb-832c5fcd4f81.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W22-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-02T09:09:10.446Z"
+      "scrapedAt": "2026-06-02T18:31:57.091Z"
     }
   ],
-  "deals": [],
-  "scrapedAt": "2026-06-02T09:09:55.322Z",
+  "deals": [
+    {
+      "id": "pagetext-0",
+      "product": "OnlineMitolo Marsican | McLaren Vale | Shiraz75 cl149,32 €/l186,65 €/l€11199+1+6S2021022400517770000",
+      "promoPrice": 139.99,
+      "discount": "-20%",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "delhaize"
+    },
+    {
+      "id": "pagetext-1",
+      "product": "OnlineVahiné Decoraties | Multi deco fantasy130 gr48,39 €/kg53,77 €/kg€629S201610140367440000012",
+      "promoPrice": 6.99,
+      "discount": "-10%",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "delhaize"
+    }
+  ],
+  "scrapedAt": "2026-06-02T18:32:42.016Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
   "methods": [
     "publitas",
     "pdf",
-    "screenshot"
+    "screenshot",
+    "page-text"
   ]
 }

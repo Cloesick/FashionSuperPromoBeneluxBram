@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-02T09:12:23.273Z"
+      "scrapedAt": "2026-06-02T18:35:17.968Z"
     }
   ],
   "deals": [
@@ -40,7 +40,7 @@
     {
       "id": "jsonld-1",
       "product": "Panty met dessin",
-      "originalPrice": 12.99,
+      "promoPrice": 12.99,
       "imageUrl": [
         "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
         "https://image.hm.com/assets/hm/72/d4/72d411b4796d71a1a9aa63ff1af9177feb559be1.jpg"
@@ -52,7 +52,7 @@
     {
       "id": "jsonld-2",
       "product": "Kostuumpantalon met hoge taille en wijde pijpen",
-      "originalPrice": 34.99,
+      "promoPrice": 34.99,
       "imageUrl": [
         "https://media.weekday.com/assets/003/f0/25/f025e27843f7de0e09f4089fa5a5191798be773e.jpg",
         "https://media.weekday.com/assets/003/35/55/3555675e2dbe6a67b3f816e0b922f34c656ec962.jpg",
@@ -81,7 +81,63 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-11",
+      "product": "Panty met dessin",
+      "imageUrl": "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-12",
+      "product": "Kostuumpantalon met hoge taille en wijde pijpen",
+      "imageUrl": "https://media.weekday.com/assets/003/f0/25/f025e27843f7de0e09f4089fa5a5191798be773e.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-13",
+      "product": "Wijde joggers",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/d9/e5/d9e562600f1dfa7ee825d0ab119753d8127bed9f.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-14",
+      "product": "Sandalen",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/5b/a7/5ba79786614e573d88ef73611a33795e181456b0.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Oversized T-shirt",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/8f/37/8f37e32b1f80f93082875dbb2d19fc22e1bc0299.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
+      "product": "A.S.A.P. Quick Dry nagellak",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/30/fe/30fea61873c35873a825e387cd1eab6420518112.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Ribgebreide trui met peplum en rits",
+      "imageUrl": "https://media.weekday.com/assets/003/12/38/12381c1ca3b3276e7b80e893e40eea57ba60b416.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
       "product": "Katoenen T-shirt",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/8c/b6/8cb6d63b9d1416cf9e2ac60356b75119a503599e.jpg",
       "validFrom": "2026-06-01",
@@ -89,82 +145,43 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-14",
-      "product": "Tricot pyjama met kant",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/8e/9f/8e9f282cf28ab6fe6b6f0db9bb061e757a120e19.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Mouwloze satijnen jurk",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/29/c9/29c984979bf6f6589c2c38058258f8aa2fcd83d2.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "Katoenen hemdjurk met platte plooitjes",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ef/cc/efccfed90bddd2215c57c5fe6f1084e9a46b5638.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Straight Leg High Waist Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/2f/b9/2fb9910a2d6ffda730544e353a4e93d1eca79837.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-18",
-      "product": "Wide Ultra High Turn-up Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f2/cb/f2cb75483f9ef39b3f58087e680d3bd11272613e.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-19",
-      "product": "CORAL jeans met wijde pijpen",
+      "product": "Panty met dessin - 20 denier",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Peplumbloes",
+      "product": "Gedrapeerde jurk met turtleneck",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Panty met dessin - 20 denier",
+      "product": "Glitterjurk met schoudervullingen",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Gedrapeerde top met kralen",
+      "product": "Kanten body met lange mouwen",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-24",
-      "product": "Flared High Jeans",
+      "product": "Strapless stringbody",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-02T09:12:39.638Z",
+  "scrapedAt": "2026-06-02T18:35:29.212Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
