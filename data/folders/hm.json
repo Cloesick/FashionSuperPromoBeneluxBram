@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-01T19:54:52.860Z"
+      "scrapedAt": "2026-06-02T09:12:23.273Z"
     }
   ],
   "deals": [
@@ -39,15 +39,11 @@
     },
     {
       "id": "jsonld-1",
-      "product": "Kostuumpantalon met hoge taille en wijde pijpen",
-      "originalPrice": 34.99,
+      "product": "Panty met dessin",
+      "originalPrice": 12.99,
       "imageUrl": [
-        "https://media.weekday.com/assets/003/f0/25/f025e27843f7de0e09f4089fa5a5191798be773e.jpg",
-        "https://media.weekday.com/assets/003/35/55/3555675e2dbe6a67b3f816e0b922f34c656ec962.jpg",
-        "https://media.weekday.com/assets/003/6e/b9/6eb94b53ab0d9b96ea7754794bd30ca183153c48.jpg",
-        "https://media.weekday.com/assets/003/dd/75/dd7534b6b3938299286c4a2c208c9d7194b4e6e8.jpg",
-        "https://media.weekday.com/assets/003/da/fa/dafa54986962756d5e13fa2b18724c118c387aed.jpg",
-        "https://media.weekday.com/assets/003/f8/3a/f83a3fca474e3c643751446105e0584e2aec14e3.jpg"
+        "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
+        "https://image.hm.com/assets/hm/72/d4/72d411b4796d71a1a9aa63ff1af9177feb559be1.jpg"
       ],
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
@@ -55,11 +51,15 @@
     },
     {
       "id": "jsonld-2",
-      "product": "Panty met dessin",
-      "originalPrice": 12.99,
+      "product": "Kostuumpantalon met hoge taille en wijde pijpen",
+      "originalPrice": 34.99,
       "imageUrl": [
-        "https://image.hm.com/assets/hm/64/b5/64b5ad78ed97331546f139ebc761898307a0c1c6.jpg",
-        "https://image.hm.com/assets/hm/72/d4/72d411b4796d71a1a9aa63ff1af9177feb559be1.jpg"
+        "https://media.weekday.com/assets/003/f0/25/f025e27843f7de0e09f4089fa5a5191798be773e.jpg",
+        "https://media.weekday.com/assets/003/35/55/3555675e2dbe6a67b3f816e0b922f34c656ec962.jpg",
+        "https://media.weekday.com/assets/003/dd/75/dd7534b6b3938299286c4a2c208c9d7194b4e6e8.jpg",
+        "https://media.weekday.com/assets/003/6e/b9/6eb94b53ab0d9b96ea7754794bd30ca183153c48.jpg",
+        "https://media.weekday.com/assets/003/da/fa/dafa54986962756d5e13fa2b18724c118c387aed.jpg",
+        "https://media.weekday.com/assets/003/f8/3a/f83a3fca474e3c643751446105e0584e2aec14e3.jpg"
       ],
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
@@ -82,97 +82,89 @@
     },
     {
       "id": "html-13",
-      "product": "Wijde culotte van linnenmix",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/4b/d1/4bd159af71d810077e57dfeb9cdcf8762a10c935.jpg",
+      "product": "Katoenen T-shirt",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/8c/b6/8cb6d63b9d1416cf9e2ac60356b75119a503599e.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-14",
-      "product": "Hemdjurk met korte mouwen",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg",
+      "product": "Tricot pyjama met kant",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/8e/9f/8e9f282cf28ab6fe6b6f0db9bb061e757a120e19.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Kniehoge laarzen",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/fe/0a/fe0a60d3ebc4916ed20ef423452f3e32cb438bc9.jpg",
+      "product": "Mouwloze satijnen jurk",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/29/c9/29c984979bf6f6589c2c38058258f8aa2fcd83d2.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Miniskort van plisséstof",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/0e/ea/0eea470eab0ef124cc191d3b1e2c8b04e3d4cf80.jpg",
+      "product": "Katoenen hemdjurk met platte plooitjes",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/ef/cc/efccfed90bddd2215c57c5fe6f1084e9a46b5638.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Wide High Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/9f/ee/9fee76608ae030a558fb72ab5d900893f1ae11c8.jpg",
+      "product": "Straight Leg High Waist Jeans",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/2f/b9/2fb9910a2d6ffda730544e353a4e93d1eca79837.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
-      "product": "Vest met kraag",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/47/63/47639912f3fb85f2c59f8dfbe2476e778454fb79.jpg",
+      "product": "Wide Ultra High Turn-up Jeans",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/f2/cb/f2cb75483f9ef39b3f58087e680d3bd11272613e.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Panty met dessin - 20 denier",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/82/24/8224905f9d5474c294e821d779649f224579d47a.jpg",
+      "product": "CORAL jeans met wijde pijpen",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Gedrapeerde top met kralen",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-21",
-      "product": "Flared High Jeans",
+      "product": "Peplumbloes",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-22",
-      "product": "Stringbody met gedraaid detail",
+      "product": "Panty met dessin - 20 denier",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Shaping panty - 20 denier",
+      "product": "Gedrapeerde top met kralen",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-24",
-      "product": "Jacquardgeweven peplumtop",
+      "product": "Flared High Jeans",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-01T19:55:10.046Z",
+  "scrapedAt": "2026-06-02T09:12:39.638Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

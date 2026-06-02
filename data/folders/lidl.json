@@ -7,7 +7,7 @@
       "title": "Lidl folder van de week",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
-      "pageCount": 28,
+      "pageCount": 40,
       "thumbnailUrl": "/screenshots/lidl-2026-w23-pdfimg-p1.webp",
       "pages": [
         {
@@ -149,12 +149,72 @@
           "pageNumber": 28,
           "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p28.webp",
           "deals": []
+        },
+        {
+          "pageNumber": 29,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p29.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 30,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p30.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 31,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p31.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 32,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p32.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 33,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p33.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 34,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p34.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 35,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p35.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 36,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p36.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 37,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p37.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 38,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p38.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 39,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p39.webp",
+          "deals": []
+        },
+        {
+          "pageNumber": 40,
+          "imageUrl": "/screenshots/lidl-2026-w23-pdfimg-p40.webp",
+          "deals": []
         }
       ],
-      "embedUrl": "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/2875893/pdfs/419fd7b6-453b-4f4a-a15b-e91586acfec3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520LIDL_Duurzaamheidsmagazine_23-24_Animatie_NL.pdf",
+      "embedUrl": "https://folder-nl.lidl.be/nl-folder-01-06-06-06",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3085549/pdfs/2d1bdddf-ee71-4b09-bf7f-e8ec5aabd0ef.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252001-06-06-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-01T19:40:50.529Z"
+      "scrapedAt": "2026-06-02T09:03:19.207Z"
     }
   ],
   "deals": [
@@ -170,6 +230,14 @@
     },
     {
       "id": "html-8",
+      "product": "Mobiele airco",
+      "promoPrice": 149.99,
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-15",
       "product": "Bladloze standventilator",
       "promoPrice": 74.99,
       "validFrom": "2026-06-01",
@@ -177,7 +245,7 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-15",
+      "id": "html-22",
       "product": "Meubel- en tapijtreiniger",
       "originalPrice": 89.99,
       "promoPrice": 89.992764,
@@ -187,26 +255,18 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-23",
+      "id": "html-30",
       "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
       "promoPrice": 17.99,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-30",
-      "product": "Accugrastrimmer 20 V PARKSIDE® PRTA20",
-      "promoPrice": 29.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-01T19:41:07.354Z",
+  "scrapedAt": "2026-06-02T09:03:35.715Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
-    "https://folder-nl.lidl.be/lidl_duurzaamheidsmagazine_23-24_animatie_nl/page/1"
+    "https://folder-nl.lidl.be/nl-folder-01-06-06-06"
   ],
   "methods": [
     "publitas",
