@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-02T18:34:42.774Z"
+      "scrapedAt": "2026-06-03T09:33:13.211Z"
     }
   ],
   "deals": [
@@ -199,6 +199,14 @@
     },
     {
       "id": "pagetext-15",
+      "product": "Paradise balpennen4 stuks | diverse varianten/st149Weekactie",
+      "promoPrice": 0.37,
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-16",
       "product": "Maak je eigen geurkaarsØ 9 x 10 cm | diverse varianten/st345Weekactie",
       "promoPrice": 3.45,
       "validFrom": "2026-06-01",
@@ -206,7 +214,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-16",
+      "id": "pagetext-17",
       "product": "Sportsokken BelgiëMaten 39 - 46 | 2 paar/st149Weekactie",
       "promoPrice": 1.49,
       "validFrom": "2026-06-01",
@@ -214,7 +222,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-17",
+      "id": "pagetext-18",
       "product": "Sportsokken België2 paar | maten 27 - 38/st149Weekactie",
       "promoPrice": 0.75,
       "validFrom": "2026-06-01",
@@ -222,7 +230,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-18",
+      "id": "pagetext-19",
       "product": "Sportset BelgiëMaten - 98 - 140/st495Weekactie",
       "promoPrice": 4.95,
       "validFrom": "2026-06-01",
@@ -230,7 +238,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-19",
+      "id": "pagetext-20",
       "product": "Natural Happiness pompoenpitten150 gram/kg149Weekactie",
       "promoPrice": 9.93,
       "validFrom": "2026-06-01",
@@ -238,23 +246,15 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-20",
+      "id": "pagetext-21",
       "product": "Etui met hangerDiverse varianten/st149Weekactie",
       "promoPrice": 1.49,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-21",
-      "product": "VoetballampØ 10 cm/st249Weekactie",
-      "promoPrice": 2.49,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-06-02T18:34:49.041Z",
+  "scrapedAt": "2026-06-03T09:33:19.740Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"
