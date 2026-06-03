@@ -214,17 +214,27 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w22-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3104953/pdfs/0009b6d2-2843-4ef7-8dfb-832c5fcd4f81.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W22-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-03T09:30:23.781Z"
+      "scrapedAt": "2026-06-03T18:52:35.067Z"
     }
   ],
-  "deals": [],
-  "scrapedAt": "2026-06-03T09:31:09.306Z",
+  "deals": [
+    {
+      "id": "pagetext-0",
+      "product": "Delhaize Zalmfilet | Zonder vel+/- 290 gr27,44 €/kg+/-  €+/-€796F199003130024940000018",
+      "promoPrice": 8.84,
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "delhaize"
+    }
+  ],
+  "scrapedAt": "2026-06-03T18:53:21.546Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
   "methods": [
     "publitas",
     "pdf",
-    "screenshot"
+    "screenshot",
+    "page-text"
   ]
 }
