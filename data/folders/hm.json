@@ -17,20 +17,12 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-04T08:58:56.703Z"
+      "scrapedAt": "2026-06-04T17:49:29.524Z"
     }
   ],
   "deals": [
     {
       "id": "html-10",
-      "product": "Satijnen short met kant",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/dd/fb/ddfb13a8a8366b5532d64e99fb1dbabcd212570c.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-11",
       "product": "Geribde tanktop",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/b2/cb/b2cb4753a67c82ad2efcdb49b1e2af6be88814a9.jpg",
       "validFrom": "2026-06-01",
@@ -38,7 +30,7 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-12",
+      "id": "html-11",
       "product": "One-shouldertop met sjaallook",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/c4/c4/c4c4b7bf8b8238b55325e4cecca474cef1935ccf.jpg",
       "validFrom": "2026-06-01",
@@ -47,14 +39,6 @@
     },
     {
       "id": "html-13",
-      "product": "Fijngebreide one-shouldertop",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/aa/e4/aae4ea04aaec532a61d03458b21a9ca679101ca0.jpg",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
       "product": "Katoenen T-shirt",
       "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg",
       "validFrom": "2026-06-01",
@@ -62,28 +46,37 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-18",
+      "id": "html-14",
+      "product": "Satijnen short met kant",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/dd/fb/ddfb13a8a8366b5532d64e99fb1dbabcd212570c.jpg",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-16",
       "product": "Barrel High Waist Ankle Jeans",
+      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/76/4e/764e771cd8bdec618b9644d71324169f096e7d91.jpg",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Katoenen haltertop",
+      "product": "Fijngebreide one-shouldertop",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-21",
-      "product": "Bandeaubikinitop met padding",
+      "id": "html-20",
+      "product": "Korte strandjurk",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-04T08:59:20.442Z",
+  "scrapedAt": "2026-06-04T17:49:44.874Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

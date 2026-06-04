@@ -184,7 +184,7 @@
       "embedUrl": "https://view.publitas.com/ah/bonus-week-23-2026/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/126/3086299/pdfs/99f54fd0-06bb-4697-8ff6-d08318049873.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-23-2026.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-02T08:57:02.853Z"
+      "scrapedAt": "2026-06-04T17:34:03.851Z"
     }
   ],
   "deals": [
@@ -500,7 +500,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-692",
+      "id": "html-691",
       "product": "Lipton Ice Tea 0.5 literflesjes",
       "discount": "30%korting",
       "validFrom": "2026-06-01",
@@ -508,7 +508,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-711",
+      "id": "html-710",
       "product": "Schweppes literflessen",
       "discount": "3+3gratis",
       "validFrom": "2026-06-01",
@@ -516,14 +516,14 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-730",
+      "id": "html-729",
       "product": "De Verhulstjes rosé of 0% mocktail 6 x 0.75 literflessen",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-750",
+      "id": "html-749",
       "product": "Tout Bien average Belgian mega pint",
       "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130313531383536?revLabel=1&rendition=400x400webp&fileType=binary",
       "validFrom": "2026-06-01",
@@ -531,7 +531,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-772",
+      "id": "html-771",
       "product": "Freixenet 0.0 sparkling 6 x 0.75 literflessen",
       "discount": "6 voor29.99",
       "validFrom": "2026-06-01",
@@ -539,7 +539,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-791",
+      "id": "html-790",
       "product": "Tout Bien average Belgian mega pint 4 x 0.5 literblikken",
       "discount": "voor3.16",
       "validFrom": "2026-06-01",
@@ -547,7 +547,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-810",
+      "id": "html-809",
       "product": "Alle Sensodyne en Parodontax*",
       "discount": "3 voor10.00",
       "validFrom": "2026-06-01",
@@ -555,7 +555,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-829",
+      "id": "html-828",
       "product": "Axe en Dove douchegel 250 ml",
       "discount": "4 voor10.00",
       "validFrom": "2026-06-01",
@@ -563,14 +563,14 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-848",
+      "id": "html-847",
       "product": "Dreft Platinum all-in-one vaatwascapsules citroen mega-pack",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-868",
+      "id": "html-867",
       "product": "Vanish Oxi Action 720 gram",
       "discount": "50%korting",
       "validFrom": "2026-06-01",
@@ -578,7 +578,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-887",
+      "id": "html-886",
       "product": "Swiffer Dry refills vloerdoeken big-pack",
       "discount": "50%korting",
       "validFrom": "2026-06-01",
@@ -586,7 +586,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-906",
+      "id": "html-905",
       "product": "Nutrilon en Olvarit: gratis levering bij 15 euro",
       "discount": "gratisleveringbij 15 euro",
       "validFrom": "2026-06-01",
@@ -594,7 +594,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-921",
+      "id": "html-920",
       "product": "Olvarit maaltijdpotjes",
       "discount": "10 voor10.00",
       "validFrom": "2026-06-01",
@@ -602,7 +602,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-940",
+      "id": "html-939",
       "product": "Pampers aqua soft touch baby wipes 48 stuks",
       "discount": "8 voor10.00",
       "validFrom": "2026-06-01",
@@ -610,7 +610,7 @@
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-959",
+      "id": "html-958",
       "product": "Ella's Kitchen maaltijdzakjes",
       "discount": "5 voor10.00",
       "validFrom": "2026-06-01",
@@ -618,7 +618,7 @@
       "retailerSlug": "albert-heijn"
     }
   ],
-  "scrapedAt": "2026-06-02T08:57:17.403Z",
+  "scrapedAt": "2026-06-04T17:34:19.135Z",
   "sourceUrls": [
     "https://www.ah.be/bonus/folder"
   ],
