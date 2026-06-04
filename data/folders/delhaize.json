@@ -211,30 +211,37 @@
           "deals": []
         }
       ],
-      "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w22-2026-nl/page/1?publitas_embed=embedded",
-      "pdfUrl": "https://view.publitas.com/11013/3104953/pdfs/0009b6d2-2843-4ef7-8dfb-832c5fcd4f81.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W22-2026-NL.pdf",
+      "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w23-2026-nl/page/1?publitas_embed=embedded",
+      "pdfUrl": "https://view.publitas.com/11013/3118464/pdfs/2c36a063-6ccf-4071-8c91-73fdfde02239.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W23-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-03T18:52:35.067Z"
+      "scrapedAt": "2026-06-04T08:55:46.496Z"
     }
   ],
   "deals": [
     {
-      "id": "pagetext-0",
-      "product": "Delhaize Zalmfilet | Zonder vel+/- 290 gr27,44 €/kg+/-  €+/-€796F199003130024940000018",
-      "promoPrice": 8.84,
+      "id": "jsonld-0",
+      "product": "Druiven | Wit | Zonder pit | Verpakt",
+      "description": "Witte druiven hebben een hogere zuurgraad, wat zorgt voor een frisse en lichte smaak.",
+      "imageUrl": [
+        "https://static.delhaize.be/medias/sys_master/products/h2d/h41/13234442862622.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hea/hbd/13234443321374.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hcf/ha4/13234443190302.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hef/h15/13234443255838.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/h2d/h41/13234442862622.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hc8/h7b/13234443124766.jpg"
+      ],
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "delhaize"
     }
   ],
-  "scrapedAt": "2026-06-03T18:53:21.546Z",
+  "scrapedAt": "2026-06-04T08:56:25.666Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
   "methods": [
     "publitas",
     "pdf",
-    "screenshot",
-    "page-text"
+    "screenshot"
   ]
 }

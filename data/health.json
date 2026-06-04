@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T18:57:32.520Z",
+  "generatedAt": "2026-06-04T08:59:56.984Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-03T18:46:55.266Z",
+      "scrapedAt": "2026-06-04T08:50:07.301Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-03T18:53:21.546Z",
+      "scrapedAt": "2026-06-04T08:56:25.666Z",
       "folderCount": 1,
       "dealCount": 1,
       "hasEmbed": true,
@@ -68,12 +68,12 @@
       "validationIssues": [],
       "probeResults": [
         {
-          "url": "https://view.publitas.com/delhaize-belgium-nl/w22-2026-nl/page/1?publitas_embed=embedded",
+          "url": "https://view.publitas.com/delhaize-belgium-nl/w23-2026-nl/page/1?publitas_embed=embedded",
           "status": 200,
           "live": true
         },
         {
-          "url": "https://view.publitas.com/11013/3104953/pdfs/0009b6d2-2843-4ef7-8dfb-832c5fcd4f81.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W22-2026-NL.pdf",
+          "url": "https://view.publitas.com/11013/3118464/pdfs/2c36a063-6ccf-4071-8c91-73fdfde02239.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W23-2026-NL.pdf",
           "status": 200,
           "live": true
         }
@@ -84,7 +84,7 @@
       "name": "Colruyt",
       "status": "stale",
       "attempts": 4,
-      "dataAge": "50d",
+      "dataAge": "51d",
       "scrapedAt": "2026-04-14T13:25:36.190Z",
       "folderCount": 1,
       "dealCount": 0,
@@ -143,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-03T18:56:55.848Z",
+      "scrapedAt": "2026-06-04T08:59:20.442Z",
       "folderCount": 1,
-      "dealCount": 9,
+      "dealCount": 8,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-03T18:57:29.583Z",
+      "scrapedAt": "2026-06-04T08:59:54.507Z",
       "folderCount": 1,
-      "dealCount": 140,
+      "dealCount": 151,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
