@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-03T09:33:13.211Z"
+      "scrapedAt": "2026-06-05T08:49:39.415Z"
     }
   ],
   "deals": [
@@ -175,14 +175,6 @@
     },
     {
       "id": "pagetext-12",
-      "product": "Natural Happiness pittenmix300 gram/kg239Weekactie",
-      "promoPrice": 7.97,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-13",
       "product": "Natural Happiness chiazaad300 gram/kg239Weekactie",
       "promoPrice": 7.97,
       "validFrom": "2026-06-01",
@@ -190,15 +182,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-14",
-      "product": "Kistenberg gereedschapskoffer47,5 x 26 x 22,5 cm/st585Weekactie",
-      "promoPrice": 5.85,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-15",
+      "id": "pagetext-13",
       "product": "Paradise balpennen4 stuks | diverse varianten/st149Weekactie",
       "promoPrice": 0.37,
       "validFrom": "2026-06-01",
@@ -206,15 +190,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-16",
-      "product": "Maak je eigen geurkaarsØ 9 x 10 cm | diverse varianten/st345Weekactie",
-      "promoPrice": 3.45,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-17",
+      "id": "pagetext-14",
       "product": "Sportsokken BelgiëMaten 39 - 46 | 2 paar/st149Weekactie",
       "promoPrice": 1.49,
       "validFrom": "2026-06-01",
@@ -222,7 +198,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-18",
+      "id": "pagetext-15",
       "product": "Sportsokken België2 paar | maten 27 - 38/st149Weekactie",
       "promoPrice": 0.75,
       "validFrom": "2026-06-01",
@@ -230,7 +206,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-19",
+      "id": "pagetext-16",
       "product": "Sportset BelgiëMaten - 98 - 140/st495Weekactie",
       "promoPrice": 4.95,
       "validFrom": "2026-06-01",
@@ -238,7 +214,15 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-20",
+      "id": "pagetext-17",
+      "product": "Natural Happiness pittenmix300 gram/kg239Weekactie",
+      "promoPrice": 7.97,
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-18",
       "product": "Natural Happiness pompoenpitten150 gram/kg149Weekactie",
       "promoPrice": 9.93,
       "validFrom": "2026-06-01",
@@ -246,15 +230,31 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-21",
+      "id": "pagetext-19",
       "product": "Etui met hangerDiverse varianten/st149Weekactie",
       "promoPrice": 1.49,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-20",
+      "product": "VoetballampØ 10 cm/st249Weekactie",
+      "promoPrice": 2.49,
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-21",
+      "product": "McGregor slippersMaten 41 - 45 | diverse kleuren/st695Weekactie",
+      "promoPrice": 6.95,
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-06-03T09:33:19.740Z",
+  "scrapedAt": "2026-06-05T08:49:45.434Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"

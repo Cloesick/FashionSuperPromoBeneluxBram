@@ -17,66 +17,74 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-04T17:49:29.524Z"
+      "scrapedAt": "2026-06-05T08:50:07.841Z"
     }
   ],
   "deals": [
     {
       "id": "html-10",
-      "product": "Geribde tanktop",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/b2/cb/b2cb4753a67c82ad2efcdb49b1e2af6be88814a9.jpg",
+      "product": "Katoenen T-shirt",
+      "imageUrl": "https://image.hm.com/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-11",
-      "product": "One-shouldertop met sjaallook",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/c4/c4/c4c4b7bf8b8238b55325e4cecca474cef1935ccf.jpg",
+      "product": "Geribde tanktop",
+      "imageUrl": "https://image.hm.com/assets/hm/cb/82/cb82e0bd89bc4970a8cac47b11c5f540daac8d32.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-13",
-      "product": "Katoenen T-shirt",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg",
+      "product": "Barrel High Waist Ankle Jeans",
+      "imageUrl": "https://image.hm.com/assets/hm/76/4e/764e771cd8bdec618b9644d71324169f096e7d91.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-14",
-      "product": "Satijnen short met kant",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/dd/fb/ddfb13a8a8366b5532d64e99fb1dbabcd212570c.jpg",
+      "product": "Fijngebreide one-shouldertop",
+      "imageUrl": "https://image.hm.com/assets/hm/aa/e4/aae4ea04aaec532a61d03458b21a9ca679101ca0.jpg?imwidth=360",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Korte strandjurk",
+      "imageUrl": "https://image.hm.com/assets/hm/cc/6b/cc6b5ded5463bd767d2898bb94913eca1b30f94d.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Barrel High Waist Ankle Jeans",
-      "imageUrl": "https://www2.hm.com/nl_be/dames/sale/assets/hm/76/4e/764e771cd8bdec618b9644d71324169f096e7d91.jpg",
+      "product": "Hemdjurk met korte mouwen",
+      "imageUrl": "https://image.hm.com/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-19",
-      "product": "Fijngebreide one-shouldertop",
+      "id": "html-18",
+      "product": "Geribde straptop",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Korte strandjurk",
+      "product": "Short met broderie anglaise",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-04T17:49:44.874Z",
+  "scrapedAt": "2026-06-05T08:50:23.523Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
