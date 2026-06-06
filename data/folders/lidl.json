@@ -214,21 +214,12 @@
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-01-06-06-06",
       "pdfUrl": "https://folder-nl.lidl.be/97031/3085549/pdfs/60d6d5bb-fa3c-4e65-b977-27225ccb8d1b.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252001-06-06-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-05T08:40:47.633Z"
+      "scrapedAt": "2026-06-06T07:41:13.809Z"
     }
   ],
   "deals": [
     {
       "id": "html-0",
-      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "promoPrice": 29.99,
-      "discount": "Ook in de winkel van 27/05 - 09/06",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-8",
       "product": "Loungeset, 4-delig",
       "originalPrice": 119.99,
       "promoPrice": 119.994169,
@@ -237,9 +228,19 @@
       "retailerSlug": "lidl"
     },
     {
+      "id": "html-7",
+      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
+      "promoPrice": 29.99,
+      "discount": "Ook in de winkel van 27/05 - 09/06",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "lidl"
+    },
+    {
       "id": "html-15",
-      "product": "Universele accublazer, 20 V PARKSIDE® PAUGB",
-      "promoPrice": 17.99,
+      "product": "Accugrasmaaier 20 V PARKSIDE® PARM20",
+      "originalPrice": 99.99,
+      "promoPrice": 99.995049,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "lidl"
@@ -254,14 +255,15 @@
     },
     {
       "id": "html-29",
-      "product": "Accugrastrimmer 20 V PARKSIDE® PRTA20",
-      "promoPrice": 29.99,
+      "product": "Accu gras- en heggenschaar 4 V PARKSIDE® PGSA4",
+      "originalPrice": 19.99,
+      "promoPrice": 19.99509,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-05T08:41:04.254Z",
+  "scrapedAt": "2026-06-06T07:41:31.058Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-01-06-06-06"

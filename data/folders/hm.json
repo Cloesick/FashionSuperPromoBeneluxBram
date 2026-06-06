@@ -17,20 +17,12 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-05T17:20:33.895Z"
+      "scrapedAt": "2026-06-06T07:50:26.556Z"
     }
   ],
   "deals": [
     {
       "id": "html-10",
-      "product": "Jurk van linnenmix met peplum",
-      "imageUrl": "https://image.hm.com/assets/hm/0d/ff/0dff02b7bfa2d2cabcd72227346d6a661e9331fc.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-11",
       "product": "Katoenen T-shirt",
       "imageUrl": "https://image.hm.com/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg?imwidth=360",
       "validFrom": "2026-06-01",
@@ -38,7 +30,7 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-12",
+      "id": "html-11",
       "product": "Geribde tanktop",
       "imageUrl": "https://image.hm.com/assets/hm/cb/82/cb82e0bd89bc4970a8cac47b11c5f540daac8d32.jpg?imwidth=360",
       "validFrom": "2026-06-01",
@@ -46,64 +38,49 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-13",
-      "product": "Short met broderie anglaise",
-      "imageUrl": "https://image.hm.com/assets/hm/d0/fe/d0fe2db8c69d35320bfc160287fa74e9ed5f15b9.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-14",
-      "product": "Gebreide metallic top",
-      "imageUrl": "https://image.hm.com/assets/hm/78/4e/784e993dc46d840cd43c366b35e1feccd5aae645.jpg?imwidth=360",
+      "product": "Fijngebreide one-shouldertop",
+      "imageUrl": "https://image.hm.com/assets/hm/aa/e4/aae4ea04aaec532a61d03458b21a9ca679101ca0.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-15",
-      "product": "Strandbloes met broderie anglaise",
-      "imageUrl": "https://image.hm.com/assets/hm/56/31/5631077039e08ca0c28d18b2993b724f3788097f.jpg?imwidth=360",
+      "product": "Hemdjurk met korte mouwen",
+      "imageUrl": "https://image.hm.com/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg?imwidth=360",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-17",
+      "id": "html-16",
+      "product": "Doorknoopjurk met striklint",
+      "imageUrl": "https://image.hm.com/assets/hm/5a/9a/5a9ab974b3b86a4e13ce5f3ce5752c51e0fdc68a.jpg?imwidth=360",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
       "product": "Korte strandjurk",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-19",
-      "product": "Cargoshort van lyocellmix",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "Dubbele sportshort met zak",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-21",
-      "product": "Short van viscosemix met print",
+      "product": "Oversized katoenen top",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-05T17:20:50.684Z",
+  "scrapedAt": "2026-06-06T07:50:42.278Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
   "methods": [
-    "html",
     "screenshot"
   ]
 }

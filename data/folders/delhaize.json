@@ -214,85 +214,28 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w23-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3118464/pdfs/2c36a063-6ccf-4071-8c91-73fdfde02239.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W23-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-05T17:17:05.065Z"
+      "scrapedAt": "2026-06-06T07:47:11.929Z"
     }
   ],
   "deals": [
     {
       "id": "pagetext-0",
-      "product": "OnlineMitolo Marsican | McLaren Vale | Shiraz75 cl130,65 €/l186,65 €/l€9799+1+6S20210224005177700006",
-      "promoPrice": 139.99,
-      "discount": "-30%",
+      "product": "- Smirnoff Ice Vodka 5,0D70 cl6,84 €/l€479S200303120023763000015",
+      "promoPrice": 0.75,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "delhaize"
     },
     {
       "id": "pagetext-1",
-      "product": "8 voor Monster Energiedrank | Juiced monarch | Perzik | Nectarine50 cl3,58 €/l€179S20210402005333500",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-2",
-      "product": "8 voor Monster Boisson énergisante | Zero | Top Speed50 cl3,58 €/l€179S20221209006648000008",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-3",
-      "product": "8 voor Monster Energydrink | Ultra Rose | Blik50 cl3,58 €/l€179S20230116006729300009",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-4",
-      "product": "8 voor Monster Energy Energiedrank | Blik50 cl3,58 €/l€179S201911040032041000014",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-5",
-      "product": "2 voor Monster Energy Pipeline punch | Energetische drank4 x 50 cl3,58 €/l€715S202002100035761009915",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-6",
-      "product": "2 voor Monster Energy Mango loco | Energetische drank4 x 50 cl3,58 €/l€715S202002100035764009916",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-7",
-      "product": "8 voor Monster Energy drink | Ultra fiësta | Mango | Blik50 cl3,58 €/l€179S202102170051141000017",
-      "promoPrice": 9.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "delhaize"
-    },
-    {
-      "id": "pagetext-8",
-      "product": "2 voor Monster Energy Energiedrank | Blik4 x 50 cl2,90 €/l€579S201405210092000000120",
-      "promoPrice": 9.99,
+      "product": "-  voor 2J&B Whisky cola can25 cl13,16 €/l€329S200902260023536008918",
+      "promoPrice": 0.75,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "delhaize"
     }
   ],
-  "scrapedAt": "2026-06-05T17:17:50.693Z",
+  "scrapedAt": "2026-06-06T07:47:58.427Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
