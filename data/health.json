@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T08:29:33.852Z",
+  "generatedAt": "2026-06-07T16:12:17.135Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -143,7 +143,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-07T08:28:56.541Z",
+      "scrapedAt": "2026-06-07T16:11:37.609Z",
       "folderCount": 1,
       "dealCount": 8,
       "hasEmbed": false,
@@ -158,7 +158,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-07T08:29:31.062Z",
+      "scrapedAt": "2026-06-07T16:12:14.739Z",
       "folderCount": 1,
       "dealCount": 170,
       "hasEmbed": false,
