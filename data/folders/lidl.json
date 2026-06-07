@@ -211,10 +211,10 @@
           "deals": []
         }
       ],
-      "embedUrl": "https://folder-nl.lidl.be/nl-folder-01-06-06-06",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3085549/pdfs/60d6d5bb-fa3c-4e65-b977-27225ccb8d1b.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252001-06-06-06.pdf",
+      "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/b45f6ffa-44fa-4a35-8f0f-0f562f244759.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-06T07:41:13.809Z"
+      "scrapedAt": "2026-06-07T08:18:17.746Z"
     }
   ],
   "deals": [
@@ -229,18 +229,18 @@
     },
     {
       "id": "html-7",
-      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "promoPrice": 29.99,
-      "discount": "Ook in de winkel van 27/05 - 09/06",
+      "product": "Accugrasmaaier 20 V PARKSIDE® PARM20",
+      "originalPrice": 99.99,
+      "promoPrice": 99.995049,
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-15",
-      "product": "Accugrasmaaier 20 V PARKSIDE® PARM20",
-      "originalPrice": 99.99,
-      "promoPrice": 99.995049,
+      "id": "html-14",
+      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
+      "promoPrice": 29.99,
+      "discount": "Ook in de winkel van 27/05 - 09/06",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "lidl"
@@ -263,10 +263,10 @@
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-06T07:41:31.058Z",
+  "scrapedAt": "2026-06-07T08:18:34.542Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
-    "https://folder-nl.lidl.be/nl-folder-01-06-06-06"
+    "https://folder-nl.lidl.be/nl-folder-08-06-13-06"
   ],
   "methods": [
     "publitas",

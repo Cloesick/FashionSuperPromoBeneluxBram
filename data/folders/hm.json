@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-06T16:10:40.497Z"
+      "scrapedAt": "2026-06-07T08:28:42.115Z"
     }
   ],
   "deals": [
@@ -38,7 +38,7 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-13",
+      "id": "html-12",
       "product": "Doorknoopjurk met striklint",
       "imageUrl": "https://image.hm.com/assets/hm/5a/9a/5a9ab974b3b86a4e13ce5f3ce5752c51e0fdc68a.jpg?imwidth=360",
       "validFrom": "2026-06-01",
@@ -46,15 +46,7 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-15",
-      "product": "Fijngebreide one-shouldertop",
-      "imageUrl": "https://image.hm.com/assets/hm/aa/e4/aae4ea04aaec532a61d03458b21a9ca679101ca0.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
+      "id": "html-13",
       "product": "Hemdjurk met korte mouwen",
       "imageUrl": "https://image.hm.com/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg?imwidth=360",
       "validFrom": "2026-06-01",
@@ -62,32 +54,41 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-17",
+      "id": "html-16",
       "product": "Korte strandjurk",
+      "imageUrl": "https://image.hm.com/assets/hm/cc/6b/cc6b5ded5463bd767d2898bb94913eca1b30f94d.jpg?imwidth=360",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Fijngebreide one-shouldertop",
+      "validFrom": "2026-06-01",
+      "validUntil": "2026-06-07",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Barrel High Waist Ankle Jeans",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Bandeaubikinitop met padding",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-21",
-      "product": "Barrel High Waist Ankle Jeans",
+      "product": "Short met broderie anglaise",
       "validFrom": "2026-06-01",
       "validUntil": "2026-06-07",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-06T16:10:55.988Z",
+  "scrapedAt": "2026-06-07T08:28:56.541Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
   "methods": [
+    "html",
     "screenshot"
   ]
 }
