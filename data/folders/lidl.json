@@ -214,7 +214,7 @@
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
       "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/b45f6ffa-44fa-4a35-8f0f-0f562f244759.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-08T09:22:56.485Z"
+      "scrapedAt": "2026-06-08T17:46:01.085Z"
     }
   ],
   "deals": [
@@ -258,12 +258,13 @@
       "product": "Bladloze standventilator",
       "originalPrice": 74.99,
       "promoPrice": 74.992059,
+      "discount": "Ook in de winkel van 10/06 - 23/06",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-08T09:23:12.771Z",
+  "scrapedAt": "2026-06-08T17:46:18.936Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-08-06-13-06"
