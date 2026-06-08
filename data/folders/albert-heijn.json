@@ -2,623 +2,734 @@
   "retailer": "albert-heijn",
   "folders": [
     {
-      "id": "albert-heijn-2026-w23-folder",
+      "id": "albert-heijn-2026-w24-folder",
       "retailerSlug": "albert-heijn",
       "title": "Albert Heijn Bonusfolder",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "pageCount": 34,
-      "thumbnailUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p1.webp",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "pageCount": 32,
+      "thumbnailUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p1.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p1.webp",
           "deals": []
         },
         {
           "pageNumber": 2,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p2.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p2.webp",
           "deals": []
         },
         {
           "pageNumber": 3,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p3.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p3.webp",
           "deals": []
         },
         {
           "pageNumber": 4,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p4.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p4.webp",
           "deals": []
         },
         {
           "pageNumber": 5,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p5.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p5.webp",
           "deals": []
         },
         {
           "pageNumber": 6,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p6.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p6.webp",
           "deals": []
         },
         {
           "pageNumber": 7,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p7.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p7.webp",
           "deals": []
         },
         {
           "pageNumber": 8,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p8.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p8.webp",
           "deals": []
         },
         {
           "pageNumber": 9,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p9.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p9.webp",
           "deals": []
         },
         {
           "pageNumber": 10,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p10.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p10.webp",
           "deals": []
         },
         {
           "pageNumber": 11,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p11.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p11.webp",
           "deals": []
         },
         {
           "pageNumber": 12,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p12.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p12.webp",
           "deals": []
         },
         {
           "pageNumber": 13,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p13.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p13.webp",
           "deals": []
         },
         {
           "pageNumber": 14,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p14.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p14.webp",
           "deals": []
         },
         {
           "pageNumber": 15,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p15.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p15.webp",
           "deals": []
         },
         {
           "pageNumber": 16,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p16.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p16.webp",
           "deals": []
         },
         {
           "pageNumber": 17,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p17.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p17.webp",
           "deals": []
         },
         {
           "pageNumber": 18,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p18.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p18.webp",
           "deals": []
         },
         {
           "pageNumber": 19,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p19.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p19.webp",
           "deals": []
         },
         {
           "pageNumber": 20,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p20.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p20.webp",
           "deals": []
         },
         {
           "pageNumber": 21,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p21.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p21.webp",
           "deals": []
         },
         {
           "pageNumber": 22,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p22.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p22.webp",
           "deals": []
         },
         {
           "pageNumber": 23,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p23.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p23.webp",
           "deals": []
         },
         {
           "pageNumber": 24,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p24.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p24.webp",
           "deals": []
         },
         {
           "pageNumber": 25,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p25.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p25.webp",
           "deals": []
         },
         {
           "pageNumber": 26,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p26.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p26.webp",
           "deals": []
         },
         {
           "pageNumber": 27,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p27.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p27.webp",
           "deals": []
         },
         {
           "pageNumber": 28,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p28.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p28.webp",
           "deals": []
         },
         {
           "pageNumber": 29,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p29.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p29.webp",
           "deals": []
         },
         {
           "pageNumber": 30,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p30.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p30.webp",
           "deals": []
         },
         {
           "pageNumber": 31,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p31.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p31.webp",
           "deals": []
         },
         {
           "pageNumber": 32,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p32.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 33,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p33.webp",
-          "deals": []
-        },
-        {
-          "pageNumber": 34,
-          "imageUrl": "/screenshots/albert-heijn-2026-w23-pdfimg-p34.webp",
+          "imageUrl": "/screenshots/albert-heijn-2026-w24-pdfimg-p32.webp",
           "deals": []
         }
       ],
-      "embedUrl": "https://view.publitas.com/ah/bonus-week-23-2026/page/1?publitas_embed=embedded",
-      "pdfUrl": "https://view.publitas.com/126/3086299/pdfs/99f54fd0-06bb-4697-8ff6-d08318049873.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-23-2026.pdf",
+      "embedUrl": "https://view.publitas.com/ah/bonus-week-24-2026/page/1?publitas_embed=embedded",
+      "pdfUrl": "https://view.publitas.com/126/3117615/pdfs/1e290ebe-8fca-4b40-81a9-d4ea2b186957.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-24-2026.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-07T08:11:52.626Z"
+      "scrapedAt": "2026-06-08T09:16:33.942Z"
     }
   ],
   "deals": [
     {
       "id": "html-6",
       "product": "Geen alternatieven gevonden voor dit product.",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
       "id": "html-8",
       "product": "Kies een product",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
       "id": "html-0",
-      "product": "Hak: gratis levering bij 12 euro",
-      "discount": "gratisleveringbij 12 euro",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "product": "AH Diverse smaaktomaten",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-17",
-      "product": "AH Aziatische verspakketen",
+      "id": "html-6",
+      "product": "uitgelicht",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-20",
+      "product": "AH Gele uien 1 kilo",
+      "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_43545239393239393133?revLabel=1&rendition=400x400webp&fileType=binary",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-39",
+      "product": "AH Verspakket lasagne, groene curry of burrito's",
       "discount": "€1korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-38",
-      "product": "AH blauwe bessen bak 300 gram",
+      "id": "html-58",
+      "product": "AH Yellow Ginger gember, kurkuma, sinaasappel, citroen, rode peper shot",
       "discount": "25%korting",
-      "imageUrl": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=400x400webp&fileType=binary",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-59",
+      "id": "html-77",
+      "product": "innocent creamy smoothie swirls",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-96",
       "product": "AH Verse sappen en smoothies 250 ml",
       "discount": "3 voor5.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-80",
-      "product": "AH Verse pinsa's",
-      "discount": "2 voor10.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-115",
+      "product": "AH Salades L of XL*",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-101",
+      "id": "html-136",
+      "product": "AH Quiches 300 gram",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-155",
       "product": "AH Verse pizza's",
       "discount": "2 voor12.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-122",
+      "id": "html-174",
       "product": "AH Verse maaltijden",
       "discount": "2 voor12.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-143",
-      "product": "AH Greenfields beefburgers 2 stuks",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-193",
+      "product": "AH Verse pinsa's",
+      "discount": "2 voor10.00",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-149",
-      "product": "uitgelicht",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-212",
+      "product": "AH Boerenworst 3 stuks en gemarineerde kipdrumsticks 600 gram",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-165",
-      "product": "AH Scharrelkipgehakt en -worsten 300 gram",
-      "discount": "2 voor6.99",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-232",
+      "product": "AH Scharrelkipburgers 2 stuks",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-186",
-      "product": "Iglo: gratis levering bij 10 euro",
-      "discount": "gratisleveringbij 10 euro",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "albert-heijn"
-    },
-    {
-      "id": "html-203",
-      "product": "Super Choice garnalen 800 gram",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "albert-heijn"
-    },
-    {
-      "id": "html-225",
-      "product": "AH Gerookte zalm",
-      "discount": "€1korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "albert-heijn"
-    },
-    {
-      "id": "html-246",
-      "product": "Alpro gekoeld",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "albert-heijn"
-    },
-    {
-      "id": "html-267",
-      "product": "AH Paté kleinverpakking",
-      "discount": "2 voor2.50",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "albert-heijn"
-    },
-    {
-      "id": "html-288",
-      "product": "Président burger cheddar 8 plakjes",
+      "id": "html-252",
+      "product": "AH Speksnedes",
       "discount": "25%korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-271",
+      "product": "Kipfiletreepjes 500 gram",
+      "discount": "€1korting",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-290",
+      "product": "AH Gehaktfrietjes 14 stuks",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
       "id": "html-309",
-      "product": "Arla en Melkunie: gratis levering bij 11 euro",
-      "discount": "gratisleveringbij 11 euro",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "product": "Rio Mare*",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-326",
-      "product": "Arla skyr 450 gram",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-330",
+      "product": "Vivera 150-200 gram",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-348",
-      "product": "Danoontje knijpzakjes",
-      "discount": "5+5gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-349",
+      "product": "Marhaba vleeswaren",
+      "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130313933313331?revLabel=1&rendition=400x400webp&fileType=binary",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-369",
-      "product": "Campina high protein Greek style 450 gram",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-368",
+      "product": "AH Paté kleinverpakking",
+      "discount": "2 voor2.50",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-390",
-      "product": "Zuivelhoeve Boer'n yoghurt 750 gram",
-      "discount": "50%korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-387",
+      "product": "Heks'nkaas: gratis levering bij 4 stuks",
+      "discount": "gratisleveringbij 4 stuks",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-411",
-      "product": "Starbucks frappuccino 750 ml",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-402",
+      "product": "Dodoni kaas 150-225 gram",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-432",
-      "product": "AH Luxe hamburgerbroodjes 4 stuks",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-421",
+      "product": "Beemster",
+      "discount": "25%korting",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-453",
+      "id": "html-440",
+      "product": "Campina, Optimel, Vifit, Milner: gratis levering bij 12 euro",
+      "discount": "gratisleveringbij 12 euro",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-455",
+      "product": "Activia 4-packs",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-475",
+      "product": "Campina high protein Greek style yoghurt",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-494",
       "product": "AH Petit Patisserie banket (ongekoeld)",
       "discount": "2 voor6.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-474",
-      "product": "Bifi The Original Roll XXL",
-      "discount": "2+3gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-513",
+      "product": "Doritos, Lay's en Duyvis: gratis levering bij 12 euro",
+      "discount": "gratisleveringbij 12 euro",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-495",
+      "id": "html-528",
+      "product": "Délio",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-548",
+      "product": "Proper",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-567",
       "product": "AH Borrel kleintjes",
       "discount": "3 voor3.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-516",
+      "id": "html-586",
       "product": "AH Scrocchi, Picos en Borreltoast",
       "discount": "2 voor4.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-537",
-      "product": "Barilla pasta*",
-      "discount": "10 voor9.99",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-604",
+      "product": "Calvé, Lipton, Knorr en Airfryer: gratis levering bij 15 euro",
+      "discount": "gratisleveringbij 15 euro",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-559",
-      "product": "Alle Euroma en La Drogheria",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-619",
+      "product": "Grand'Italia Tradizionale pasta",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-580",
-      "product": "Eat Natural: gratis levering bij 10 euro",
-      "discount": "gratisleveringbij 10 euro",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-638",
+      "product": "Unox soep in zak, Knorr Cup-a-Soup en Good snacks",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-597",
-      "product": "Dr. Oetker Ristorante*",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-657",
+      "product": "Calvé snacksauzen",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-620",
-      "product": "Boujee Dubai chocolate style",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-676",
+      "product": "LU, Côte d'Or, TUC, Oreo, Milka en Philadelphia: gratis levering bij 12.50 euro",
+      "discount": "gratisleveringbij 12.50 euro",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-642",
-      "product": "Nutella ijspint",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-691",
+      "product": "Tony's Chocolonely Filled",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-663",
-      "product": "Alle Haägen-Dazs",
-      "discount": "1+1gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-710",
+      "product": "LU Grany moelleux woudvruchten 6-pack",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-684",
-      "product": "Nescafé: gratis levering bij 12 euro",
-      "discount": "gratisleveringbij 12 euro",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-729",
+      "product": "Sportlife",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-701",
-      "product": "L'OR capsules voor Nespresso ® 20 stuks",
-      "discount": "2 voor12.99",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-748",
+      "product": "Kwekkeboom, Topking , Mekkafood en Duca",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-722",
-      "product": "Coca-Cola, Fanta of Sprite 24 x 0.25 literblikjes",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-768",
+      "product": "Mars, Snickers, Twix en Bounty ice cream bars",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-744",
-      "product": "Celsius 0.25 literblikjes",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-788",
+      "product": "Ben & Jerry's ijspints 427-465 ml",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_517a426449345f4c52642d69646676564c67345f3941?revLabel=1&rendition=400x400webp&fileType=binary",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-765",
-      "product": "Lipton Ice Tea 0.5 literflesjes",
-      "discount": "30%korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-808",
+      "product": "Wagner",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-786",
-      "product": "Schweppes literflessen",
-      "discount": "3+3gratis",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-827",
+      "product": "Iglo Snack & Share chicken sticks en scampi fritti",
+      "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130303835373434?revLabel=1&rendition=400x400webp&fileType=binary",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-807",
-      "product": "De Verhulstjes rosé of 0% mocktail 6 x 0.75 literflessen",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-846",
+      "product": "Nescafé Farmers Origins",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-829",
-      "product": "Tout Bien average Belgian mega pint",
-      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130313531383536?revLabel=1&rendition=400x400webp&fileType=binary",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-865",
+      "product": "Bundaberg",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-852",
-      "product": "Freixenet 0.0 sparkling 6 x 0.75 literflessen",
-      "discount": "6 voor29.99",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-885",
+      "product": "Ann Vermeersch Graffiti 0.75 literflessen",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-873",
-      "product": "Tout Bien average Belgian mega pint 4 x 0.5 literblikken",
-      "discount": "voor3.16",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-904",
+      "product": "Fentimans 0.75 literflessen",
+      "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130313230303131?revLabel=1&rendition=400x400webp&fileType=binary",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-894",
-      "product": "Alle Sensodyne en Parodontax*",
-      "discount": "3 voor10.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-923",
+      "product": "Stëlz 0.25 literblikjes",
+      "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4534676744432d6754793662597462657155504c5841?revLabel=1&rendition=400x400webp&fileType=binary",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-915",
-      "product": "Axe en Dove douchegel 250 ml",
-      "discount": "4 voor10.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-941",
+      "product": "Night Orient",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-936",
-      "product": "Dreft Platinum all-in-one vaatwascapsules citroen mega-pack",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "albert-heijn"
-    },
-    {
-      "id": "html-958",
-      "product": "Vanish Oxi Action 720 gram",
-      "discount": "50%korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-960",
+      "product": "Monte Carlo Azur Côtes de Provence rosé",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
       "id": "html-979",
-      "product": "Swiffer Dry refills vloerdoeken big-pack",
-      "discount": "50%korting",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "product": "Nivea, Labello en Hansaplast: gratis levering bij 12 euro",
+      "discount": "gratisleveringbij 12 euro",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-1000",
-      "product": "Nutrilon en Olvarit: gratis levering bij 15 euro",
-      "discount": "gratisleveringbij 15 euro",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-994",
+      "product": "Gillette*",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-1017",
-      "product": "Olvarit maaltijdpotjes",
-      "discount": "10 voor10.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-1015",
+      "product": "A-merk zonbescherming",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-1038",
-      "product": "Pampers aqua soft touch baby wipes 48 stuks",
-      "discount": "8 voor10.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-1034",
+      "product": "Oral-B 3D White en Elmex anti-cariës tandpasta",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     },
     {
-      "id": "html-1059",
-      "product": "Ella's Kitchen maaltijdzakjes",
-      "discount": "5 voor10.00",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-1053",
+      "product": "Aquafresh",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1072",
+      "product": "Gliss en Syoss",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1091",
+      "product": "Fa douchegel en Borotalco deo",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1110",
+      "product": "Witte Reus: gratis levering bij 13 euro",
+      "discount": "gratisleveringbij 13 euro",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1125",
+      "product": "Woolite",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1145",
+      "product": "A-merk luchtverfrissers",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1164",
+      "product": "WC-Eend toiletreinigers",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1183",
+      "product": "Sun en Finish",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1202",
+      "product": "Robijn",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1221",
+      "product": "Dreft 3-in-1 power sprays 500 ml",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "albert-heijn"
+    },
+    {
+      "id": "html-1240",
+      "product": "Lenor geurboosters",
+      "discount": "2egratis",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
     }
   ],
-  "scrapedAt": "2026-06-07T08:12:07.947Z",
+  "scrapedAt": "2026-06-08T09:16:49.768Z",
   "sourceUrls": [
     "https://www.ah.be/bonus/folder"
   ],

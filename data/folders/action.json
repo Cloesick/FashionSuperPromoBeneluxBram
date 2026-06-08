@@ -2,78 +2,78 @@
   "retailer": "action",
   "folders": [
     {
-      "id": "action-2026-w23-folder",
+      "id": "action-2026-w24-folder",
       "retailerSlug": "action",
       "title": "Action folder van de week",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "pageCount": 12,
-      "thumbnailUrl": "/screenshots/action-2026-w23-viewerimg-p1.webp",
+      "thumbnailUrl": "/screenshots/action-2026-w24-viewerimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p1.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p1.webp",
           "deals": []
         },
         {
           "pageNumber": 2,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p2.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p2.webp",
           "deals": []
         },
         {
           "pageNumber": 3,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p3.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p3.webp",
           "deals": []
         },
         {
           "pageNumber": 4,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p4.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p4.webp",
           "deals": []
         },
         {
           "pageNumber": 5,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p5.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p5.webp",
           "deals": []
         },
         {
           "pageNumber": 6,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p6.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p6.webp",
           "deals": []
         },
         {
           "pageNumber": 7,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p7.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p7.webp",
           "deals": []
         },
         {
           "pageNumber": 8,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p8.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p8.webp",
           "deals": []
         },
         {
           "pageNumber": 9,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p9.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p9.webp",
           "deals": []
         },
         {
           "pageNumber": 10,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p10.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p10.webp",
           "deals": []
         },
         {
           "pageNumber": 11,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p11.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p11.webp",
           "deals": []
         },
         {
           "pageNumber": 12,
-          "imageUrl": "/screenshots/action-2026-w23-viewerimg-p12.webp",
+          "imageUrl": "/screenshots/action-2026-w24-viewerimg-p12.webp",
           "deals": []
         }
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-05T08:49:39.415Z"
+      "scrapedAt": "2026-06-08T09:31:47.288Z"
     }
   ],
   "deals": [
@@ -81,180 +81,180 @@
       "id": "pagetext-0",
       "product": "Citronellakaars in glazen pot11 x 12 cm | diverse kleuren/st158Weekactie",
       "promoPrice": 1.58,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-1",
       "product": "Capace Exclusive eau de toilette Vitorre100 ml/l247Weekactie",
       "promoPrice": 24.7,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-2",
       "product": "Palazzo espresso intens koffiecapsules50 stuks/kg599Weekactie",
       "promoPrice": 23.96,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-3",
       "product": "Cheetos Goals100 gram/kg089Weekactie",
       "promoPrice": 8.9,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-4",
       "product": "Colgate tandpasta Anti-Cavity75 ml/l089Weekactie",
       "promoPrice": 11.87,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-5",
       "product": "Pairz bamboe sneakersokkenMaten 35 - 42 | 3 paar/st199Weekactie",
       "promoPrice": 0.66,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-6",
       "product": "Koelelementen2 stuks | 400 ml/st088Weekactie",
       "promoPrice": 0.44,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-7",
       "product": "Paradise notitieboekA5 | 320 vel | diverse varianten/st149Weekactie",
       "promoPrice": 1.49,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-8",
       "product": "BadpakMaten 98 - 140 | diverse varianten/st399Weekactie",
       "promoPrice": 3.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-9",
       "product": "Palazzo Lungo koffiecapsules50 stuks/kg599Weekactie",
       "promoPrice": 23.96,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-10",
       "product": "Antikal spray Tropical700 ml/l248Weekactie",
       "promoPrice": 3.54,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-11",
       "product": "AccessoiresDiverse varianten/st099Weekactie",
       "promoPrice": 0.99,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-12",
       "product": "Natural Happiness chiazaad300 gram/kg239Weekactie",
       "promoPrice": 7.97,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-13",
       "product": "Paradise balpennen4 stuks | diverse varianten/st149Weekactie",
       "promoPrice": 0.37,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-14",
       "product": "Sportsokken BelgiëMaten 39 - 46 | 2 paar/st149Weekactie",
       "promoPrice": 1.49,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-15",
       "product": "Sportsokken België2 paar | maten 27 - 38/st149Weekactie",
       "promoPrice": 0.75,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-16",
       "product": "Sportset BelgiëMaten - 98 - 140/st495Weekactie",
       "promoPrice": 4.95,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-17",
       "product": "Natural Happiness pittenmix300 gram/kg239Weekactie",
       "promoPrice": 7.97,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-18",
       "product": "Natural Happiness pompoenpitten150 gram/kg149Weekactie",
       "promoPrice": 9.93,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-19",
       "product": "Etui met hangerDiverse varianten/st149Weekactie",
       "promoPrice": 1.49,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-20",
       "product": "VoetballampØ 10 cm/st249Weekactie",
       "promoPrice": 2.49,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     },
     {
       "id": "pagetext-21",
       "product": "McGregor slippersMaten 41 - 45 | diverse kleuren/st695Weekactie",
       "promoPrice": 6.95,
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-06-05T08:49:45.434Z",
+  "scrapedAt": "2026-06-08T09:31:52.319Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"

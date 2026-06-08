@@ -2,22 +2,22 @@
   "retailer": "hm",
   "folders": [
     {
-      "id": "hm-2026-w23-folder",
+      "id": "hm-2026-w24-folder",
       "retailerSlug": "hm",
       "title": "H&M sale",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "pageCount": 1,
-      "thumbnailUrl": "/screenshots/hm-2026-w23-viewerimg-p1.webp",
+      "thumbnailUrl": "/screenshots/hm-2026-w24-viewerimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/hm-2026-w23-viewerimg-p1.webp",
+          "imageUrl": "/screenshots/hm-2026-w24-viewerimg-p1.webp",
           "deals": []
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-07T16:11:22.605Z"
+      "scrapedAt": "2026-06-08T09:32:13.760Z"
     }
   ],
   "deals": [
@@ -25,68 +25,78 @@
       "id": "html-10",
       "product": "Katoenen T-shirt",
       "imageUrl": "https://image.hm.com/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-11",
       "product": "Geribde tanktop",
       "imageUrl": "https://image.hm.com/assets/hm/cb/82/cb82e0bd89bc4970a8cac47b11c5f540daac8d32.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-14",
+      "id": "html-12",
+      "product": "Doorknoopjurk met striklint",
+      "imageUrl": "https://image.hm.com/assets/hm/5a/9a/5a9ab974b3b86a4e13ce5f3ce5752c51e0fdc68a.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
       "product": "Hemdjurk met korte mouwen",
       "imageUrl": "https://image.hm.com/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
+      "product": "Korte strandjurk",
+      "imageUrl": "https://image.hm.com/assets/hm/cc/6b/cc6b5ded5463bd767d2898bb94913eca1b30f94d.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
       "product": "Fijngebreide one-shouldertop",
       "imageUrl": "https://image.hm.com/assets/hm/44/63/446397428e78ffba4b4cad32b74633bb8f266d8d.jpg?imwidth=360",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-17",
-      "product": "Doorknoopjurk met striklint",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "id": "html-18",
+      "product": "Strandkaftan van mousselinekatoen",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Oversized katoenen top",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "Korte strandjurk",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "product": "Short met broderie anglaise",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "Boxy T-shirt",
-      "validFrom": "2026-06-01",
-      "validUntil": "2026-06-07",
+      "product": "Strandbloes met broderie anglaise",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-07T16:11:37.609Z",
+  "scrapedAt": "2026-06-08T09:32:29.249Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
   "methods": [
+    "html",
     "screenshot"
   ]
 }
