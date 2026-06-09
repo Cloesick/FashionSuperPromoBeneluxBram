@@ -214,12 +214,22 @@
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
       "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/b45f6ffa-44fa-4a35-8f0f-0f562f244759.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-08T17:46:01.085Z"
+      "scrapedAt": "2026-06-09T08:17:50.562Z"
     }
   ],
   "deals": [
     {
       "id": "html-0",
+      "product": "Bladloze standventilator",
+      "originalPrice": 74.99,
+      "promoPrice": 74.992059,
+      "discount": "Ook in de winkel van 10/06 - 23/06",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-8",
       "product": "Loungeset, 4-delig",
       "originalPrice": 119.99,
       "promoPrice": 119.994169,
@@ -228,43 +238,33 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-7",
+      "id": "html-15",
       "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "promoPrice": 29.99,
+      "promoPrice": 27.99,
       "discount": "Ook in de winkel van 27/05 - 09/06",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-15",
+      "id": "html-23",
+      "product": "Snoeischaar",
+      "originalPrice": 3.99,
+      "promoPrice": 3.99501,
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-30",
       "product": "Ijsmachine Freezy",
       "promoPrice": 119.99,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-22",
-      "product": "Accugrasmaaier 20 V PARKSIDE® PARM20",
-      "originalPrice": 99.99,
-      "promoPrice": 99.995049,
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-29",
-      "product": "Bladloze standventilator",
-      "originalPrice": 74.99,
-      "promoPrice": 74.992059,
-      "discount": "Ook in de winkel van 10/06 - 23/06",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-08T17:46:18.936Z",
+  "scrapedAt": "2026-06-09T08:18:07.862Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-08-06-13-06"

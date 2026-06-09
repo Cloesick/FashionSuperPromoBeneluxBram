@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-08T09:31:47.288Z"
+      "scrapedAt": "2026-06-09T08:26:46.962Z"
     }
   ],
   "deals": [
@@ -167,14 +167,6 @@
     },
     {
       "id": "pagetext-11",
-      "product": "AccessoiresDiverse varianten/st099Weekactie",
-      "promoPrice": 0.99,
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-12",
       "product": "Natural Happiness chiazaad300 gram/kg239Weekactie",
       "promoPrice": 7.97,
       "validFrom": "2026-06-08",
@@ -182,7 +174,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-13",
+      "id": "pagetext-12",
       "product": "Paradise balpennen4 stuks | diverse varianten/st149Weekactie",
       "promoPrice": 0.37,
       "validFrom": "2026-06-08",
@@ -190,7 +182,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-14",
+      "id": "pagetext-13",
       "product": "Sportsokken BelgiëMaten 39 - 46 | 2 paar/st149Weekactie",
       "promoPrice": 1.49,
       "validFrom": "2026-06-08",
@@ -198,9 +190,17 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-15",
+      "id": "pagetext-14",
       "product": "Sportsokken België2 paar | maten 27 - 38/st149Weekactie",
       "promoPrice": 0.75,
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-15",
+      "product": "AccessoiresDiverse varianten/st099Weekactie",
+      "promoPrice": 0.99,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "action"
@@ -254,7 +254,7 @@
       "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-06-08T09:31:52.319Z",
+  "scrapedAt": "2026-06-09T08:26:53.074Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"

@@ -174,7 +174,7 @@
       "embedUrl": "https://view.publitas.com/ah/bonus-week-24-2026/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/126/3117615/pdfs/1e290ebe-8fca-4b40-81a9-d4ea2b186957.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-24-2026.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-08T17:39:37.371Z"
+      "scrapedAt": "2026-06-09T08:11:23.611Z"
     }
   ],
   "deals": [
@@ -210,6 +210,7 @@
       "id": "html-20",
       "product": "AH Gele uien 1 kilo",
       "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_43545239393239393133?revLabel=1&rendition=400x400webp&fileType=binary",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
@@ -342,6 +343,7 @@
       "id": "html-349",
       "product": "Marhaba vleeswaren",
       "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130313933313331?revLabel=1&rendition=400x400webp&fileType=binary",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
@@ -545,6 +547,7 @@
       "id": "html-827",
       "product": "Iglo Snack & Share chicken sticks en scampi fritti",
       "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130303835373434?revLabel=1&rendition=400x400webp&fileType=binary",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
@@ -576,6 +579,7 @@
       "id": "html-904",
       "product": "Fentimans 0.75 literflessen",
       "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4354523130313230303131?revLabel=1&rendition=400x400webp&fileType=binary",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
@@ -584,6 +588,7 @@
       "id": "html-923",
       "product": "Stëlz 0.25 literblikjes",
       "discount": "2egratis",
+      "imageUrl": "https://static.ah.nl/dam/product/AHI_4534676744432d6754793662597462657155504c5841?revLabel=1&rendition=400x400webp&fileType=binary",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "albert-heijn"
@@ -684,7 +689,7 @@
     },
     {
       "id": "html-1164",
-      "product": "WC-Eend toiletreinigers",
+      "product": "Sun en Finish",
       "discount": "2egratis",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
@@ -692,7 +697,7 @@
     },
     {
       "id": "html-1183",
-      "product": "Sun en Finish",
+      "product": "WC-Eend toiletreinigers",
       "discount": "2egratis",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
@@ -723,7 +728,7 @@
       "retailerSlug": "albert-heijn"
     }
   ],
-  "scrapedAt": "2026-06-08T17:39:53.128Z",
+  "scrapedAt": "2026-06-09T08:11:39.582Z",
   "sourceUrls": [
     "https://www.ah.be/bonus/folder"
   ],
