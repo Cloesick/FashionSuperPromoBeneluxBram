@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T08:28:09.892Z",
+  "generatedAt": "2026-06-09T17:29:50.523Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-09T08:18:07.862Z",
+      "scrapedAt": "2026-06-09T17:20:07.480Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -47,7 +47,7 @@
           "live": true
         },
         {
-          "url": "https://folder-nl.lidl.be/97031/3109438/pdfs/b45f6ffa-44fa-4a35-8f0f-0f562f244759.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
+          "url": "https://folder-nl.lidl.be/97031/3109438/pdfs/89f06e01-e335-47e1-9b4d-09675e0edadc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
           "status": 200,
           "live": true
         }
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-09T08:24:37.031Z",
+      "scrapedAt": "2026-06-09T17:26:26.052Z",
       "folderCount": 1,
       "dealCount": 1,
       "hasEmbed": true,
@@ -122,9 +122,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-09T08:26:53.074Z",
+      "scrapedAt": "2026-06-09T17:28:38.946Z",
       "folderCount": 1,
-      "dealCount": 22,
+      "dealCount": 23,
       "hasEmbed": true,
       "hasPdf": false,
       "hasPages": true,
@@ -143,7 +143,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-09T08:27:31.679Z",
+      "scrapedAt": "2026-06-09T17:29:13.898Z",
       "folderCount": 1,
       "dealCount": 7,
       "hasEmbed": false,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-09T08:28:07.145Z",
+      "scrapedAt": "2026-06-09T17:29:48.260Z",
       "folderCount": 1,
-      "dealCount": 160,
+      "dealCount": 151,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
