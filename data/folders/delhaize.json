@@ -214,28 +214,32 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w23-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3118464/pdfs/2c36a063-6ccf-4071-8c91-73fdfde02239.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W23-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-09T17:25:45.553Z"
+      "scrapedAt": "2026-06-10T17:59:01.626Z"
     }
   ],
   "deals": [
     {
       "id": "jsonld-0",
-      "product": "Broccoli",
-      "description": "Deze populaire groente is iets zoeter dan bloemkool. De steel is zeker ook eetbaar, dus gooi deze niet weg, maar verwerk bijvoorbeeld mee in soepen.",
+      "product": "Emmental | Geraspt",
       "imageUrl": [
-        "https://static.delhaize.be/medias/sys_master/products/h47/h6f/13108048494622.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/hba/h61/13108048756766.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/hdc/ha3/13108048953374.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/he8/hed/13108048822302.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/hfc/h2f/13108048887838.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h47/h6f/13108048494622.jpg"
+        "https://static.delhaize.be/medias/sys_master/products/h06/hc6/12806676480030.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hfb/h0a/12806676742174.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hd4/h05/12806676938782.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/he0/h4f/12806676807710.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hbb/h86/12806676873246.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/h06/hc6/12806676480030.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hef/h9f/12806677069854.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hea/h33/12806677135390.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hcd/h5d/12806677266462.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hd2/h8f/12806677200926.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hef/h9f/12806677069854.jpg"
       ],
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "delhaize"
     }
   ],
-  "scrapedAt": "2026-06-09T17:26:26.052Z",
+  "scrapedAt": "2026-06-10T17:59:41.531Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
