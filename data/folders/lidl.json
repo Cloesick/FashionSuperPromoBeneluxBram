@@ -214,7 +214,7 @@
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
       "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/89f06e01-e335-47e1-9b4d-09675e0edadc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-09T17:19:51.416Z"
+      "scrapedAt": "2026-06-10T08:42:18.921Z"
     }
   ],
   "deals": [
@@ -230,24 +230,14 @@
     },
     {
       "id": "html-8",
-      "product": "Loungeset, 4-delig",
-      "originalPrice": 119.99,
-      "promoPrice": 119.994169,
+      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
+      "promoPrice": 27.99,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     },
     {
       "id": "html-15",
-      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "promoPrice": 27.99,
-      "discount": "Ook in de winkel van 27/05 - 09/06",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-23",
       "product": "Snoeischaar",
       "originalPrice": 3.99,
       "promoPrice": 3.99501,
@@ -256,15 +246,25 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-30",
-      "product": "Ijsmachine Freezy",
-      "promoPrice": 119.99,
+      "id": "html-22",
+      "product": "Loungeset, 4-delig",
+      "originalPrice": 119.99,
+      "promoPrice": 119.994169,
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "lidl"
+    },
+    {
+      "id": "html-29",
+      "product": "Accugras- en struikschaar 12 V PARKSIDE® PGSA12, met accu en lader",
+      "originalPrice": 39.99,
+      "promoPrice": 39.992529,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-09T17:20:07.480Z",
+  "scrapedAt": "2026-06-10T08:42:35.922Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-08-06-13-06"

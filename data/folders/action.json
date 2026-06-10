@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-09T17:28:32.927Z"
+      "scrapedAt": "2026-06-10T08:51:01.946Z"
     }
   ],
   "deals": [
@@ -167,7 +167,7 @@
     },
     {
       "id": "pagetext-11",
-      "product": "RVS drinkfles met rietje500 ml | diverse kleuren/st299Weekactie",
+      "product": "RVS drinkfles met rietje500 ml/st299Weekactie",
       "promoPrice": 2.99,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
@@ -191,6 +191,14 @@
     },
     {
       "id": "pagetext-14",
+      "product": "Silan Fragrance Therapy wasverzachter Temptation60 wasbeurten/l299Weekactie",
+      "promoPrice": 2.27,
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-15",
       "product": "Plantenvoeding tabletten150 gram | diverse varianten/kg144Weekactie",
       "promoPrice": 9.6,
       "validFrom": "2026-06-08",
@@ -198,7 +206,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-15",
+      "id": "pagetext-16",
       "product": "The Beauty Dept. over make-up zonnebrandspraySPF 50 | 75 ml/l249Weekactie",
       "promoPrice": 33.2,
       "validFrom": "2026-06-08",
@@ -206,7 +214,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-16",
+      "id": "pagetext-17",
       "product": "Tokimeki panda koekjes Matcha100 gram/kg129Weekactie",
       "promoPrice": 12.9,
       "validFrom": "2026-06-08",
@@ -214,7 +222,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-17",
+      "id": "pagetext-18",
       "product": "Q-Brand Mochi mico mochi Matcha80 gram/kg129Weekactie",
       "promoPrice": 16.13,
       "validFrom": "2026-06-08",
@@ -222,7 +230,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-18",
+      "id": "pagetext-19",
       "product": "OptiSmile mondverzorgingsset5-delig | diverse kleuren/st129Weekactie",
       "promoPrice": 1.29,
       "validFrom": "2026-06-08",
@@ -230,7 +238,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-19",
+      "id": "pagetext-20",
       "product": "Haar kristallen36 stuks | diverse varianten/st079Weekactie",
       "promoPrice": 0.79,
       "validFrom": "2026-06-08",
@@ -238,7 +246,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-20",
+      "id": "pagetext-21",
       "product": "Pikante sauzen3 stuks | 3 x 150 ml/l249Weekactie",
       "promoPrice": 5.53,
       "validFrom": "2026-06-08",
@@ -246,23 +254,15 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-21",
+      "id": "pagetext-22",
       "product": "The Beauty Dept. zelfbruiner foam Kokosnoot200 ml | diverse varianten/l249Weekactie",
       "promoPrice": 12.45,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-22",
-      "product": "Green Boots mest Groenten & Kruiden800 gram/kg099Weekactie",
-      "promoPrice": 1.24,
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-06-09T17:28:38.946Z",
+  "scrapedAt": "2026-06-10T08:51:07.003Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"

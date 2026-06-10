@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-09T17:29:02.643Z"
+      "scrapedAt": "2026-06-10T08:51:28.226Z"
     }
   ],
   "deals": [
@@ -38,44 +38,96 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-13",
+      "product": "Push-up bikinitop",
+      "imageUrl": "https://image.hm.com/assets/hm/30/a9/30a9ad901c1315c86f4c5cd5db07f442410ee78c.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-14",
-      "product": "Fijngebreide one-shouldertop",
-      "imageUrl": "https://image.hm.com/assets/hm/aa/e4/aae4ea04aaec532a61d03458b21a9ca679101ca0.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Hemdjurk met korte mouwen",
-      "imageUrl": "https://image.hm.com/assets/hm/35/25/3525db0ffec25509885d25272211e373922e79f7.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
       "product": "Korte strandjurk",
+      "imageUrl": "https://image.hm.com/assets/hm/cc/6b/cc6b5ded5463bd767d2898bb94913eca1b30f94d.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
+      "product": "Strandkaftan van mousselinekatoen",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
       "product": "Doorknoopjurk met striklint",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
+      "id": "html-19",
+      "product": "Short met broderie anglaise",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-20",
-      "product": "Geribde straptop",
+      "product": "Cheeky bikinislip",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Bandeaubikinitop met padding",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Polo Slim Fit",
+      "imageUrl": "https://image.hm.com/assets/hm/11/70/1170f6be3be41dd4fdfedf651e24468c52e68a77.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "T-shirt Regular Fit",
+      "imageUrl": "https://image.hm.com/assets/hm/bd/e4/bde4ef42f917ccb678c4ff1d218520ce2f10ff6d.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Sweatshort Regular Fit",
+      "imageUrl": "https://image.hm.com/assets/hm/1d/f1/1df163061a2890b2346d7ac59d7fd08d8a59a336.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "T-shirt Relaxed Fit",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "T-shirt Slim Fit",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-09T17:29:13.898Z",
+  "scrapedAt": "2026-06-10T08:51:48.265Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
