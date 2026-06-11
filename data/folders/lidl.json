@@ -214,7 +214,7 @@
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
       "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/89f06e01-e335-47e1-9b4d-09675e0edadc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-10T08:42:18.921Z"
+      "scrapedAt": "2026-06-11T09:09:49.012Z"
     }
   ],
   "deals": [
@@ -239,8 +239,7 @@
     {
       "id": "html-15",
       "product": "Snoeischaar",
-      "originalPrice": 3.99,
-      "promoPrice": 3.99501,
+      "promoPrice": 1.99,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
@@ -256,15 +255,14 @@
     },
     {
       "id": "html-29",
-      "product": "Accugras- en struikschaar 12 V PARKSIDE® PGSA12, met accu en lader",
-      "originalPrice": 39.99,
-      "promoPrice": 39.992529,
+      "product": "Accugrastrimmer 20 V PARKSIDE® PRTA20",
+      "promoPrice": 29.99,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-10T08:42:35.922Z",
+  "scrapedAt": "2026-06-11T09:10:06.746Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-08-06-13-06"

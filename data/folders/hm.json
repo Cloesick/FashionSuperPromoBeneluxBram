@@ -17,12 +17,20 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-10T18:02:14.704Z"
+      "scrapedAt": "2026-06-11T09:19:01.897Z"
     }
   ],
   "deals": [
     {
       "id": "html-10",
+      "product": "Push-up bikinitop",
+      "imageUrl": "https://image.hm.com/assets/hm/30/a9/30a9ad901c1315c86f4c5cd5db07f442410ee78c.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-11",
       "product": "Katoenen T-shirt",
       "imageUrl": "https://image.hm.com/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg?imwidth=360",
       "validFrom": "2026-06-08",
@@ -30,52 +38,87 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-11",
+      "id": "html-12",
+      "product": "Cheeky bikinislip",
+      "imageUrl": "https://image.hm.com/assets/hm/4c/7f/4c7f20d161aed881a38ae66c83fdc2589a4bfd29.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-13",
       "product": "Geribde tanktop",
-      "imageUrl": "https://image.hm.com/assets/hm/b2/cb/b2cb4753a67c82ad2efcdb49b1e2af6be88814a9.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
-      "product": "Korte strandjurk",
-      "imageUrl": "https://image.hm.com/assets/hm/cc/6b/cc6b5ded5463bd767d2898bb94913eca1b30f94d.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Doorknoopjurk met striklint",
-      "imageUrl": "https://image.hm.com/assets/hm/5a/9a/5a9ab974b3b86a4e13ce5f3ce5752c51e0fdc68a.jpg?imwidth=360",
+      "imageUrl": "https://image.hm.com/assets/hm/9d/2c/9d2ca2fa04e3c692c37d78c02242a31cb7f52ecd.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-16",
-      "product": "Fijngebreide one-shouldertop",
+      "product": "Short met broderie anglaise",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-18",
-      "product": "Hemdjurk met korte mouwen",
+      "product": "Fijngebreide one-shouldertop",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-19",
-      "product": "Short met broderie anglaise",
+      "product": "Strandbloes met broderie anglaise",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-20",
+      "product": "Korte strandjurk",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Boxy T-shirt",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Zwemshort",
+      "imageUrl": "https://image.hm.com/assets/hm/77/35/7735896710ed1b9a28642c59516ed9701b07a7b1.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-24",
+      "product": "Zwemslip",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-27",
+      "product": "Short van linnenmix Regular Fit",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-28",
+      "product": "Sweatshort Regular Fit",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-10T18:02:37.520Z",
+  "scrapedAt": "2026-06-11T09:19:25.566Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],

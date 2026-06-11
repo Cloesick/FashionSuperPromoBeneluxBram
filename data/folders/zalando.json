@@ -17,12 +17,20 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-10T18:02:57.986Z"
+      "scrapedAt": "2026-06-11T09:19:46.423Z"
     }
   ],
   "deals": [
     {
       "id": "html-2",
+      "product": "Polo ClubRIGBY GO  - T-shirt basic - navy",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e6b9b1523f0c44038e70a8651385c59d/41020bcb9f9f49b0967e5b01396c24b6.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-3",
       "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - phantom/obsidian/summit white/white/black/metallic silver",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3dfeb65d250b4b1e8b626ad9b14e6667/610e396c33f54815acc70135bef67116.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -30,7 +38,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-3",
+      "id": "html-4",
       "product": "Nike SportswearAIR FORCE 1 07 - Sneakers laag - white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0117d3f555064d619547338470ec2fcb/5aa562bb0b4b49d5bbabd3c1cd81a5d5.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -38,7 +46,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-4",
+      "id": "html-5",
       "product": "Nike SportswearSHOX TL - Sneakers laag - neutral grey/pearl pink/metallic silver-coloured/black/white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/26c904884790495090ca95064990d4c3/11434694a74b4166a5555bb6f502ebc4.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -46,7 +54,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-5",
+      "id": "html-6",
       "product": "adidas OriginalsHANDBALL SPEZIAL UNISEX - Sneakers laag - collegiate navy/clear sky",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/29ca215a1b1b4a7bb90f6b9a10dc372e/fc2d32cc6c1441b380ecd55bbd47703b.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -54,7 +62,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-6",
+      "id": "html-8",
       "product": "Nike SportswearAIR FORCE 1  - Sneakers laag - white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/464fe7de307e41129abb480a7b4a7bd6/6aef5638141b4c0f83a92349bf6880e4.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -62,31 +70,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-8",
-      "product": "adidas OriginalsHANDBALL SPEZIAL UNISEX - Sneakers laag - core black/footwear white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5087bbc679fa43f987e25a840d6448c8/5517232dcd6c4e4d9434ade498e29951.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
       "id": "html-9",
-      "product": "Nike SportswearV5 RNR - Sneakers laag - white/midnight navy/metallic silver-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c374abfb6d4b4c8c8f63f6136569db4a/3a7866b8a6c24d70928dc69ac8325bb0.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-10",
-      "product": "New BalanceU740N UNISEX - Sneakers laag - slate grey/grey matter",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c94d6559c8754eeabc7d45b3c56442a5/68d29c1230264c739ca0e62e9b94e776.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-11",
       "product": "Under ArmourRIVAL - Trainingspak - midnight navy / white / white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d1ebe6c9e6a3482a87857856a1e045e3/b4f93f248e454963a2480adb6354cb6d.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -94,23 +78,31 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-11",
+      "product": "Nike SportswearV5 RNR - Sneakers laag - white/midnight navy/metallic silver-coloured",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c374abfb6d4b4c8c8f63f6136569db4a/3a7866b8a6c24d70928dc69ac8325bb0.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-12",
+      "product": "New BalanceU740N UNISEX - Sneakers laag - slate grey/grey matter",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c94d6559c8754eeabc7d45b3c56442a5/68d29c1230264c739ca0e62e9b94e776.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-13",
-      "product": "adidas OriginalsSUPERSTAR II - Sneakers laag - dusky bronze/cream white/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5dc017c57abe47eebb7af0962a57f57e/1cc789501b20414e98208162d97890e7.jpg?imwidth=300&filter=packshot",
+      "product": "adidas OriginalsHANDBALL SPEZIAL UNISEX - Sneakers laag - core black/footwear white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5087bbc679fa43f987e25a840d6448c8/5517232dcd6c4e4d9434ade498e29951.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-14",
-      "product": "Nike SportswearP 6000 - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/801e34c223034669a2ce4dd0af6d46d7/474f51ef88fb4559bda832199c453da1.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-15",
       "product": "New Balance740 UNISEX - Sneakers laag - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/34be5f568f8147babe5a738abd51f0dd/9c4c8f75306c4cd4a2ac64d5ec65b489.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -118,39 +110,23 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-15",
+      "product": "New Balance740 UNISEX - Sneakers laag - truffle salt/fairweather blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/76d4eec8237b4978b44cff0e14e90bd7/6d719b120ac04b7cbf4382f0a454d1ef.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-16",
-      "product": "Nike SportswearP-6000 - Sneakers laag - mtlc summit wht/white-pure platinum-wolf grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b79a42afb4a04ec08454e6a57bfd8513/99d84bb374554b15a26d65795ecce6d1.jpg?imwidth=300&filter=packshot",
+      "product": "Nike SportswearP 6000 - Sneakers laag - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/801e34c223034669a2ce4dd0af6d46d7/474f51ef88fb4559bda832199c453da1.jpg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-17",
-      "product": "Nike SportswearP 6000 - Sneakers laag - grey fog/white/cool grey/anthracite",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/744ea6feaeae42b99a11cbd034890b62/2c2f40ef865f45f3b6bc7084fbc923ff.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-18",
-      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - white/black/metallic cool grey/cool grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/57924ce670864107a4c7cccf3b6aa498/b1f4b0f4ce5b4bba81a1fbf146dc7ccf.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-19",
-      "product": "Reebok ClassicGLIDE TRAINERS - Sneakers laag - weiß",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/15e9d7ba88cf45c4804d4fdd720c9845/9e3def8217fc4f38bd9ad9f809de929f.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-20",
       "product": "New BalanceU740 UNISEX - Sneakers laag - white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c0534689024f42d6ae8de3681f38da13/7f7efb45b4d142d3a49044c64b83645b.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -158,31 +134,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-21",
-      "product": "adidas OriginalsSAMBA UNISEX - Sneakers laag - footwear white/core black/gum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14f30193c4a6481ebe6b68c07e8e2a71/61c6b598145649beb40eb634f54e54d5.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-22",
-      "product": "Nike SportswearV5 RNR - Sneakers laag - light smoke grey/off white/photon dust/light magenta",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1b32e884262b443b88d9f5559e3f84ae/b29cd2a189154e84bac142933b39061e.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-23",
-      "product": "Jack & JonesJJTUNE TEE CREW NECK - T-shirt print - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e02a14c801241f7bcc5ba826c5b29a7/874863471e264cddbdfb4a31e9b899a0.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-24",
+      "id": "html-18",
       "product": "New Balance740 UNISEX - Sneakers laag - nb navy",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4a356c151227470aa87530617c60ba97/a42093c70f8c48f4b26dc391a09c7ea4.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -190,17 +142,65 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-19",
+      "product": "Nike SportswearP-6000 - Sneakers laag - mtlc summit wht/white-pure platinum-wolf grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b79a42afb4a04ec08454e6a57bfd8513/99d84bb374554b15a26d65795ecce6d1.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-20",
+      "product": "U.S. Polo Assn.ARJUN - T-shirt basic - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/33e55997d07c4ca7af5bd27b71dfef85/bdefa32ae2aa4c7fa807fc1d613da2ec.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-21",
+      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - white/black/metallic cool grey/cool grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/57924ce670864107a4c7cccf3b6aa498/b1f4b0f4ce5b4bba81a1fbf146dc7ccf.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-22",
+      "product": "Nike SportswearP 6000 - Sneakers laag - grey fog/white/cool grey/anthracite",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/744ea6feaeae42b99a11cbd034890b62/2c2f40ef865f45f3b6bc7084fbc923ff.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-23",
+      "product": "GuessDEBOSSED MINI CROSSBODY UNISEX - Handtas - jet black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a3865478c8364a8f9f9111e0326fb3f9/7fa73f36e0e6464da8d86c77ae8443ea.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-24",
+      "product": "adidas OriginalsGAZELLE KIDS - Sneakers laag - clear pink/court green/bliss pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bd2059b75b1f41938b5cbdddf743ad0e/ff07d09f5a6b44e5b4b9c7dedef4b144.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-26",
-      "product": "adidas OriginalsSL 72 RS J UNISEX - Sneakers laag - blue   core white   better scarlet",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e693353381ef49fd945fee1e52f2c3b8/ce09a484131f4d3b8591e412b07b442a.jpg?imwidth=300&filter=packshot",
+      "product": "adidas OriginalsHANDBALL SPEZIAL C - Sneakers laag - collegiate navy/clear sky",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fe94054d657b458bbb5c2b7397c20839/92ea1cbf50d84b2987887034d3d8c2de.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-27",
-      "product": "U.S. Polo Assn.ARJUN - T-shirt basic - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/33e55997d07c4ca7af5bd27b71dfef85/bdefa32ae2aa4c7fa807fc1d613da2ec.jpg?imwidth=300",
+      "product": "Nike SportswearAIR FORCE 1 '07 LX - Sneakers laag - sail/metallic gold",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/45de2b0e5572453a895584dae77b5a81/7e6955e5572e48c2991fe4a963fefe17.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
@@ -215,6 +215,14 @@
     },
     {
       "id": "html-29",
+      "product": "adidas OriginalsSAMBA UNISEX - Sneakers laag - footwear white/core black/gum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/14f30193c4a6481ebe6b68c07e8e2a71/61c6b598145649beb40eb634f54e54d5.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-30",
       "product": "Levi's®HIGH WAIST STRAIGHT - Straight leg jeans - charlie boy",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b35bb5fde387467cb8afaefaa5654668/777a531284d245bcbf281d392745280e.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -222,95 +230,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-30",
-      "product": "Nike SportswearP 6000 SE UNISEX - Sneakers laag - white/steam/barely green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e5e3e6a63cce4ff19721f43f630e10e7/f36de9045b9f4a9d8114b125c62fb455.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
       "id": "html-31",
-      "product": "New Balance9060 UNISEX - Sneakers laag - neptune grey/truffle salt",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e7ec196746bf4be6b61598ed1451ff60/0a6569d7245840a49e6cb70105247030.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-32",
-      "product": "PumaCILIA MODE - Sneakers laag - white/silver",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/05ad8459f07e40479825aaeb0f0b5c63/08623ad7595b4ade82d537382542a8d5.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-33",
-      "product": "Nike SportswearZOOM VOMERO 5 - Sneakers laag - grey fog/off white/spruce aura/light pumice/summit white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/63b4f17a7f9446f4993c9df828c13c98/2591c0c19a88478b9b9a0bfdb0e35eba.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-34",
-      "product": "adidas OriginalsSUPERSTAR II  - Sneakers laag - ftwr white/core black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/55508079af8c4b909d54fa8f5ec6bfe1/ab658cc5bff84bd6aa566299a3178b8d.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-35",
-      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - off-white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1ee6c8e97a1f4b3c8ebdd2773aad51ea/212b1926fadd4f4eac0f98be37e610c6.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-36",
-      "product": "adidas OriginalsCAMPUS - Sneakers laag - crystal white/core black/off white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c3e3c1e9f6b0440c886c12aed0d6a49b/ecb12224258847c1bacbfb05aca07b6f.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-38",
-      "product": "adidas OriginalsHANDBALL SPEZIAL UNISEX - Sneakers laag - grey two/cloud white/gum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/22852e7eb97941b9818707c0edfdcb88/c0ae4fd4244b41e4b473515ebcc58697.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-39",
-      "product": "Nike SportswearAIR FORCE 1 '07 LX - Sneakers laag - sail/metallic gold",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/45de2b0e5572453a895584dae77b5a81/7e6955e5572e48c2991fe4a963fefe17.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-40",
-      "product": "SkechersUNO - Sneakers laag - white/navy/red",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4313231d9b7d3a268fac2003a9081f12/6653e77be2084c1f8baf1aac58453daa.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-41",
-      "product": "Nike SportswearCORTEZ - Sneakers laag - metallic red bronze/sail/rose whisper",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6e8b3de64eaf4692a5dd3abb15d6cf6f/1b61e4b75f56457dab87e8dd34aa55f8.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-42",
       "product": "Nike SportswearAIR FORCE 1 07 ESS - Sneakers laag - white/silver",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/888fd9f5bad9458db9687b1e85e46e03/10767057bfaf45f4aa80c0822ca40970.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -318,7 +238,15 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-43",
+      "id": "html-32",
+      "product": "adidas OriginalsSL 72 RS J UNISEX - Sneakers laag - blue   core white   better scarlet",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e693353381ef49fd945fee1e52f2c3b8/ce09a484131f4d3b8591e412b07b442a.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-33",
       "product": "Levi's®HOUSEMARK GRAPHIC TEE - T-shirt print - tech olive night",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9134742ba4a04f62a2e0b69232f7506d/4bb2a59bdeba44da9c81e32f2e1d2209.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -326,23 +254,47 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-44",
-      "product": "adidas OriginalsHANDBALL SPEZIAL - Sneakers laag - alumina/core black/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ae20c610a3764fcf983fd00bad225b2c/9836e20da5464757999e02c2538195e2.jpg?imwidth=300&filter=packshot",
+      "id": "html-34",
+      "product": "Nike SportswearP 6000 SE UNISEX - Sneakers laag - white/steam/barely green",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e5e3e6a63cce4ff19721f43f630e10e7/f36de9045b9f4a9d8114b125c62fb455.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-45",
-      "product": "Nike SportswearV5 UNISEX - Sneakers laag - black/anthracite",
+      "id": "html-35",
+      "product": "Nike SportswearUNISEX - Sneakers laag - black/anthracite",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/784594e89d164c1d81926096ff2f74a3/3fcc17bbe22f432eba6797a930576553.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-46",
+      "id": "html-36",
+      "product": "Jack & JonesJJTUNE TEE CREW NECK - T-shirt print - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e02a14c801241f7bcc5ba826c5b29a7/874863471e264cddbdfb4a31e9b899a0.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-38",
+      "product": "adidas OriginalsSUPERSTAR II  - Sneakers laag - ftwr white/core black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/55508079af8c4b909d54fa8f5ec6bfe1/ab658cc5bff84bd6aa566299a3178b8d.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-39",
+      "product": "WITTCHENKOLLEKTION FLORENCE - Portemonnee - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5178ff0fa1a14ae4b3c0e07f3ab245f0/ebd961fc604b4cfea4a87760a61a6462.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-40",
       "product": "adidas OriginalsCAMPUS 00S J UNISEX - Sneakers laag - grey three/footwear white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5c6da4b01c5c4e82a011ca839c5146bb/beca6e100bd0494a990acfef211e0aa2.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -350,23 +302,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-47",
-      "product": "New Balance530 UNISEX - Sneakers laag - neptune grey/lone star grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/02da63efc2ee4c15b114ca745e6f6a25/596d9c91a8184392b21ddf81e9f255c1.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-48",
-      "product": "Anna FieldKlassieke pumps - beige",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bad5307ca5504f3c89e508dfde092d45/02ad1170e90c4483a040bce682710bdf.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-49",
+      "id": "html-41",
       "product": "Nike SportswearAIR MAX 90 - Sneakers laag - summit white/silver-coloured sage/light pumice/black/white",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7899c6915e824bb9a8d6aef337ad2c7d/1cc5ddfe026c4876a217ebbc0594c3e1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -374,7 +310,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-50",
+      "id": "html-42",
       "product": "adidas OriginalsUNISEX 6 PACK - Sokken - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e113cd4d5f024bcfad1dfd1e5ea17f72/9e00f75722164cc0a2162fd3c77217a4.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -382,7 +318,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-51",
+      "id": "html-43",
+      "product": "ASICS SportStyleGEL-NYC GS UNISEX - Sneakers laag - cream oyster grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9d3641cfe5044bd3a80eb5f35f206544/91d66ee421e742a7acdf9e820fbb46a7.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-44",
+      "product": "New Balance9060 UNISEX - Sneakers laag - neptune grey/truffle salt",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e7ec196746bf4be6b61598ed1451ff60/0a6569d7245840a49e6cb70105247030.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-45",
       "product": "Tommy HilfigerCANVAS SIGNATURE MIDSOLE TRAINERS - Sneakers laag - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ae06ebb8cd294b86828bb954c364339c/be0b4491b4664166912c6b805ae8385e.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -390,79 +342,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-52",
-      "product": "adidas OriginalsHANDBALL SPEZIAL UNISEX - Sneakers laag - maroon/off white/collegiate burgundy",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f81e2b1dcc904df2952a1ef99fcd56a6/1ce5315d21004c8aa97e83d788f79164.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-53",
-      "product": "PumaMAYZE CLASSIC - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/66b299cf8d78436d9d1c2c8e92c92370/d837a0c98bdd44b1903b3e718569709f.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-54",
-      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - white/black/metallic silver",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/92eb75788d5f4f3281ad73486d0dba83/64184a443b6b426a929c448a5298bfaa.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-55",
-      "product": "PumaRS-X REINVENT - Sneakers laag - white/natural",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9d191ee41f70479c8bf8d5211a6011dd/7cddc8aebced4cc7a0d407f8d730c159.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-56",
-      "product": "CrocsCROCS BROOKLYN LOW WEDGE W - Sandalen met sleehak - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/77ff7383445648dfa4f4a501c5695439/0f21ae35862e4ade991e4a7cfd25e2dc.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-57",
-      "product": "Nike SportswearCORTEZ - Sneakers laag - baroque brown sail khaki",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d31f7ce95d5648c7a1f22363251f878f/10e12a77e15b449b948f15470d0ade89.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-58",
-      "product": "ASICS SportStyleGEL 1130 UNISEX - Sneakers laag - cream/pure silver-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a2b6ba16b8434e119825cba540c38d92/ed1dd4cca09d49599c5a2c7bc06b31f4.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-59",
-      "product": "Nike SportswearAIR FORCE - Sneakers laag - white/black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/829b1fa791964d0d84cb8e6c5553a0df/403731008ae34248911230175e03cbb0.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-60",
-      "product": "adidas OriginalsUNISEX 10 PACK  - Sokken - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5eca4cece79b4feba458d57700cb4987/603b049e5c304ab18cac788c30721a99.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-61",
+      "id": "html-46",
       "product": "Nike SportswearAIR FORCE 1 07 - Sneakers laag - white/black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bb6997de77f545049d3ae8d193063d62/dddaa1cfee6144fdb468c7f00c89d96e.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -470,31 +350,71 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-62",
-      "product": "PumaSPEEDCAT - Ballerina's met enkelbandjes - black/mauve mist",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba3c438cd3764fd1ad9e12b29b57b049/65b8830ec7944c1195f2fd5c687ca28f.jpg?imwidth=300&filter=packshot",
+      "id": "html-47",
+      "product": "adidas OriginalsCAMPUS - Sneakers laag - grey three ftwr white gum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9fd345fef7ea4a82b6ed0688f3ccd6f1/04e3dce2cb054ceebb5cfe4504dfff9b.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-63",
-      "product": "adidas OriginalsCAMPUS 00S J UNISEX - Sneakers laag - aurora coffee/white/gum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1f2bf65b9d964b35a13ad4b00cb88358/1a33a22cab3345fc89b6bdebb03a5db1.jpg?imwidth=300&filter=packshot",
+      "id": "html-48",
+      "product": "adidas OriginalsHANDBALL SPEZIAL UNISEX - Sneakers laag - grey two/cloud white/gum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/22852e7eb97941b9818707c0edfdcb88/c0ae4fd4244b41e4b473515ebcc58697.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-64",
-      "product": "adidas OriginalsSL 72 RS - Sneakers laag - magic beige/white/bluebird",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c1a698916f584f17bcff8a1f59b4a5b4/24d6ccd3ddcb4b489eecd6804feb32c7.jpg?imwidth=300&filter=packshot",
+      "id": "html-49",
+      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - off-white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1ee6c8e97a1f4b3c8ebdd2773aad51ea/212b1926fadd4f4eac0f98be37e610c6.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-65",
+      "id": "html-50",
+      "product": "Nike SportswearCOURT BOROUGH RECRAFT UNISEX - Sneakers laag - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9ac2ceeea17b4effaea9212ceafc198e/d2667c6e86a04227990be13553c5e33a.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-51",
+      "product": "Levi's®BATWING TEE UNISEX - T-shirt print - cameo green",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/638035919204491e8b2dfe05df958cf0/f7ee3730e5d6404281f33b2f7c3dd393.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-52",
+      "product": "Nike SportswearAIR FORCE - Sneakers laag - white/black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/829b1fa791964d0d84cb8e6c5553a0df/403731008ae34248911230175e03cbb0.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-53",
+      "product": "adidas OriginalsCAMPUS 00S UNISEX - Babyschoenen - grey three   cloud white   gum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/73eecf74235a4b8b938ab85bbc3d655b/47feb26d1c4f429e8520238c9dda8a41.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-54",
+      "product": "ASICS SportStyleGEL 1130 UNISEX - Sneakers laag - cream/pure silver-coloured",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a2b6ba16b8434e119825cba540c38d92/ed1dd4cca09d49599c5a2c7bc06b31f4.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-55",
       "product": "New BalanceU574 UNISEX - Sneakers laag - darker grey matter/dark silver-coloured metallic",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/06377cce6ba547189473858fedcf4e0e/428dacf6a8b642e1b8c58f25a4c88d86.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -502,119 +422,31 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-66",
-      "product": "Nike SportswearAIR MAX MOTO 2K SE - Sneakers laag - white/hydrogen blue/metallic silver-coloured/midnight navy",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fe26704ba3f24446b5d8d8b27c492dc8/5c2673132e574d54b3729e44e70eae31.jpg?imwidth=300&filter=packshot",
+      "id": "html-56",
+      "product": "adidas OriginalsUNISEX 10 PACK  - Sokken - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5eca4cece79b4feba458d57700cb4987/603b049e5c304ab18cac788c30721a99.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-67",
-      "product": "New BalanceSneakers laag - silver metallic / cinnamon",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2a46053cd16e4054af339c623b697031/a9eadcb187804d1cbb2517ef76eb7727.jpg?imwidth=300&filter=packshot",
+      "id": "html-57",
+      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - white/black/metallic silver",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/92eb75788d5f4f3281ad73486d0dba83/64184a443b6b426a929c448a5298bfaa.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-68",
-      "product": "RoxyOCEANSIDE PANT - Broek - duck green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd9ffdd084bb3f9983db74d80781501c/fecdbe3645ff4015b16bd39b879e016e.jpg?imwidth=300",
+      "id": "html-58",
+      "product": "New Balance740 - Sneakers laag - lone star grey grey matter",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7a15d5535235458f950e7749771bf243/a4a4d9c2c3c14f8fbe393fd899d13ee8.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-69",
-      "product": "Anna FieldShopper - dark green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2dadf9c470824fd4af987554c46b1ab5/282fb9d787d94590a9730179b1420983.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-70",
-      "product": "Nike SportswearAIR FORCE 1 07 LV8 UNISEX - Sneakers laag - white/metallic cool grey/black/cool grey/summit white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3c2972d171e74c0fb617ea2a08684234/99db988269fc49638eb8d0f65a0d1853.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-71",
-      "product": "adidas OriginalsCAMPUS 00S UNISEX - Sneakers laag - grey/core black/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/635eed75521242b09903a7e371cfdb95/c8645ad022064b01b90e2a01dee86968.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-72",
-      "product": "Nike SportswearV5 RNR - Sneakers laag - white/black/metallilc silver-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/50bcb8c26778450e882716c696bb992c/c200c8e2f02b4ce9a6fca44d162382d4.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-73",
-      "product": "Nike SportswearV5 UNISEX - Sneakers laag - white/black/vast grey/college grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/eb136c96c8984d39bdc0c855f2b44df3/63103e46c7564090a86b103ee64135a8.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-74",
-      "product": "New BalanceSneakers laag - medusa green / angora",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e740dbc9bd6142b9bdc1a7da574f3a2f/f12314370b1c4596b142abadcf175749.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-75",
-      "product": "adidas OriginalsSAMBA OG UNISEX - Sneakers laag - ftwr white/light pink/gum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0f75f3962d3240828a78de3f82f5b0d9/11ffc601de064e9fad09e85d1549fd96.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-76",
-      "product": "BirkenstockGIZEH BF GOLDN - REGULAR - Teensandalen - gold",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7c891dba13e3437997885198fba50ca0/bca18d45bbcb4e75b4456e9289e0356e.png?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-77",
-      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - atmosphere grey/black/pencil point/vast grey/sail",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9eed04fc36914ab4ad5870947b653507/f61de77a54e84c6bb0bf29d9ec9d392d.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-78",
-      "product": "Nike SportswearCORTEZ - Sneakers laag - metallic silver-coloured/white/grey fog",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6292291f5401408ab218469868b067c4/d7590358be2c4195bc6c8a5cd104b2cf.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-79",
-      "product": "Pier OneCargobroek - olive",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5b87e39a366d315a888537843efdd5bd/38b5161f9e6a4fada25c0f77c5e979fc.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-80",
+      "id": "html-59",
       "product": "GuessDARCY GIRLFRIEND SATCHEL - Handtas - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b2a612fc5f6e4ee1b5316484449d79bc/639ff1265ccc4cbab0187e3f6cfe326d.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -622,23 +454,111 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-81",
-      "product": "adidas OriginalsSL72 OG - Sneakers laag - maroon   almost yellow   preloved brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c6772caa58b8433aa34a75578eaca6d9/98c8aae80c3548168efbb092dc4b69fd.jpg?imwidth=300&filter=packshot",
+      "id": "html-60",
+      "product": "New Balance530 UNISEX - Sneakers laag - neptune grey/lone star grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/02da63efc2ee4c15b114ca745e6f6a25/596d9c91a8184392b21ddf81e9f255c1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-82",
-      "product": "LacosteCOURT ACE 225 - Sneakers laag - white/gold",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8672bb598fe849589511d1b1f59de1c9/e203438451854fa9a408a293822f2afa.jpg?imwidth=300&filter=packshot",
+      "id": "html-61",
+      "product": "adidas OriginalsGAZELLE BOLD J UNISEX - Sneakers laag - aurora onix  bliss pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ebdf1490a7004b2f8612895fca993803/917df60aeb664951b69b9c036026fc3f.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-83",
+      "id": "html-62",
+      "product": "Nike SportswearAIR FORCE 1 07 LV8 UNISEX - Sneakers laag - white/metallic cool grey/black/cool grey/summit white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8f615fa572ac4b06a641cce4fb908f5e/add6fac2ce234822bb6644c7a4aa3563.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-63",
+      "product": "Nike SportswearAIR FORCE - Sneakers laag - summit white/strata grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/64646a1860af47cb875aa36442b41932/bd2dd60fb50843ab9063d699a66fdceb.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-64",
+      "product": "BirkenstockGIZEH BF GOLDN - REGULAR - Teensandalen - gold",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7c891dba13e3437997885198fba50ca0/bca18d45bbcb4e75b4456e9289e0356e.png?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-65",
+      "product": "New Balance740 UNISEX - Sneakers laag - white/carnival pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a8edc83ec5c14aa6a845327ec519e583/2f90396def774320a9350ffa4bc50fa0.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-66",
+      "product": "adidas OriginalsSUPERSTAR II UNISEX - Sneakers laag - white/core black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/34a98e76f00d4b59a88f94ed9d5e7ce2/36fd46851e0e4766af65ebb42c30159a.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-67",
+      "product": "Nike SportswearUNISEX - Sneakers laag - white/black/vast grey/college grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/eb136c96c8984d39bdc0c855f2b44df3/63103e46c7564090a86b103ee64135a8.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-68",
+      "product": "New BalanceSneakers laag - metallic silver metallic silver",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e78df08ae6a84aa8a76ffa92e5b93524/e4b4a069439f49b2ac50eb0b8758ccf2.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-69",
+      "product": "Nike SportswearUNISEX - Sneakers laag - white/malachite/vast grey/metallic silver-coloured/pencil point",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6249e37fd9d14525b065cebd40f7e66e/9b09485a4dfd4bcdb385a170fc0ab439.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-70",
+      "product": "adidas OriginalsCAMPUS 00S J UNISEX - Sneakers laag - crystal sky/white/gum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3961a57cb0a84077aa72140ce4f5efc4/377870d2fe924c2399eaea6cbc5a066e.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-71",
+      "product": "New BalanceSneakers laag - medusa green / angora",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e740dbc9bd6142b9bdc1a7da574f3a2f/f12314370b1c4596b142abadcf175749.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-72",
+      "product": "Anna FieldShopper - dark green",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2dadf9c470824fd4af987554c46b1ab5/282fb9d787d94590a9730179b1420983.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-73",
       "product": "Calvin Klein Underwear3 PACK - Boxershort - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9a95d87471c64407943448ce4bb7e175/6698ebd651e24a6a91f262946b6ac21f.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -646,15 +566,47 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-84",
-      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b3def2f62c4b3420a56629a6c8522d8d/e163d02d3a54476fb05245c25800e452.jpg?imwidth=300&filter=packshot",
+      "id": "html-74",
+      "product": "New Balance740 - Sneakers laag - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6c3f0f225c41402cbca733cb3b162c32/d45048d1521244469e43ce8efcd3e89a.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-85",
+      "id": "html-75",
+      "product": "Nike SportswearAIR MAX 90 UNISEX - Sneakers laag - white/black/pink foam/anthracite/smoke grey",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5f73e9fcd20748fd8d75715dd0c7c79a/a202df6f25d04de29b56d1020dd995f3.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-77",
+      "product": "adidas OriginalsSUPERSTAR II C UNISEX - Sneakers laag - white/halo blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2642e3bdd3ca4d03bd782e9835b4acce/b09dad51fb0e4060ba273779cdc2eff0.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-78",
+      "product": "adidas OriginalsSL 72 RS - Sneakers laag - magic beige/white/bluebird",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c1a698916f584f17bcff8a1f59b4a5b4/24d6ccd3ddcb4b489eecd6804feb32c7.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-79",
+      "product": "Lyle & ScottZIP THROUGH HOODED JACKET - Jas - dark blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/126457279e43365cb3489f1e2487cf68/1cfe2c3f1be8443586bc4ee1c4bbdc3e.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-80",
       "product": "U.S. Polo Assn.ARJUN - T-shirt basic - tap shoe",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0088b3625880488a8f3ff2e935b6473c/445d0f4e58de4268bb8bdaa39edf07e1.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -662,279 +614,47 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-81",
+      "product": "CrocsCROCS BROOKLYN LOW WEDGE W - Sandalen met sleehak - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/77ff7383445648dfa4f4a501c5695439/0f21ae35862e4ade991e4a7cfd25e2dc.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-82",
+      "product": "Nike SportswearP 6000 UNISEX - Sneakers laag - grey fog/malachite/metallic silver-coloured/sail/pencil point",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3194dfbb5cf14de4a72f64f7e4006c26/615a74fd76324f16b5a53b11f83ff760.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-83",
+      "product": "Nike SportswearSHOX TL - Sneakers laag - black metallic hematite max orange black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8da891d9831d40468aeb18281ce7cdf4/6b15cf306fd644e2b8dec0b893444491.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-84",
+      "product": "Nike SportswearCORTEZ - Sneakers laag - baroque brown sail khaki",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d31f7ce95d5648c7a1f22363251f878f/10e12a77e15b449b948f15470d0ade89.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-85",
+      "product": "adidas OriginalsSUPERSTAR II UNISEX - Sneakers laag - core black/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9c74083067254e729fdf1f8a9d8cca70/120e123c5a6049d5b33c2eba63af60d6.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-86",
-      "product": "Nike SportswearAIR FORCE 1 - Sneakers laag - black/dark smoke grey/smokey grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/74801867511343c1a94468228c267d9c/66510fbecc9546d5859918f633cfb83e.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-87",
-      "product": "PumaSOFTRIDE CARSON - Trainingsschoen - black- black- white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4721551d56264d97a5b76964481e5a0a/d313789d356c42808d2a53c1076c70a6.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-88",
-      "product": "ConverseCHUCK TAYLOR ALL STAR LIFT - Sneakers hoog - obsidian/egret/no shade",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bd934e0f54284427bba896c8ec55a5d6/dfd9a9cb1f134b58a306c8effe2a5f96.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-20",
-      "product": "PremiataMICK 8120 BLEU 40 - Sneakers laag - bleu",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1d4c219d8d384784ae7e81233d04023b/c3b0dd477c9f4beda7e806cdaaf5f43e.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-31",
-      "product": "ScalpersSCALPERS PATCHWORK SHIRT - Overhemdblouse - multicolor",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c6108c4cf1194a17abec7e58a048e459/6226926e82f14ae8a2c1d79ade6e4fe2.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-54",
-      "product": "PremiataCONNY - Sneakers laag - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cdbeaa4cb4ca4afbb3d7c827477ac9b8/b4f63a349092472fbf49bd6e6498c97d.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-59",
-      "product": "PremiataSneakers laag - brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/82075b966883440681d604ab07c3c21b/c2f2347412d544d286ef26ae0a9759c3.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-2",
-      "product": "Too FacedCHOCOLATE SOLEIL MELTING BRONZING & SCULPTING STICK - Bronzer - chocolate mocha",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8e9f34d649514f848cf8b45be3520084/0408deadcec1445292e241d842ffdb3b.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-3",
-      "product": "LANCÔMELASH IDÔLE MASCARA MIDI - Mascara - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba7f2904d24c4fa4833962b06205c4d8/b39992630775480385d4d28d0084862c.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-4",
-      "product": "Marks & Spencer3PK HEAVY ABSORBENCY FULL - Menstruatie-ondergoed - rose quartz",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e2378144784f41b7aab5acfc1671e574/d72f21c4e0df4e708627b026294ba6a8.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-8",
-      "product": "CliniqueHYDRATE & GLOW - Huidverzorgingsset",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e32a3a60324841f28647d665c5d8b406/ea8535dfcaf54cae9bedc006c4c2e0db.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-9",
-      "product": "CliniqueMOISTURE SURGE 100H AUTO REPLENISHING HYDRATOR WITH ALOE VERA FERMENT - Dagcrème",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5d03034d6cc14d38870277feabd82244/6f77bda83ff44f649ab38c302077cda3.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-10",
-      "product": "CliniqueMOISTURE SURGE INTENSE 72H LIPID-REPLENISHING HYDRATOR - Dagcrème",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/72b6686ae0c146bfbac8c7067ff7f3d1/c9e087d5559b4eeb8bf6be0687971c6d.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-11",
-      "product": "CliniqueJUMBO TAKE THE DAY OFF MAKEUP REMOVER - Make-up remover",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e0859c0b6aec3f788059a1263479a1e4/e0225b67103c447082a321e67f75b53f.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-12",
-      "product": "CliniqueCLARIFYING LOTION 2 - Tonic",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b755637075fc44818140149261033c08/4ff01ba8a91c4a8ea266c276ba001a65.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-13",
-      "product": "CliniqueMOISTURE SURGE FACE SPRAY  - Gezichtsnevel",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f79b251e166144809cc4c5010a36c12f/d717186a8047422ba2a5dbe9ba4c68a1.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-14",
-      "product": "CliniqueALL ABOUT EYES RICH - Oogverzorging",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4e8fccd41b2549f8a48befe6d6add810/1f9167a6a6a348999c3e486e89b55b2d.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-15",
-      "product": "CliniqueMOISTURE SURGE GLOW SERUM - Serum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a156937aaa5649d3a0b7cab2def02de8/c5aa132967894849a03e364489b28d6a.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-16",
-      "product": "CliniqueALL ABOUT EYES - Oogverzorging",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9e46da9e2dc34b6f80d7d1746aed21fe/2a0930d4ca884cd8a3f1604f901a5812.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-17",
-      "product": "CliniqueMOISTURE SURGE OVERNIGHT MASK  - Nachtverzorging",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5885fa7579404c8fa1b67b85d2f85655/6b27c2f6050e4edcb785ca52d5a6d1f4.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-18",
-      "product": "CliniqueEVEN BETTER LIGHT REFLECTING PRIMER - Primer",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b1118ed0929c4a149a9348df2ec7907e/dfce452d31bd4890be5a5ab175366237.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-19",
-      "product": "CliniqueMOISTURE SURGE™ SPF 25 SHEER HYDRATOR - Serum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e41a5e3a957243538502bd0845bcbc36/3e7dd0b15dab4825b5667f10fc239e56.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-20",
-      "product": "CliniqueMOISTURE SURGE EYE 96HR HYDRO-FILLER CONCENTRATE - Oogverzorging",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b8c6db4d7aa649ccb25947acfaed7595/efa3479fe2c945e88d56f5f5f53a9329.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-21",
-      "product": "CliniqueMOISTURE SURGE LIP HYDRO PLUMP TREATMENT - Lippenbalsem",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/830f29466d9f48b68087e17443241c8e/d46862a5870544208fe4aa0f9dca2eb0.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-22",
-      "product": "CliniqueALL ABOUT EYES BRIGHTENING SERUM - Oogverzorging",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6630bbf760514956a23683bbaff08b96/a584634fde2747c19b766d758a4b3aa3.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-23",
-      "product": "DEFRUBY - Cargobroek - olive",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ffd127265e114d88ae7aa8ffcbb46c04/a8eb21ccf1c644ad8e02cdcf45b82d9e.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-26",
-      "product": "Polo Ralph LaurenStijlvol op de tennisbaan",
-      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/pouw3wewvizzsif7oox2/1779873067617_pouw3wewvizzsif7oox2.jpeg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-30",
-      "product": "Felix HardyVest - salmon",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/dea7b50107cc4c188ff5e3201a438c1e/da775cbbcf85404b9634b7c371840839.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-31",
-      "product": "LeeSTELLA - Wide leg - dark eton",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/99e43f221dfc40129a4f1481a2514219/8f186dc00a0348cb8ebbf0d04228c769.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-34",
-      "product": "Even&OddT-shirt print - lilac",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6da43d64f199466389c5568545b9fe81/1734fa0721f2411ab8ad62a2f68a6f4c.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-39",
-      "product": "Everyday DressesLichte looks voor warme dagen",
-      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/crwexx69y2kjihqqnxfw/1780311041978_crwexx69y2kjihqqnxfw.jpeg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-44",
-      "product": "Levi's®CINCH BARREL - Baggy jeans - past lives",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ace2ad03542248d9a710c7872edaaa8b/beb4df2b1b6147dd8f0ed80594e1bc96.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-50",
-      "product": "LacosteNEO SHOT 225 - Sneakers laag - white/silver-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e98413f22e884ead9de0d73ddf3ceacc/100840f7e86e448c9eb923c9f6c2018c.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-51",
-      "product": "Pier OneLEATHER UNISEX - Muiltjes - light blue",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cf36471fd82a4cf7b94d14b728362ff2/e540dc105bd64cf3b20fdfe6a575a149.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-52",
       "product": "Marks & SpencerFULL BRIEF 5 PACK - Slip - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f31dfed554d14b999a7e4cbd49fd29a8/4dcbc6a056d54daf8b20a014fcc5cf50.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -942,55 +662,223 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-54",
-      "product": "Zomercollectievan Cupshe",
-      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/pfj1elo1pp2ezesblyb5/1779960212119_pfj1elo1pp2ezesblyb5.jpeg?imwidth=300",
+      "id": "html-87",
+      "product": "adidas OriginalsCAMPUS 00S J UNISEX - Sneakers laag - aurora coffee/white/gum",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1f2bf65b9d964b35a13ad4b00cb88358/1a33a22cab3345fc89b6bdebb03a5db1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-56",
-      "product": "adidas OriginalsGAZELLE LO PRO W - Sneakers laag - team victory red/gum",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/dff1ccefa86a4402b09eec1126e63e51/3c9de0dfd0b444799b1b68fadd5083ce.jpg?imwidth=300&filter=packshot",
+      "id": "html-88",
+      "product": "New BalanceSneakers laag - silver metallic / cinnamon",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2a46053cd16e4054af339c623b697031/a9eadcb187804d1cbb2517ef76eb7727.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-58",
-      "product": "Anna FieldJerseyjurk - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/df8ae21ed26b48ed82e9a8298567d52f/01206b9004f6403f8318e6e0100575d7.jpg?imwidth=300",
+      "id": "html-17",
+      "product": "PremiataMICK 8120 BLEU 40 - Sneakers laag - bleu",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1d4c219d8d384784ae7e81233d04023b/c3b0dd477c9f4beda7e806cdaaf5f43e.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-59",
-      "product": "adidas OriginalsSTRIPES CREW UNISEX 3 PACK - Sokken - white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/abd06499df584a83879f925039d0db56/2549199b317a45d39b54254100e2bbaa.jpg?imwidth=300&filter=packshot",
+      "id": "html-2",
+      "product": "PumaCOURT CLASSICO - Sneakers laag - puma white puma white puma gold",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/24d63cdd0c1d4b9fab408767fbce67d9/3b153f70e4ee4d2bb28b7b775e0c3602.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-65",
-      "product": "Even&OddSweater - dark blue",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/450947599eca4305b130fd00de2574a3/436bc6552f734caa8a31cd69d2cc1323.jpg?imwidth=300",
+      "id": "html-3",
+      "product": "Marks & Spencer3-PACK BALCONY - Beugel BH - opaline mix",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1c711337ca7f4a3e82ddb435a7fd1d90/79b000932fc8473a9f42fa6340000f46.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-66",
-      "product": "Anna FieldShopper - bordeaux",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/957c8facc2d64cceb1f874e2339b4231/d45fdad42de6426691689b0ddd21c53c.jpg?imwidth=300&filter=packshot",
+      "id": "html-4",
+      "product": "Anna FieldT-shirt print - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e7cc4f046e4c4f7e82f28eac96f1dd04/371bd1951d18412d912092f0e716c4fd.jpg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-67",
+      "id": "html-8",
+      "product": "BOSSJALA CROSSBODY - Handtas - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/812c1b2713d84b49b12d953d466f61cc/0efbc95c82f647cc87fd4a2489453946.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-9",
+      "product": "BOSSDAAPHNE - Shopper - open white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2580beec736e4a5cb204993e9900dbb6/7cab98eac33e46fbb8b6df02f9d2e4d5.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-10",
+      "product": "BOSSICONIC SWIMSUIT - Badpak - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ca6630c4adfb47728250ecdbdea234f6/28ec92996dd24cbc8f2af756ff5f6a3f.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-11",
+      "product": "BOSSBikinibroekje - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c09f65a341d04285a2e48f6b71f1b761/96c073aa457b4e16a958e83f341620d0.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-12",
+      "product": "BOSSCHARLIZE - Teensandalen - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a245d31daac744f18cf2adab77281e5d/d22666ceadf44fafb8012b0ccb36de4c.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-13",
+      "product": "BOSSBRALETTE LASERCUT - Bikinitop - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/57b2a28409eb4cf29d4ca486f7e79f1c/5163f3cdf57246d4aa2fb1d88018375f.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-14",
+      "product": "BOSSGRACEY - Sandalen - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1d0290d9e90f4445abfdd968cf604cbb/c2ec7ff59a384701acad7d49a3dada8a.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-15",
+      "product": "BOSSBEYOND CROSS - Handtas - open white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/71211928a8284f1bbff634acca9fa6b2/5dce5ad0e77b451a9a359e059d1ba49c.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-16",
+      "product": "BOSSDOUBLE TOP - Strandaccessoire - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2d2bf4cc0f964d4ca0c95ee68b66afcb/150355e8abfc462c8b9a0b03289d37e4.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-17",
+      "product": "BOSSCHARLIZE - Muiltjes - cognac",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/84b46fa961b64ab280902646808bdbe6/161e89e56f4941f49b84329c6192af0c.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-18",
+      "product": "BOSSGRACEY - Klassieke pumps - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f8e0939001264d82a6bcb44b42ede8ce/4cd8263006174203a140a1ebc0b216ca.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-19",
+      "product": "BOSSHalsdoek - open white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/45cd52ed8c1a4e9f9adae7dab6eb16a5/4b7335119a9c4a74a4cb851030cec661.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-20",
+      "product": "BOSSFREYAH - Sandalen - dark brown",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9b0f862b69924093bdfde97e1174390e/bd3f8a6cb68f415e9172bdc8ec683929.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-22",
+      "product": "BOSSLORDEAUX - Hoed - open white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cef6e8cdd8b044ec86d88a9fd0217e0c/15fcdc3ab4644c92b4d0a221512e8fd5.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-25",
+      "product": "Anna FieldLEATHER HIGH HEELS - Hoge hakken - light pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5a3fe56e95d84e81aab91a520d5c1523/a250e935416f43919d61e7dbde2cdbf7.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-26",
+      "product": "De “Love That”-zomer.M&S",
+      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/khu3ier9drh2bjsumth4/1780922719216_khu3ier9drh2bjsumth4.jpeg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-29",
+      "product": "LeeSTELLA - Wide leg - dark eton",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/99e43f221dfc40129a4f1481a2514219/8f186dc00a0348cb8ebbf0d04228c769.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-30",
+      "product": "Reebok ClassicGLIDE TRAINERS - Sneakers laag - weiß",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/15e9d7ba88cf45c4804d4fdd720c9845/9e3def8217fc4f38bd9ad9f809de929f.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-33",
+      "product": "Anna FieldKlassieke pumps - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bad5307ca5504f3c89e508dfde092d45/02ad1170e90c4483a040bce682710bdf.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-34",
+      "product": "Anna FieldJerseyjurk - light pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a9d38e7988334f33b79f6db36070e7a5/66b431ad6ba1426fb6bc6f6b1cc71549.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-35",
+      "product": "LANCÔMELASH IDÔLE MASCARA MIDI - Mascara - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba7f2904d24c4fa4833962b06205c4d8/b39992630775480385d4d28d0084862c.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-36",
       "product": "LASCANAPETITE FLEUR BY LASCANA - Slip - pastell natu",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/29950adee7b744328d7ed2276ac3a6c2/a04bc952d1c949a0baf2c267bab799d2.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -998,63 +886,47 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-68",
-      "product": "adidas OriginalsSTRIPES CREW UNISEX 3 PACK - Sokken - white/ brown",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/364732556b6c4c549d30d3effd7ebd20/01cc2d59396e45449575dd9e787adbfa.jpg?imwidth=300&filter=packshot",
+      "id": "html-38",
+      "product": "Anna FieldSandalen met plateauzool - natural",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/146af25f21334cf49270b7924ea01309/eddf61ea5ad241559d24e7ec2894d9e1.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-69",
-      "product": "KaffeKABPKAISEY - Jurk - grape leaf",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/be4788d6fceb39c9b2faf104b7d9181f/c0c12279ecfc4b9aa59980774ca3ab1a.jpg?imwidth=300",
+      "id": "html-39",
+      "product": "Elektrische vreugdeAriana Grande x Swarovski Drop",
+      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/zuwyqs9s8hykvgqkqkwl/1773334478743_zuwyqs9s8hykvgqkqkwl.jpeg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-70",
-      "product": "adidas OriginalsUNISEX 10 PACK - Sokken - silver green/glow pink/semi flash aqua",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e6ec1bda6888449bb7a0ea692bd3d721/0f66d8682495450abe99cadc339db8fb.jpg?imwidth=300&filter=packshot",
+      "id": "html-41",
+      "product": "PumaCILIA MODE - Sneakers laag - white/silver",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/05ad8459f07e40479825aaeb0f0b5c63/08623ad7595b4ade82d537382542a8d5.jpg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-73",
-      "product": "BirkenstockARIZONA RIVET LEVE NARROW - Sandalen - taupe",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1b060003e87041238803b3c43aee2b49/fbb2d674425d41a9a68e49eb694f59fb.jpg?imwidth=300&filter=packshot",
+      "id": "html-42",
+      "product": "Levi's®RIBCAGE WIDE LEG - Wide leg - hot fudge",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7fccb791c95f44c1aff21aa397637e6d/e72020003c294c5d8a8bf602448eb908.jpg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-74",
-      "product": "Even&Odd Wide FitSneakers laag - beige/green",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/07c7364d3ae84fe481f232e06c89a975/a97ff5a4bdfc46e5b3845bc55bcde4c9.jpg?imwidth=300&filter=packshot",
+      "id": "html-44",
+      "product": "New BalanceU2002 UNISEX - Sneakers laag - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b832205595544fd592a9f078bfa6c13b/aa74145c45a444c1ba6215aecb09451f.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-75",
-      "product": "Levi's®HIGH WAIST MOM JEAN - Mom jeans - bomb dot com",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cff179bce6043e9bb6e54aae01b0cac6/08df5cc590434720a4c4199aaaba2f25.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-76",
-      "product": "BirkenstockARIZONA BFBC STONEN - REGULAR - Sandalen - stone",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f67a6e8ac22842a1b8a91f2b827d8f80/48424cca0e8043b9aee472f1f7f410fc.png?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-77",
+      "id": "html-45",
       "product": "Anna FieldKlassieke pumps - black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0df0d8ecaf6e35d1827090d815990862/71810ef7dc1f4a539072a27bb646c87b.jpg?imwidth=300",
       "validFrom": "2026-06-08",
@@ -1062,31 +934,247 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-78",
-      "product": "adidas OriginalsSAMBA - Sneakers laag - core black/off white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/290cdc6e3dc34e689a07ae4892fd8d4d/31644815551b40d2bdee5495fa57538b.jpg?imwidth=300&filter=packshot",
+      "id": "html-46",
+      "product": "Nike SportswearZOOM VOMERO 5 - Sneakers laag - grey fog/off white/spruce aura/light pumice/summit white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/63b4f17a7f9446f4993c9df828c13c98/2591c0c19a88478b9b9a0bfdb0e35eba.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-80",
-      "product": "Even&OddT-shirt print - off white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8698be2b218247f896e9eb6d031e1637/aa1b153ed4ba42018d31a860c0a640ce.jpg?imwidth=300",
+      "id": "html-53",
+      "product": "PumaCARINA STREET - Sneakers laag - white/frosty pink/alpine snow",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f77d5e730f40484e8a9db9d49ae73447/cc1f9f2c3c1643c68b2eb61a01f74d0d.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-54",
+      "product": "Lauren Ralph Lauren Een stijlvolle zomer",
+      "imageUrl": "https://img01.ztat.net/ply/assets-landing-pages/production/images/s1qv9t7x9k9fuescbuhk/1778078604763_s1qv9t7x9k9fuescbuhk.jpeg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-55",
+      "product": "New BalanceM1000 UNISEX - Sneakers laag - slate grey/black/white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7da93692625b4edfa18a3bdd4e29849b/a1ae9bf9c68c42c893bba51cebdb6d82.png?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-56",
+      "product": "YOURTURN5PACK REGULAR FIT - T-shirt print - chocolate brown/moonbeam/bright white/true black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cb6f30586b2e44f39666d41e59698b40/18715a78cdf14f1a8f2abdc81256cb7e.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-57",
+      "product": "IT CosmeticsYOUR SKIN BUT BETTER CC+ CREAM SPF 50+ TRAVEL SIZE - CC cream - light",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/38f53e22510c43428e2b1fcdb8d32fc9/51bef2ca5392490cbd91490ce8cb392e.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-58",
+      "product": "LacosteNEO SHOT 225 - Sneakers laag - white/silver-coloured",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e98413f22e884ead9de0d73ddf3ceacc/100840f7e86e448c9eb923c9f6c2018c.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-59",
+      "product": "Marks & Spencer3PK  - Beugel BH - green mix",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/dcd77dc84c24448d821c3fe00de620b0/01f2ba8af6354e038ea521f9c3dda91e.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-60",
+      "product": "LeeSTELLA - Wide leg - take the hint",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ad21c38bab8b417c965cef8a1d59a4dc/3fab9762b0cd4e53bff67fc9757cc138.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-63",
+      "product": "PumaRS-X REINVENT - Sneakers laag - white/natural",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9d191ee41f70479c8bf8d5211a6011dd/7cddc8aebced4cc7a0d407f8d730c159.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-66",
+      "product": "adidas OriginalsCAMPUS - Sneakers laag - crystal white/core black/off white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c3e3c1e9f6b0440c886c12aed0d6a49b/ecb12224258847c1bacbfb05aca07b6f.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-67",
+      "product": "BirkenstockARIZONA RIVET LEVE NARROW - Sandalen - taupe",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1b060003e87041238803b3c43aee2b49/fbb2d674425d41a9a68e49eb694f59fb.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-69",
+      "product": "Anna FieldLEATHER - Sandalen met hoge hak - cognac",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a943310cdbd839f1999f988fd2e4cfb6/d4a812a3a247441088fe6d08c1005714.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-70",
+      "product": "Pier OneLEATHER UNISEX - Muiltjes - light blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cf36471fd82a4cf7b94d14b728362ff2/e540dc105bd64cf3b20fdfe6a575a149.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-72",
+      "product": "Valentino BagsMAIAM - Handtas - beige/light brown",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cc31675c8fac4dae9acfe2a9d54d607c/cdb17f4dd34c4a088667facad410ff3a.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-73",
+      "product": "KaffeKABPKAISEY - Jurk - grape leaf",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/be4788d6fceb39c9b2faf104b7d9181f/c0c12279ecfc4b9aa59980774ca3ab1a.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-74",
+      "product": "Karl KaniSIGNATURE MINI - Handtas - light blue",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0ec5087f940747c9bda2160e51d955bc/de3d965c3cde4afe86d3774adf76bb4d.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-75",
+      "product": "Anna Field Wide FitSandalen - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/382a2016fbb2412e945432a4b34fba51/74d2fd2447564596b7b0b1eb9192de51.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-76",
+      "product": "CHICCA BORSESchoudertas - nero",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4420e2e5ed9c42bb8d3a89dfa378c553/cdb90b370f494a3ba0a02cee68445a69.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-77",
+      "product": "adidas OriginalsSTRIPES CREW UNISEX 3 PACK - Sokken - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/abd06499df584a83879f925039d0db56/2549199b317a45d39b54254100e2bbaa.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-78",
+      "product": "DORINABeugel BH - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a408b9048658411ab656c47792346fcd/a8662c334a084c448186cd28b63f02dd.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-79",
+      "product": "New BalanceW574 - Sneakers laag - sea salt/phantom",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/79d563a7ead3484dbdb3495051ffd877/880a94975e7944f6a2674edeb755a5db.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-81",
+      "product": "Anna FieldEspadrilles - cognac",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5c30db2cab024efbbeb4c46df0ae5f25/5b9bed3320c14006bc25c97a87e5aa0f.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-82",
+      "product": "Anna FieldJerseyjurk - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/df8ae21ed26b48ed82e9a8298567d52f/01206b9004f6403f8318e6e0100575d7.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-84",
+      "product": "Anna FieldShopper - bordeaux",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/957c8facc2d64cceb1f874e2339b4231/d45fdad42de6426691689b0ddd21c53c.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-85",
-      "product": "Nike PerformanceUNISEX 6 PACK - Sportsokken - white/multi-coloured",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f146ed763236415cadf7ef39494add29/14700989f9ed4db0a6deabdef0120dae.jpg?imwidth=300&filter=packshot",
+      "product": "RitualsEXCLUSIVE LIMITED EDITION - MEDIUM BATH & BODY GIFT SET - THE RITUAL OF KARMA - LOTUS & WHITE TEA - Bad- & bodyset",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5e28550247fd498295d3376d3d0da14d/7dda6f2d45894e29ba6ca32796b6b085.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-86",
+      "product": "Valentino BagsALEXIA SUMMER - Handtas - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/13309a9bbedd4901b220a7f86753905d/cf50d364a35e4b92b494271093064e6c.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-87",
+      "product": "Anna Field Wide FitTeensandalen - light pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/76870ee3d71a481fa4451dfc16a76fb9/b61c94f55b69446f942e862aef623352.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-88",
+      "product": "RoxyOCEANSIDE PANT - Broek - duck green",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd9ffdd084bb3f9983db74d80781501c/fecdbe3645ff4015b16bd39b879e016e.jpg?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-89",
+      "product": "BirkenstockARIZONA BFBC STONEN - REGULAR - Sandalen - stone",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/f67a6e8ac22842a1b8a91f2b827d8f80/48424cca0e8043b9aee472f1f7f410fc.png?imwidth=300",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-90",
       "product": "NYX Professional MakeupTHE BROW GLUE INSTANT BROW STYLER  - Wenkbrauwgel - TRANSPARENT",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a0d5acb63bad4cf4afbe63d22e31b432/5a4c47ed456f479e8a68a3b48cf397b9.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -1094,25 +1182,9 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-88",
-      "product": "PumaSPEEDCAT OG UNISEX - Sneakers laag - all time red/white",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ea3ca9c6d1a54ef2a2a70ca950199790/316d382a97b24dd4afac3d9454493222.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-89",
-      "product": "K-WayLE VRAI EIFFEL EAST UNISEX - Regenjas - wmr green blackish",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/4434a0f1eead41b787e1619321781033/a18a0a0a95f243cabd2ef645c7934142.jpg?imwidth=300",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-90",
-      "product": "New BalanceWS327 - Sneakers laag - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd573ac877f44a0f9184df8a0190e472/a8b8e741b11e4edcad38b24492cef269.jpg?imwidth=300&filter=packshot",
+      "id": "html-91",
+      "product": "Anna FieldHandtas - black",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/35106d820fd34097b8ecded7dae38463/d063e93336754d3680350a1f37654df8.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
@@ -1127,62 +1199,38 @@
     },
     {
       "id": "html-93",
-      "product": "SkechersBOBS GEO - Sneakers laag - taupe",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/651862a57d2148dfb859a74e81b6d986/892dad809321489696be9f1372f54083.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-94",
-      "product": "New BalanceSneakers laag - metallic silver metallic silver",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e78df08ae6a84aa8a76ffa92e5b93524/e4b4a069439f49b2ac50eb0b8758ccf2.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-95",
-      "product": "ASICS SportStyleGEL-1130 UNISEX - Sneakers laag - black/pure silver",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2e195e30dea341a1a9548a59611a2e9d/87cb52329e544d87a3e7f0d7b94092ec.jpg?imwidth=300&filter=packshot",
+      "product": "PumaMAYZE CLASSIC - Sneakers laag - white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/66b299cf8d78436d9d1c2c8e92c92370/d837a0c98bdd44b1903b3e718569709f.jpg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-96",
-      "product": "ONLY TallFlared fit ONLTIGER Low waist Wide Leg - Flared Jeans - dark blue denim",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1aca23955afc49c4ad7a20cf1189737e/067d79c69b284ddeaec27605378710f4.jpg?imwidth=300",
+      "product": "Even&Odd Wide FitSneakers laag - beige/green",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/07c7364d3ae84fe481f232e06c89a975/a97ff5a4bdfc46e5b3845bc55bcde4c9.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-97",
-      "product": "Makeup RevolutionREVOLUTION RE-LOADED PALETTE - Oogschaduwpalet - basic mattes",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/74fe3ffdb0634a188f357f2835574535/072b5b08ffb34a74a62c64ccf45d8bde.jpg?imwidth=300&filter=packshot",
+      "product": "Anna FieldSandalen - light pink",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6dd44a3d2ee04e50a5023ac9e69565b8/bd2a95b139dc42bfbc8b7111689cf272.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-98",
-      "product": "Even&OddT-shirt print - dark grey",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/3f687a8dbfd94a188e6599ada9a37c16/8ee226e3bfda4f7dadd0c92c48188d3e.jpg?imwidth=300",
+      "product": "Anna FieldSneakers laag - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/cd53578087f949239f0014e45cd4d921/49aa97183f3c4ad6af275e0c689ebce3.png?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-99",
-      "product": "New BalanceU740 UNISEX - Sneakers laag - khaki",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/21e17c6907ae4450a5baf5f9ec6a513c/51a8a81af3834f32ae6812763f53d54b.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-100",
       "product": "Nike PerformanceNIKE PERFORMANCE WOMEN'S ROAD RUNNING SHOES RUN DEFY - Hardloopschoenen voor op de weg - white smoke grey black",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/5f44b4db1c2249eea02cb3beaf650db7/5e4ce46668494f12ad2b907084b09cf3.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -1190,49 +1238,57 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-100",
+      "product": "Nike SportswearAIR MAX MOTO 2K SE - Sneakers laag - white/hydrogen blue/metallic silver-coloured/midnight navy",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fe26704ba3f24446b5d8d8b27c492dc8/5c2673132e574d54b3729e44e70eae31.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-101",
-      "product": "VansOLD SKOOL UNISEX - Sneakers laag - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c3518d7afa003b199a26956595866440/75521bb5c184407ba00f35542b4c009f.jpg?imwidth=300",
+      "product": "Even&OddT-shirt print - off white",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8698be2b218247f896e9eb6d031e1637/aa1b153ed4ba42018d31a860c0a640ce.jpg?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-102",
-      "product": "YOURTURNREGULAR FIT - T-shirt print - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/91fd74860e724901bad2266f6a720d75/7108d3034d234867b12aa81b01545517.jpg?imwidth=300",
+      "product": "Valentino BagsRE - Handtas - beige",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ebb897fcfe2e49308fdf51cb1ad79c2a/9ddbe4ecbad34bcc896a6b48fce4fc3a.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-103",
-      "product": "Nike SportswearAIR MAX 90 PRINT - Sneakers laag - white/black/sanddrift/hemp",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c485a55f997b42ed8b316f2df09d4461/7258b567cb254e4e885f4b67982c7401.jpg?imwidth=300&filter=packshot",
+      "product": "Makeup RevolutionREVOLUTION RE-LOADED PALETTE - Oogschaduwpalet - basic mattes",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/74fe3ffdb0634a188f357f2835574535/072b5b08ffb34a74a62c64ccf45d8bde.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-104",
-      "product": "CasioF-91WS-4EF - Digitaal horloge - rosa",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/361061943e21457b85bdeb82fa11dff9/c768bd51069d4a3facffd33d29bfdffb.jpg?imwidth=300&filter=packshot",
+      "product": "adidas OriginalsUNISEX 10 PACK - Sokken - silver green/glow pink/semi flash aqua",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e6ec1bda6888449bb7a0ea692bd3d721/0f66d8682495450abe99cadc339db8fb.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-105",
-      "product": "adidas OriginalsCREW UNISEX 6 PACK - Sokken - earth strata/putty grey/ivory",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9c36967ef0454ce58edc56d88eb27a0d/3f7494f9ca89478fba504231d71c289e.jpg?imwidth=300&filter=packshot",
+      "product": "BirkenstockARIZONA BF GOLDS - NARROW - Sandalen - gold",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/123fe8d825ac4161b8c77dce4e601eac/1e3b9d8f88b845e8940711fe68e6710f.png?imwidth=300",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-106",
-      "product": "Even&OddBEACH COVER-UP - Strandaccessoire - black",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fbe5d69c6ac44343ab9fcfbe895f1899/bd80186b27854c8699413edc2e1409f0.jpg?imwidth=300",
+      "product": "Nike SportswearCORTEZ - Sneakers laag - metallic silver-coloured/white/grey fog",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6292291f5401408ab218469868b067c4/d7590358be2c4195bc6c8a5cd104b2cf.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
@@ -1247,14 +1303,6 @@
     },
     {
       "id": "html-108",
-      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC15",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/021e76888d054d989556cf447336e1d8/6b42490c9bec4d45a0823b806fae49fb.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-109",
       "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC45",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/81ae3d00e4d74566a38e3e9b4d19c7d6/e39d862b1bf242a0aa7d482eb3a7f719.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -1262,7 +1310,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-110",
+      "id": "html-109",
       "product": "MACSTUDIO FIX FLUID SPF 15 - Foundation - nc17",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/bdecf9de82b645b49078d13020c9903f/56774324ccaf4546b474ee13d0780299.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -1270,23 +1318,7 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-111",
-      "product": "MACSTUDIO FIX FLUID SPF 15 - Foundation - nc30",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/af986970eb91400fa70d94d8c0ef5413/e804e498c65747bd9dccdc9a12b58a23.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-112",
-      "product": "MACSTUDIO FIX FLUID SPF 15 - Foundation - nc42",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a9fffb1323bf421e80d9fdefcd64c7fc/2ea8931e5ef142ada389d8b42366a96b.jpg?imwidth=300&filter=packshot",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "zalando"
-    },
-    {
-      "id": "html-113",
+      "id": "html-110",
       "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - N4",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fc098ed65ce046b7801a9b479d99d100/23eafd6a7ac14975a63857a3f3088bae.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -1294,15 +1326,23 @@
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-114",
-      "product": "MACSTUDIO FIX 36HR SMOOTH ANGLES CONCEALER - Concealer - nc42",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/265ef00f13d44b1ea4d936bf9dbb92db/d5222052ad184ec99f90a769f16888b9.jpg?imwidth=300&filter=packshot",
+      "id": "html-111",
+      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC15",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/021e76888d054d989556cf447336e1d8/6b42490c9bec4d45a0823b806fae49fb.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
-      "id": "html-115",
+      "id": "html-112",
+      "product": "MACSTUDIO FIX FLUID SPF 15 - Foundation - nc10",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7fa320f8819848e3a976d40656883fc1/1850dda735c34e56880b81d7db689835.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-113",
       "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC5",
       "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0a96326346db42b9bbb0eceeee85b90a/a13ed8484a864e88a47a4cb7d225db51.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
@@ -1310,55 +1350,71 @@
       "retailerSlug": "zalando"
     },
     {
+      "id": "html-114",
+      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC47",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a3d903dbb6f04c8e8cf071bfd856bd6d/f2c7919493bf4580a7a339934f5bc390.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
+      "id": "html-115",
+      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC12",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fcd12db8febd489cadca781265970679/95da0ddbc9374c1d922b9efc9c275327.jpg?imwidth=300&filter=packshot",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "zalando"
+    },
+    {
       "id": "html-116",
-      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NW53",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d7848dd99a91491e9e03a3e8c6de831a/a040727910c1428eb8cfab100ed7b396.jpg?imwidth=300&filter=packshot",
+      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NW20",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/fcca069e290a4d52bdfc9f81d87d788b/21bc58c7687643688a5b3c278b1375d7.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-117",
-      "product": "MACSTUDIO FIX 36HR SMOOTH ANGLES CONCEALER - Concealer - nw30",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/0df0c8ecd84641f9824da109990b48db/c2dde4b4aa0b46c68aa561b5cac56647.jpg?imwidth=300&filter=packshot",
+      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - C4.5",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/e8977c34f6b84539a974c690668ff4e0/cd9a9c88a3f44697a5774bf83080d058.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-118",
-      "product": "MACSTUDIO FIX 36HR SMOOTH ANGLES CONCEALER - Concealer - nc40",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/76089fb4e85f4c7dac6734459d74a06e/bf53d2505fae4d16a031ef6bcf2abab7.jpg?imwidth=300&filter=packshot",
+      "product": "MACSTUDIO FIX 36HR SMOOTH ANGLES CONCEALER - Concealer - nc42",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/265ef00f13d44b1ea4d936bf9dbb92db/d5222052ad184ec99f90a769f16888b9.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-119",
-      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC65",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/816f6902642a49efa5ee20e8314e1fb0/fa87cc7bfa454141af5afc1c6542a986.jpg?imwidth=300&filter=packshot",
+      "product": "MACSTUDIO FIX FLUID SPF 15 - Foundation - nw13",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a973c95bc4644e8d95fcf91308853b4a/6f23974115d849a58b211fbbfff004c2.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-120",
-      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NW60",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8cbd150b5ec24b87a1fdf4dd5e51a7b9/48d6e915e13844ae9b494f0db695f5b1.jpg?imwidth=300&filter=packshot",
+      "product": "MACSTUDIO FIX POWDER PLUS FOUNDATION - Foundation - NC16",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6c180a45a59e4a46b0672ed42fd2baa8/7b8921d0b82d41a38d25cab5346107d3.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     },
     {
       "id": "html-121",
-      "product": "MACSTUDIO FIX FLUID SPF 15 - Foundation - nw13",
-      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/a973c95bc4644e8d95fcf91308853b4a/6f23974115d849a58b211fbbfff004c2.jpg?imwidth=300&filter=packshot",
+      "product": "MACSTUDIO FIX 36HR SMOOTH ANGLES CONCEALER - Concealer - nc40",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/76089fb4e85f4c7dac6734459d74a06e/bf53d2505fae4d16a031ef6bcf2abab7.jpg?imwidth=300&filter=packshot",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "zalando"
     }
   ],
-  "scrapedAt": "2026-06-10T18:03:12.124Z",
+  "scrapedAt": "2026-06-11T09:20:03.499Z",
   "sourceUrls": [
     "https://www.zalando.be/promo/"
   ],

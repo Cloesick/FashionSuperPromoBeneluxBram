@@ -73,7 +73,7 @@
       ],
       "embedUrl": "https://be.publications.action.com/?publitas_embed=embedded",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-10T08:51:01.946Z"
+      "scrapedAt": "2026-06-11T09:18:33.958Z"
     }
   ],
   "deals": [
@@ -207,6 +207,14 @@
     },
     {
       "id": "pagetext-16",
+      "product": "Duikspel5-delig | diverse varianten/st149Weekactie",
+      "promoPrice": 1.49,
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "action"
+    },
+    {
+      "id": "pagetext-17",
       "product": "The Beauty Dept. over make-up zonnebrandspraySPF 50 | 75 ml/l249Weekactie",
       "promoPrice": 33.2,
       "validFrom": "2026-06-08",
@@ -214,7 +222,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-17",
+      "id": "pagetext-18",
       "product": "Tokimeki panda koekjes Matcha100 gram/kg129Weekactie",
       "promoPrice": 12.9,
       "validFrom": "2026-06-08",
@@ -222,7 +230,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-18",
+      "id": "pagetext-19",
       "product": "Q-Brand Mochi mico mochi Matcha80 gram/kg129Weekactie",
       "promoPrice": 16.13,
       "validFrom": "2026-06-08",
@@ -230,7 +238,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-19",
+      "id": "pagetext-20",
       "product": "OptiSmile mondverzorgingsset5-delig | diverse kleuren/st129Weekactie",
       "promoPrice": 1.29,
       "validFrom": "2026-06-08",
@@ -238,7 +246,7 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-20",
+      "id": "pagetext-21",
       "product": "Haar kristallen36 stuks | diverse varianten/st079Weekactie",
       "promoPrice": 0.79,
       "validFrom": "2026-06-08",
@@ -246,23 +254,15 @@
       "retailerSlug": "action"
     },
     {
-      "id": "pagetext-21",
+      "id": "pagetext-22",
       "product": "Pikante sauzen3 stuks | 3 x 150 ml/l249Weekactie",
       "promoPrice": 5.53,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "action"
-    },
-    {
-      "id": "pagetext-22",
-      "product": "The Beauty Dept. zelfbruiner foam Kokosnoot200 ml | diverse varianten/l249Weekactie",
-      "promoPrice": 12.45,
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "action"
     }
   ],
-  "scrapedAt": "2026-06-10T08:51:07.003Z",
+  "scrapedAt": "2026-06-11T09:18:39.505Z",
   "sourceUrls": [
     "https://www.action.com/nl-be/folder/",
     "https://be.publications.action.com/?publitas_embed=embedded"
