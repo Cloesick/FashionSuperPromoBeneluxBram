@@ -212,9 +212,9 @@
         }
       ],
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/89f06e01-e335-47e1-9b4d-09675e0edadc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/c9e5d516-b9cf-4004-a4bb-5e850864a0bc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-11T09:09:49.012Z"
+      "scrapedAt": "2026-06-11T18:01:48.606Z"
     }
   ],
   "deals": [
@@ -239,7 +239,8 @@
     {
       "id": "html-15",
       "product": "Snoeischaar",
-      "promoPrice": 1.99,
+      "originalPrice": 3.99,
+      "promoPrice": 3.99501,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
@@ -262,7 +263,7 @@
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-11T09:10:06.746Z",
+  "scrapedAt": "2026-06-11T18:02:06.576Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-08-06-13-06"

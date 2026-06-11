@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T09:20:05.802Z",
+  "generatedAt": "2026-06-11T18:12:13.089Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-11T09:10:06.746Z",
+      "scrapedAt": "2026-06-11T18:02:06.576Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -47,7 +47,7 @@
           "live": true
         },
         {
-          "url": "https://folder-nl.lidl.be/97031/3109438/pdfs/89f06e01-e335-47e1-9b4d-09675e0edadc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
+          "url": "https://folder-nl.lidl.be/97031/3109438/pdfs/c9e5d516-b9cf-4004-a4bb-5e850864a0bc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
           "status": 200,
           "live": true
         }
@@ -143,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-11T09:19:25.566Z",
+      "scrapedAt": "2026-06-11T18:11:35.551Z",
       "folderCount": 1,
-      "dealCount": 13,
+      "dealCount": 10,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-11T09:20:03.499Z",
+      "scrapedAt": "2026-06-11T18:12:10.661Z",
       "folderCount": 1,
-      "dealCount": 174,
+      "dealCount": 168,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

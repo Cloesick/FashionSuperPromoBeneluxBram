@@ -17,20 +17,12 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-11T09:19:01.897Z"
+      "scrapedAt": "2026-06-11T18:11:15.654Z"
     }
   ],
   "deals": [
     {
       "id": "html-10",
-      "product": "Push-up bikinitop",
-      "imageUrl": "https://image.hm.com/assets/hm/30/a9/30a9ad901c1315c86f4c5cd5db07f442410ee78c.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-11",
       "product": "Katoenen T-shirt",
       "imageUrl": "https://image.hm.com/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg?imwidth=360",
       "validFrom": "2026-06-08",
@@ -38,15 +30,15 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-12",
-      "product": "Cheeky bikinislip",
-      "imageUrl": "https://image.hm.com/assets/hm/4c/7f/4c7f20d161aed881a38ae66c83fdc2589a4bfd29.jpg?imwidth=360",
+      "id": "html-11",
+      "product": "Push-up bikinitop",
+      "imageUrl": "https://image.hm.com/assets/hm/30/a9/30a9ad901c1315c86f4c5cd5db07f442410ee78c.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
-      "id": "html-13",
+      "id": "html-12",
       "product": "Geribde tanktop",
       "imageUrl": "https://image.hm.com/assets/hm/9d/2c/9d2ca2fa04e3c692c37d78c02242a31cb7f52ecd.jpg?imwidth=360",
       "validFrom": "2026-06-08",
@@ -54,15 +46,37 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-16",
+      "id": "html-13",
+      "product": "Cheeky bikinislip",
+      "imageUrl": "https://image.hm.com/assets/hm/4c/7f/4c7f20d161aed881a38ae66c83fdc2589a4bfd29.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-15",
       "product": "Short met broderie anglaise",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
+      "id": "html-16",
+      "product": "Doorknoopjurk met striklint",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-17",
+      "product": "Korte strandjurk",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-18",
-      "product": "Fijngebreide one-shouldertop",
+      "product": "Strandkaftan van mousselinekatoen",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
@@ -76,54 +90,17 @@
     },
     {
       "id": "html-20",
-      "product": "Korte strandjurk",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-21",
-      "product": "Boxy T-shirt",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Zwemshort",
-      "imageUrl": "https://image.hm.com/assets/hm/77/35/7735896710ed1b9a28642c59516ed9701b07a7b1.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-24",
-      "product": "Zwemslip",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-27",
-      "product": "Short van linnenmix Regular Fit",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-28",
-      "product": "Sweatshort Regular Fit",
+      "product": "Fijngebreide one-shouldertop",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-11T09:19:25.566Z",
+  "scrapedAt": "2026-06-11T18:11:35.551Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
   "methods": [
-    "html",
     "screenshot"
   ]
 }
