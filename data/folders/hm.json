@@ -17,138 +17,105 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-12T09:06:09.604Z"
+      "scrapedAt": "2026-06-12T17:42:19.254Z"
     }
   ],
   "deals": [
     {
-      "id": "html-10",
-      "product": "Push-up bikinitop",
-      "imageUrl": "https://image.hm.com/assets/hm/30/a9/30a9ad901c1315c86f4c5cd5db07f442410ee78c.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-11",
-      "product": "Cheeky bikinislip",
-      "imageUrl": "https://image.hm.com/assets/hm/4c/7f/4c7f20d161aed881a38ae66c83fdc2589a4bfd29.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-12",
-      "product": "Katoenen T-shirt",
-      "imageUrl": "https://image.hm.com/assets/hm/e4/af/e4af2eae840fddf244b30cb264ef4bf04e5c45b6.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-13",
-      "product": "Strandkaftan van mousselinekatoen",
-      "imageUrl": "https://image.hm.com/assets/hm/a1/95/a195f8d9ebb7b20370ad837d5e09e5be62ba3b8b.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-14",
-      "product": "Short met broderie anglaise",
-      "imageUrl": "https://image.hm.com/assets/hm/d0/fe/d0fe2db8c69d35320bfc160287fa74e9ed5f15b9.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-15",
-      "product": "Geribde tanktop",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-16",
-      "product": "Doorknoopjurk met striklint",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Strandbloes met broderie anglaise",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-18",
-      "product": "Bikinitop met padding",
+      "product": "One-shoulderbadpak met cups met padding",
+      "imageUrl": "https://image.hm.com/assets/hm/cd/c3/cdc36e71f2adf2a1e776d8714ecf2da3320af782.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-19",
+      "product": "Bandeaujurk met smokwerk",
+      "imageUrl": "https://image.hm.com/assets/hm/74/5f/745ff09851da775ccef28b8b968929819db4f3cb.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-20",
-      "product": "Fijngebreide one-shouldertop",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Polo Slim Fit",
-      "imageUrl": "https://image.hm.com/assets/hm/11/70/1170f6be3be41dd4fdfedf651e24468c52e68a77.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-18",
-      "product": "T-shirt Relaxed Fit",
-      "imageUrl": "https://image.hm.com/assets/hm/d9/c5/d9c52e783cfbb4efd21a0b4ee3b9a30f38e61444.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-20",
-      "product": "T-shirt Slim Fit",
-      "imageUrl": "https://image.hm.com/assets/hm/d1/fa/d1fa8e83e78457eac59d8e65671f31a962b84d50.jpg?imwidth=360",
+      "product": "Top met gehaakte look",
+      "imageUrl": "https://image.hm.com/assets/hm/77/12/7712e6fa3c74b2636e770ec250d3259ee6a11387.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-21",
-      "product": "T-shirt Regular Fit",
-      "imageUrl": "https://image.hm.com/assets/hm/9b/4f/9b4f8ef64a89a4e89084bec1915b3d7ba4608be8.jpg?imwidth=360",
+      "product": "Crinklerok met trekkoord",
+      "imageUrl": "https://image.hm.com/assets/hm/fc/e8/fce81dc83f0c5d28870f9df1bb0751fdc219a998.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "Wijde geklede broek",
+      "imageUrl": "https://image.hm.com/assets/hm/bf/9a/bf9ab5f25f80a7612a04526f18ec042f1bbd6a34.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
+      "product": "Halterjurk met trekkoord",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-24",
+      "product": "Ajourgebreide top met volants",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-25",
-      "product": "Sweatshort Regular Fit",
+      "product": "Handtas met kralen",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-26",
+      "product": "Push-up bikinitop",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-27",
-      "product": "Casual hemd Relaxed Fit",
+      "product": "Cheeky bikinislip",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-28",
+      "product": "Strandkaftan van mousselinekatoen",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-29",
+      "product": "Katoenen T-shirt",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-12T09:06:29.618Z",
+  "scrapedAt": "2026-06-12T17:42:39.698Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
   "methods": [
-    "html",
     "screenshot"
   ]
 }
