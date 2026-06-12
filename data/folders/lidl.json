@@ -212,9 +212,9 @@
         }
       ],
       "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/c9e5d516-b9cf-4004-a4bb-5e850864a0bc.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/133cb5c3-a022-4463-920e-852b0914b02d.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-11T18:01:48.606Z"
+      "scrapedAt": "2026-06-12T08:56:59.107Z"
     }
   ],
   "deals": [
@@ -238,15 +238,6 @@
     },
     {
       "id": "html-15",
-      "product": "Snoeischaar",
-      "originalPrice": 3.99,
-      "promoPrice": 3.99501,
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "lidl"
-    },
-    {
-      "id": "html-22",
       "product": "Loungeset, 4-delig",
       "originalPrice": 119.99,
       "promoPrice": 119.994169,
@@ -255,15 +246,25 @@
       "retailerSlug": "lidl"
     },
     {
+      "id": "html-22",
+      "product": "Snoeischaar",
+      "originalPrice": 3.99,
+      "promoPrice": 3.99501,
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "lidl"
+    },
+    {
       "id": "html-29",
-      "product": "Accugrastrimmer 20 V PARKSIDE® PRTA20",
-      "promoPrice": 29.99,
+      "product": "Accu gras- en heggenschaar 4 V PARKSIDE® PGSA4",
+      "originalPrice": 19.99,
+      "promoPrice": 19.99509,
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-11T18:02:06.576Z",
+  "scrapedAt": "2026-06-12T08:57:16.014Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
     "https://folder-nl.lidl.be/nl-folder-08-06-13-06"
