@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T17:43:16.176Z",
+  "generatedAt": "2026-06-13T08:23:19.907Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -7,7 +7,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-12T17:26:52.222Z",
+      "scrapedAt": "2026-06-13T08:07:20.651Z",
       "folderCount": 1,
       "dealCount": 70,
       "hasEmbed": true,
@@ -16,12 +16,12 @@
       "validationIssues": [],
       "probeResults": [
         {
-          "url": "https://view.publitas.com/ah/bonus-week-25-2026/page/1?publitas_embed=embedded",
+          "url": "https://view.publitas.com/ah/bonus-week-24-2026/page/1?publitas_embed=embedded",
           "status": 200,
           "live": true
         },
         {
-          "url": "https://view.publitas.com/126/3139376/pdfs/7fa57f22-e203-440d-9f28-a3aa045f742b.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-25-2026.pdf",
+          "url": "https://view.publitas.com/126/3117615/pdfs/1e290ebe-8fca-4b40-81a9-d4ea2b186957.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27AH%2520-%2520Bonus-week-24-2026.pdf",
           "status": 200,
           "live": true
         }
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-12T17:33:17.335Z",
+      "scrapedAt": "2026-06-13T08:13:45.088Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-12T17:39:42.484Z",
+      "scrapedAt": "2026-06-13T08:19:59.066Z",
       "folderCount": 1,
       "dealCount": 1,
       "hasEmbed": true,
@@ -84,7 +84,7 @@
       "name": "Colruyt",
       "status": "stale",
       "attempts": 4,
-      "dataAge": "59d",
+      "dataAge": "60d",
       "scrapedAt": "2026-04-14T13:25:36.190Z",
       "folderCount": 1,
       "dealCount": 0,
@@ -143,7 +143,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-12T17:42:39.698Z",
+      "scrapedAt": "2026-06-13T08:22:44.789Z",
       "folderCount": 1,
       "dealCount": 12,
       "hasEmbed": false,
@@ -158,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-12T17:43:13.363Z",
+      "scrapedAt": "2026-06-13T08:23:18.028Z",
       "folderCount": 1,
-      "dealCount": 165,
+      "dealCount": 178,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-12T17:42:19.254Z"
+      "scrapedAt": "2026-06-13T08:22:24.596Z"
     }
   ],
   "deals": [
@@ -55,15 +55,15 @@
     },
     {
       "id": "html-22",
-      "product": "Wijde geklede broek",
-      "imageUrl": "https://image.hm.com/assets/hm/bf/9a/bf9ab5f25f80a7612a04526f18ec042f1bbd6a34.jpg?imwidth=360",
+      "product": "Halterjurk met trekkoord",
+      "imageUrl": "https://image.hm.com/assets/hm/95/c4/95c4bd927c5db7271733543409153bc9d9a62004.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Halterjurk met trekkoord",
+      "product": "Wijde geklede broek",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
@@ -98,7 +98,7 @@
     },
     {
       "id": "html-28",
-      "product": "Strandkaftan van mousselinekatoen",
+      "product": "Pull-on broek met dubbele tailleband",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
@@ -111,7 +111,7 @@
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-12T17:42:39.698Z",
+  "scrapedAt": "2026-06-13T08:22:44.789Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
