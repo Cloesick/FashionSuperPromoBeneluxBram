@@ -214,33 +214,28 @@
       "embedUrl": "https://view.publitas.com/delhaize-belgium-nl/w24-2026-nl/page/1?publitas_embed=embedded",
       "pdfUrl": "https://view.publitas.com/11013/3139425/pdfs/513aaa73-fdc2-44d4-b752-3fc2ed5854b7.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Delhaize%2520Belgium%2520NL%2520-%2520W24-2026-NL.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-13T08:19:20.745Z"
+      "scrapedAt": "2026-06-13T16:14:22.840Z"
     }
   ],
   "deals": [
     {
       "id": "jsonld-0",
-      "product": "Frambozen",
-      "description": "Frambozen zijn sappig, zoet en egaal van kleur en heerlijk om uit de hand te eten.",
+      "product": "Druiven | Wit | Zonder pit | Verpakt",
+      "description": "Witte druiven hebben een hogere zuurgraad, wat zorgt voor een frisse en lichte smaak.",
       "imageUrl": [
-        "https://static.delhaize.be/medias/sys_master/products/h09/h53/13756526231582.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/ha9/hcb/13756526690334.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h52/h68/13756526559262.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/hbe/h13/13756526624798.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h09/h53/13756526231582.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h48/h19/13756526821406.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/hf8/h84/13778641485854.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h54/h63/13756526952478.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h82/hc6/13756526886942.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h48/h19/13756526821406.jpg",
-        "https://static.delhaize.be/medias/sys_master/products/h87/h89/13756526493726.jpg"
+        "https://static.delhaize.be/medias/sys_master/products/h2d/h41/13234442862622.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hea/hbd/13234443321374.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hcf/ha4/13234443190302.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hef/h15/13234443255838.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/h2d/h41/13234442862622.jpg",
+        "https://static.delhaize.be/medias/sys_master/products/hc8/h7b/13234443124766.jpg"
       ],
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "delhaize"
     }
   ],
-  "scrapedAt": "2026-06-13T08:19:59.066Z",
+  "scrapedAt": "2026-06-13T16:15:00.159Z",
   "sourceUrls": [
     "https://www.delhaize.be/nl/folder"
   ],
