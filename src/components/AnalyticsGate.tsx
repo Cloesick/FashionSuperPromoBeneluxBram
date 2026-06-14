@@ -54,7 +54,8 @@ export function AnalyticsGate() {
 
 	if (!enabled) return null;
 
-	const gaId = process.env.NEXT_PUBLIC_GA4_ID;
+	// Baked per-site default (public GA4 id); env NEXT_PUBLIC_GA4_ID overrides if set.
+	const gaId = process.env.NEXT_PUBLIC_GA4_ID || "G-K44Y324FHW";
 	const adsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
 	const gtagId = gaId || adsId;
 
