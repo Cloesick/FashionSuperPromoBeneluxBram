@@ -211,10 +211,10 @@
           "deals": []
         }
       ],
-      "embedUrl": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
-      "pdfUrl": "https://folder-nl.lidl.be/97031/3109438/pdfs/0c4ca01a-ed61-4209-acdd-53377a047ebf.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
+      "embedUrl": "https://folder-nl.lidl.be/nl-folder-15-06-20-06/page/1",
+      "pdfUrl": "https://folder-nl.lidl.be/97031/3126387/pdfs/b62c590e-d4f0-4153-832c-eb922b232fc1.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252015-06-20-06.pdf",
       "contentSource": "publitas",
-      "scrapedAt": "2026-06-13T08:13:27.863Z"
+      "scrapedAt": "2026-06-14T08:42:08.079Z"
     }
   ],
   "deals": [
@@ -240,14 +240,16 @@
     },
     {
       "id": "html-16",
-      "product": "Accu 20 V, 4 Ah PARKSIDE® PAP204",
-      "promoPrice": 27.99,
+      "product": "Bladloze tafelventilator",
+      "originalPrice": 19.99,
+      "promoPrice": 19.99509,
+      "discount": "Ook in de winkel van 10/06 - 23/06",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-23",
+      "id": "html-24",
       "product": "Loungeset, 4-delig",
       "originalPrice": 119.99,
       "promoPrice": 119.994169,
@@ -256,7 +258,7 @@
       "retailerSlug": "lidl"
     },
     {
-      "id": "html-30",
+      "id": "html-31",
       "product": "Snoeischaar",
       "originalPrice": 3.99,
       "promoPrice": 3.99501,
@@ -265,10 +267,10 @@
       "retailerSlug": "lidl"
     }
   ],
-  "scrapedAt": "2026-06-13T08:13:45.088Z",
+  "scrapedAt": "2026-06-14T08:42:25.319Z",
   "sourceUrls": [
     "https://www.lidl.be/c/nl-BE/folders-magazines/s10008101",
-    "https://folder-nl.lidl.be/nl-folder-08-06-13-06"
+    "https://folder-nl.lidl.be/nl-folder-15-06-20-06/page/1"
   ],
   "methods": [
     "publitas",

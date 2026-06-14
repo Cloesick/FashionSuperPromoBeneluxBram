@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:18:35.854Z",
+  "generatedAt": "2026-06-14T08:52:30.984Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -7,7 +7,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-13T08:07:20.651Z",
+      "scrapedAt": "2026-06-14T08:36:00.383Z",
       "folderCount": 1,
       "dealCount": 70,
       "hasEmbed": true,
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-13T08:13:45.088Z",
+      "scrapedAt": "2026-06-14T08:42:25.319Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -42,12 +42,12 @@
       "validationIssues": [],
       "probeResults": [
         {
-          "url": "https://folder-nl.lidl.be/nl-folder-08-06-13-06",
+          "url": "https://folder-nl.lidl.be/nl-folder-15-06-20-06/page/1",
           "status": 200,
           "live": true
         },
         {
-          "url": "https://folder-nl.lidl.be/97031/3109438/pdfs/0c4ca01a-ed61-4209-acdd-53377a047ebf.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252008-06-13-06.pdf",
+          "url": "https://folder-nl.lidl.be/97031/3126387/pdfs/b62c590e-d4f0-4153-832c-eb922b232fc1.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252015-06-20-06.pdf",
           "status": 200,
           "live": true
         }
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-13T16:15:00.159Z",
+      "scrapedAt": "2026-06-14T08:48:49.111Z",
       "folderCount": 1,
       "dealCount": 1,
       "hasEmbed": true,
@@ -84,7 +84,7 @@
       "name": "Colruyt",
       "status": "stale",
       "attempts": 4,
-      "dataAge": "60d",
+      "dataAge": "61d",
       "scrapedAt": "2026-04-14T13:25:36.190Z",
       "folderCount": 1,
       "dealCount": 0,
@@ -101,20 +101,14 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-08T09:30:49.758Z",
+      "scrapedAt": "2026-06-14T08:49:56.545Z",
       "folderCount": 1,
       "dealCount": 0,
-      "hasEmbed": true,
+      "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
       "validationIssues": [],
-      "probeResults": [
-        {
-          "url": "https://cdn.ipaper.io/flipbooks/api/v3/latest.js",
-          "status": 200,
-          "live": true
-        }
-      ]
+      "probeResults": []
     },
     {
       "slug": "action",
@@ -143,9 +137,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-13T16:17:58.838Z",
+      "scrapedAt": "2026-06-14T08:51:54.018Z",
       "folderCount": 1,
-      "dealCount": 14,
+      "dealCount": 18,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -158,9 +152,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-13T16:18:32.954Z",
+      "scrapedAt": "2026-06-14T08:52:28.048Z",
       "folderCount": 1,
-      "dealCount": 165,
+      "dealCount": 164,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

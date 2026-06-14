@@ -17,20 +17,12 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-13T16:17:37.672Z"
+      "scrapedAt": "2026-06-14T08:51:33.621Z"
     }
   ],
   "deals": [
     {
       "id": "html-18",
-      "product": "Bandeaujurk met smokwerk",
-      "imageUrl": "https://image.hm.com/assets/hm/74/5f/745ff09851da775ccef28b8b968929819db4f3cb.jpg?imwidth=360",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-19",
       "product": "One-shoulderbadpak met cups met padding",
       "imageUrl": "https://image.hm.com/assets/hm/cd/c3/cdc36e71f2adf2a1e776d8714ecf2da3320af782.jpg?imwidth=360",
       "validFrom": "2026-06-08",
@@ -38,7 +30,7 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-20",
+      "id": "html-19",
       "product": "Halterjurk met trekkoord",
       "imageUrl": "https://image.hm.com/assets/hm/95/c4/95c4bd927c5db7271733543409153bc9d9a62004.jpg?imwidth=360",
       "validFrom": "2026-06-08",
@@ -46,9 +38,17 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-21",
+      "id": "html-20",
       "product": "Top met gehaakte look",
       "imageUrl": "https://image.hm.com/assets/hm/77/12/7712e6fa3c74b2636e770ec250d3259ee6a11387.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-21",
+      "product": "Wijde geklede broek",
+      "imageUrl": "https://image.hm.com/assets/hm/bf/9a/bf9ab5f25f80a7612a04526f18ec042f1bbd6a34.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
@@ -64,69 +64,99 @@
     {
       "id": "html-23",
       "product": "Crinklerok met trekkoord",
+      "imageUrl": "https://image.hm.com/assets/hm/fc/e8/fce81dc83f0c5d28870f9df1bb0751fdc219a998.jpg?imwidth=360",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-24",
-      "product": "Wijde geklede broek",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-25",
       "product": "Ajourgebreide top met volants",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
+      "id": "html-25",
+      "product": "Bandeaujurk met smokwerk",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-26",
-      "product": "Cheeky bikinislip",
+      "product": "Katoenen T-shirt",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-27",
-      "product": "Pull-on broek met dubbele tailleband",
+      "product": "Cheeky bikinislip",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-28",
-      "product": "Push-up bikinitop",
+      "product": "Strandkaftan van mousselinekatoen",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-29",
-      "product": "Geribde tanktop",
+      "product": "Pull-on broek met dubbele tailleband",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-17",
-      "product": "Zwemshort",
-      "imageUrl": "https://image.hm.com/assets/hm/8d/0d/8d0d8a026442ae3862378ac43f1597e3f570a5f7.jpg?imwidth=360",
+      "product": "Casual hemd Relaxed Fit",
+      "imageUrl": "https://image.hm.com/assets/hm/65/8b/658b5630bd1c416fd6a0ada1047b7c31565782de.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-18",
+      "product": "Broek Relaxed Fit",
+      "imageUrl": "https://image.hm.com/assets/hm/71/fd/71fd6de85e5a3fe1637c3e95eb6b99a7a0b28c13.jpg?imwidth=360",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-22",
+      "product": "T-shirt Regular Fit",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     },
     {
       "id": "html-23",
-      "product": "Zwemslip",
+      "product": "Polo Relaxed Fit",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-24",
+      "product": "Casual hemd met print Relaxed Fit",
+      "validFrom": "2026-06-08",
+      "validUntil": "2026-06-14",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-26",
+      "product": "Hemd van linnenmix Relaxed Fit",
       "validFrom": "2026-06-08",
       "validUntil": "2026-06-14",
       "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-13T16:17:58.838Z",
+  "scrapedAt": "2026-06-14T08:51:54.018Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
