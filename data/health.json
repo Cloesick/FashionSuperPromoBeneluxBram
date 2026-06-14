@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T08:52:30.984Z",
+  "generatedAt": "2026-06-14T16:25:10.623Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -101,14 +101,20 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-14T08:49:56.545Z",
+      "scrapedAt": "2026-06-14T16:22:52.579Z",
       "folderCount": 1,
       "dealCount": 0,
-      "hasEmbed": false,
+      "hasEmbed": true,
       "hasPdf": false,
       "hasPages": true,
       "validationIssues": [],
-      "probeResults": []
+      "probeResults": [
+        {
+          "url": "https://cdn.ipaper.io/flipbooks/api/v3/latest.js",
+          "status": 200,
+          "live": true
+        }
+      ]
     },
     {
       "slug": "action",
@@ -137,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-14T08:51:54.018Z",
+      "scrapedAt": "2026-06-14T16:24:34.194Z",
       "folderCount": 1,
-      "dealCount": 18,
+      "dealCount": 15,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -152,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-14T08:52:28.048Z",
+      "scrapedAt": "2026-06-14T16:25:08.207Z",
       "folderCount": 1,
-      "dealCount": 164,
+      "dealCount": 160,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
