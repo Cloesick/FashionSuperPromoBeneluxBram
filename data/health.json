@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T11:06:29.385Z",
+  "generatedAt": "2026-06-15T19:11:31.905Z",
   "retailers": [
     {
       "slug": "albert-heijn",
@@ -33,7 +33,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-15T10:56:53.620Z",
+      "scrapedAt": "2026-06-15T19:01:46.780Z",
       "folderCount": 1,
       "dealCount": 5,
       "hasEmbed": true,
@@ -47,7 +47,7 @@
           "live": true
         },
         {
-          "url": "https://folder-nl.lidl.be/97031/3126387/pdfs/7612b491-2e6c-4a52-8e0b-6bafcbdf63a3.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252015-06-20-06.pdf",
+          "url": "https://folder-nl.lidl.be/97031/3126387/pdfs/420888db-5c53-42d7-9588-e24367f07cf5.pdf?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Lidl%2520BE%2520NL%2520-%2520nl%2520folder%252015-06-20-06.pdf",
           "status": 200,
           "live": true
         }
@@ -59,7 +59,7 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-15T11:03:05.244Z",
+      "scrapedAt": "2026-06-15T19:08:03.647Z",
       "folderCount": 1,
       "dealCount": 1,
       "hasEmbed": true,
@@ -101,14 +101,20 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-15T11:04:05.679Z",
+      "scrapedAt": "2026-06-15T19:09:09.406Z",
       "folderCount": 1,
       "dealCount": 0,
-      "hasEmbed": false,
+      "hasEmbed": true,
       "hasPdf": false,
       "hasPages": true,
       "validationIssues": [],
-      "probeResults": []
+      "probeResults": [
+        {
+          "url": "https://cdn.ipaper.io/flipbooks/api/v3/latest.js",
+          "status": 200,
+          "live": true
+        }
+      ]
     },
     {
       "slug": "action",
@@ -137,9 +143,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-15T11:05:55.705Z",
+      "scrapedAt": "2026-06-15T19:10:54.125Z",
       "folderCount": 1,
-      "dealCount": 15,
+      "dealCount": 12,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,
@@ -152,9 +158,9 @@
       "status": "fresh",
       "attempts": 1,
       "dataAge": null,
-      "scrapedAt": "2026-06-15T11:06:27.151Z",
+      "scrapedAt": "2026-06-15T19:11:29.194Z",
       "folderCount": 1,
-      "dealCount": 147,
+      "dealCount": 176,
       "hasEmbed": false,
       "hasPdf": false,
       "hasPages": true,

@@ -17,7 +17,7 @@
         }
       ],
       "contentSource": "screenshot",
-      "scrapedAt": "2026-06-15T11:05:35.506Z"
+      "scrapedAt": "2026-06-15T19:10:32.669Z"
     }
   ],
   "deals": [
@@ -39,14 +39,6 @@
     },
     {
       "id": "html-20",
-      "product": "Wijde geklede broek",
-      "imageUrl": "https://image.hm.com/assets/hm/bf/9a/bf9ab5f25f80a7612a04526f18ec042f1bbd6a34.jpg?imwidth=360",
-      "validFrom": "2026-06-15",
-      "validUntil": "2026-06-21",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-21",
       "product": "Top met gehaakte look",
       "imageUrl": "https://image.hm.com/assets/hm/77/12/7712e6fa3c74b2636e770ec250d3259ee6a11387.jpg?imwidth=360",
       "validFrom": "2026-06-15",
@@ -54,7 +46,23 @@
       "retailerSlug": "hm"
     },
     {
+      "id": "html-21",
+      "product": "Wijde geklede broek",
+      "imageUrl": "https://image.hm.com/assets/hm/bf/9a/bf9ab5f25f80a7612a04526f18ec042f1bbd6a34.jpg?imwidth=360",
+      "validFrom": "2026-06-15",
+      "validUntil": "2026-06-21",
+      "retailerSlug": "hm"
+    },
+    {
       "id": "html-22",
+      "product": "Crinklerok met trekkoord",
+      "imageUrl": "https://image.hm.com/assets/hm/fc/e8/fce81dc83f0c5d28870f9df1bb0751fdc219a998.jpg?imwidth=360",
+      "validFrom": "2026-06-15",
+      "validUntil": "2026-06-21",
+      "retailerSlug": "hm"
+    },
+    {
+      "id": "html-23",
       "product": "Handtas met kralen",
       "imageUrl": "https://image.hm.com/assets/hm/36/d0/36d0ae6a35f8ab08fc235f332649883592ebf19c.jpg?imwidth=360",
       "validFrom": "2026-06-15",
@@ -62,30 +70,22 @@
       "retailerSlug": "hm"
     },
     {
-      "id": "html-23",
-      "product": "Ajourgebreide top met volants",
-      "imageUrl": "https://image.hm.com/assets/hm/f8/88/f888660ca63ed158a0b711368d531664e866b936.jpg?imwidth=360",
-      "validFrom": "2026-06-15",
-      "validUntil": "2026-06-21",
-      "retailerSlug": "hm"
-    },
-    {
       "id": "html-24",
-      "product": "Crinklerok met trekkoord",
+      "product": "Ajourgebreide top met volants",
       "validFrom": "2026-06-15",
       "validUntil": "2026-06-21",
       "retailerSlug": "hm"
     },
     {
       "id": "html-25",
-      "product": "Cheeky bikinislip",
+      "product": "Strandkaftan van mousselinekatoen",
       "validFrom": "2026-06-15",
       "validUntil": "2026-06-21",
       "retailerSlug": "hm"
     },
     {
       "id": "html-26",
-      "product": "Bandeaujurk met smokwerk",
+      "product": "Cheeky bikinislip",
       "validFrom": "2026-06-15",
       "validUntil": "2026-06-21",
       "retailerSlug": "hm"
@@ -99,7 +99,7 @@
     },
     {
       "id": "html-28",
-      "product": "Strandkaftan van mousselinekatoen",
+      "product": "Geribde tanktop",
       "validFrom": "2026-06-15",
       "validUntil": "2026-06-21",
       "retailerSlug": "hm"
@@ -110,31 +110,9 @@
       "validFrom": "2026-06-15",
       "validUntil": "2026-06-21",
       "retailerSlug": "hm"
-    },
-    {
-      "id": "html-17",
-      "product": "Zwemshort",
-      "imageUrl": "https://image.hm.com/assets/hm/8d/0d/8d0d8a026442ae3862378ac43f1597e3f570a5f7.jpg?imwidth=360",
-      "validFrom": "2026-06-15",
-      "validUntil": "2026-06-21",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-24",
-      "product": "Zwemslip",
-      "validFrom": "2026-06-15",
-      "validUntil": "2026-06-21",
-      "retailerSlug": "hm"
-    },
-    {
-      "id": "html-28",
-      "product": "Sweatshort Regular Fit",
-      "validFrom": "2026-06-15",
-      "validUntil": "2026-06-21",
-      "retailerSlug": "hm"
     }
   ],
-  "scrapedAt": "2026-06-15T11:05:55.705Z",
+  "scrapedAt": "2026-06-15T19:10:54.125Z",
   "sourceUrls": [
     "https://www2.hm.com/nl_be/sale/dames/view-all.html"
   ],
