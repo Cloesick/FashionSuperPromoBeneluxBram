@@ -2,33 +2,30 @@
   "retailer": "aldi",
   "folders": [
     {
-      "id": "aldi-2026-w24-folder",
+      "id": "aldi-2026-w25-folder",
       "retailerSlug": "aldi",
       "title": "ALDI folder van de week",
-      "validFrom": "2026-06-08",
-      "validUntil": "2026-06-14",
+      "validFrom": "2026-06-15",
+      "validUntil": "2026-06-21",
       "pageCount": 1,
-      "thumbnailUrl": "/screenshots/aldi-2026-w24-viewerimg-p1.webp",
+      "thumbnailUrl": "/screenshots/aldi-2026-w25-viewerimg-p1.webp",
       "pages": [
         {
           "pageNumber": 1,
-          "imageUrl": "/screenshots/aldi-2026-w24-viewerimg-p1.webp",
+          "imageUrl": "/screenshots/aldi-2026-w25-viewerimg-p1.webp",
           "deals": []
         }
       ],
-      "embedUrl": "https://cdn.ipaper.io/flipbooks/api/v3/latest.js",
-      "contentSource": "ipaper",
-      "scrapedAt": "2026-06-14T16:22:46.746Z"
+      "contentSource": "screenshot",
+      "scrapedAt": "2026-06-15T11:04:02.149Z"
     }
   ],
   "deals": [],
-  "scrapedAt": "2026-06-14T16:22:52.579Z",
+  "scrapedAt": "2026-06-15T11:04:05.679Z",
   "sourceUrls": [
-    "https://www.aldi.be/nl/onze-folders/folder-van-deze-week.html",
-    "https://cdn.ipaper.io/flipbooks/api/v3/latest.js"
+    "https://www.aldi.be/nl/onze-folders/folder-van-deze-week.html"
   ],
   "methods": [
-    "ipaper",
     "screenshot"
   ]
 }
